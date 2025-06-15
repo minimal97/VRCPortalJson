@@ -1,0 +1,31 @@
+{
+  "portallist": [
+    {
+      "category": "カテゴリA",
+      "Description": "これはカテゴリAの説明です。",
+      "portal": [
+        {
+          "Name": "行先1",
+          "ID": "001",
+          "Description": "行先1の説明"
+        },
+        {
+          "Name": "行先2",
+          "ID": "002",
+          "Description": "行先2の説明"
+        }
+      ]
+    },
+    {
+      "category": "カテゴリB",
+      "Description": "これはカテゴリBの説明です。",
+      "portal": [
+        {
+          "Name": "行先3",
+          "ID": "003",
+          "Description": "行先3の説明"
+        }
+      ]
+    }
+  ]
+}
