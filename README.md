@@ -1,0 +1,2 @@
+# VRCPortalJson
+VRchat PortalWorld用
