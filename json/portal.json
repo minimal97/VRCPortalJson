@@ -1,57 +1,61 @@
 {
-  "portallist": [
-    {
-      "category": "カテゴリA",
-      "Description": "これはカテゴリAの説明です。",
-      "portal": [
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": true,
+    "Categorys": [
         {
-          "Name": "Price Guess",
-          "ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
-          "Description": "行先1の説明"
+            "Category": "ゲーム",
+            "Worlds": [
+                {
+                    "ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+                    "Name": "Price Guess"
+                },
+                {
+                    "ID": "wrld_9898922f-9b89-47ce-b9f3-e47f1bc79560",
+                    "Name": "財宝シーカー - Treasure Seeker"
+                }
+            ]
         },
         {
-          "Name": "財宝シーカー - Treasure Seeker",
-          "ID": "wrld_9898922f-9b89-47ce-b9f3-e47f1bc79560",
-          "Description": "行先2の説明"
+            "Category": "test",
+            "Worlds": [
+                {
+                    "ID": "wrld_70664568-a6d6-4261-8cfa-f92294d6cd20",
+                    "Name": "Museum of Fine Arts"
+                }
+             ]
+        },
+        {
+            "Category": "自分のフォトグラメトリ",
+            "Worlds": [
+                {
+                    "ID": "wrld_c14f9df3-bb86-4587-a635-094dc922c13b",
+                    "Name": "フォトグラメトリ置き場 photogrammetry"
+                },
+                {
+                  "Name": "フォトグラメトリ置き場2 photogrammetry2",
+                  "ID": "wrld_cc21bbaa-b2e0-419d-83c0-2ad2dfde02ef"
+                },
+                {
+                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
+                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
+                },
+                {
+                  "Name": "フォトグラメトリ置き場3.5（USJ） photogrammetry3.5",
+                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
+                },
+                {
+                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
+                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
+                },
+                {
+                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
+                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
+                },
+                {
+                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
+                  "ID": "wrld_33b73325-5b1d-4696-90dd-12f02e32d93d"
+                }
+             ]
         }
-      ]
-    },
-    {
-      "category": "カテゴリB",
-      "Description": "これはカテゴリBの説明です。",
-      "portal": [
-        {
-          "Name": "Museum of Fine Arts",
-          "ID": "wrld_70664568-a6d6-4261-8cfa-f92294d6cd20",
-          "Description": "行先3の説明"
-        }
-      ]
-    },
-    {
-      "category": "自分のフォトグラメトリ",
-      "Description": "自分のフォトグラメトリ",
-      "portal": [
-        {
-          "Name": "フォトグラメトリ置き場 photogrammetry",
-          "ID": "wrld_c14f9df3-bb86-4587-a635-094dc922c13b",
-          "Description": "フォトグラメトリ置き場"
-        },
-        {
-          "Name": "フォトグラメトリ置き場2 photogrammetry2",
-          "ID": "wrld_cc21bbaa-b2e0-419d-83c0-2ad2dfde02ef",
-          "Description": "フォトグラメトリ置き場2"
-        },
-        {
-          "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
-          "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307",
-          "Description": "フォトグラメトリ置き場3 （USJ Nintendo World）"
-        },
-        {
-          "Name": "フォトグラメトリ置き場3?5（USJ） photogrammetry3.5",
-          "ID": "wrld_33b73325-5b1d-4696-90dd-12f02e32d93d",
-          "Description": "フォトグラメトリ置き場3.5 （USJ）"
-        }
-      ]
-    }
-  ]
+    ]
 }
