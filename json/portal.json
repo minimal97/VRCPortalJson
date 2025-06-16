@@ -45,6 +45,26 @@
                 {
                     "ID": "wrld_3ba79024-fb80-42e5-bd63-35ddb792acd8",
                     "Name": "mountain expedition"
+                },
+                {
+                    "ID": "wrld_fe8835b1-0e18-4db8-bf52-035fc0910e74",
+                    "Name": "Snowy Valley Forest"
+                },
+                {
+                    "ID": "wrld_4cd2ca79-abf6-414e-b809-d4d476c4b065",
+                    "Name": "A Fine Line"
+                },
+                {
+                    "ID": "wrld_a8912308-d979-407e-b744-4a6a760ff86e",
+                    "Name": "Horse Mountain"
+                },
+                {
+                    "ID": "wrld_95382a14-7f8b-4343-95cd-a4067c06df92",
+                    "Name": "Totally Realistic Skiing Experience"
+                },
+                {
+                    "ID": "wrld_b86fcddc-5569-441b-8864-516741651975",
+                    "Name": "KTEK-Blackbox"
                 }
             ]
         },
@@ -58,6 +78,10 @@
                 {
                     "ID": "wrld_8bf975c4-2a47-4459-b203-2295950fc7b5",
                     "Name": "Back to the Future The Ride"
+                },
+                {
+                    "ID": "wrld_3fe8be4d-974b-405a-a21f-a518345e86a2",
+                    "Name": "Twin Pines Mall"
                 },
                 {
                     "ID": "wrld_ec67e163-3035-49ae-92d6-db2711b52820",
@@ -82,6 +106,10 @@
                 {
                     "ID": "wrld_f6df147a-da75-4d1a-83a1-5ca756a5f92a",
                     "Name": "The Gold Room"
+                },
+                {
+                    "ID": "wrld_f84c86e8-28f1-42f3-b2fa-88a7fc19ea56",
+                    "Name": "The Matrix ｜ The Construct"
                 }
              ]
         },
@@ -107,6 +135,14 @@
                 {
                     "ID": "wrld_a9d89ace-8a47-4e60-8ddf-480a6b66217e",
                     "Name": "Rooms 4 Dayz"
+                },
+                {
+                    "ID": "wrld_7f59eba6-a013-46af-ae06-ca4151efa75e",
+                    "Name": "Oia Lookout"
+                },
+                {
+                    "ID": "wrld_b8b5f36c-4c48-4d4f-9911-bf3df0f5c95b",
+                    "Name": "The Palace"
                 }
              ]
         },
