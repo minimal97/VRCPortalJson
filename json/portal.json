@@ -29,31 +29,27 @@
             "Worlds": [
                 {
                     "ID": "wrld_c14f9df3-bb86-4587-a635-094dc922c13b",
-                    "Name": "フォトグラメトリ置き場 photogrammetry"
+                    "Name": "フォトグラメトリ置き場"
                 },
                 {
-                  "Name": "フォトグラメトリ置き場2 photogrammetry2",
-                  "ID": "wrld_cc21bbaa-b2e0-419d-83c0-2ad2dfde02ef"
+                    "Name": "フォトグラメトリ置き場2",
+                    "ID": "wrld_cc21bbaa-b2e0-419d-83c0-2ad2dfde02ef"
                 },
                 {
-                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
-                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
+                    "Name": "フォトグラメトリ置き場3（USJ Nintendo World）",
+                    "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
                 },
                 {
-                  "Name": "フォトグラメトリ置き場3.5（USJ） photogrammetry3.5",
-                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
+                    "Name": "フォトグラメトリ置き場3.5（USJ）",
+                    "ID": "wrld_33b73325-5b1d-4696-90dd-12f02e32d93d"
                 },
                 {
-                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
-                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
+                    "Name": "フォトグラメトリ置き場4(おもちゃ屋)",
+                    "ID": "wrld_f9d7af46-cdfc-4c5e-b542-ac7a618d6d55"
                 },
                 {
-                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
-                  "ID": "wrld_80079ed9-5963-4560-8918-39ea52a87307"
-                },
-                {
-                  "Name": "フォトグラメトリ置き場3 photogrammetry3（USJ Nintendo World）",
-                  "ID": "wrld_33b73325-5b1d-4696-90dd-12f02e32d93d"
+                    "Name": "フォトグラメトリ置き場5",
+                    "ID": "wrld_69f10589-44f8-4a81-91d3-21080e4494b7"
                 }
              ]
         }
