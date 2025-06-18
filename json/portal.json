@@ -36,6 +36,10 @@
                 {
                     "ID": "wrld_03e79a01-6d5c-4d56-a055-7e2adb79deda",
                     "Name": "限定しりとり Gentei Shiritori"
+                },
+                {
+                    "ID": "wrld_ff0b45e3-c832-4c65-9ddb-406803a30ddc",
+                    "Name": "Semi-Auto Poker table 半自動ポーカー卓"
                 }
             ]
         },
@@ -110,6 +114,22 @@
                 {
                     "ID": "wrld_f84c86e8-28f1-42f3-b2fa-88a7fc19ea56",
                     "Name": "The Matrix ｜ The Construct"
+                },
+                {
+                    "ID": "wrld_1a35e5be-345f-4a54-8fe2-ce74928b2daa",
+                    "Name": "Bag End - Hobbiton - Day"
+                },
+                {
+                    "ID": "wrld_aac07023-7911-49a2-bb84-bd476856574f",
+                    "Name": "Howl's Moving Castle"
+                },
+                {
+                    "ID": "wrld_aac07023-7911-49a2-bb84-bd476856574f",
+                    "Name": "Howl's Moving Castle"
+                },
+                {
+                    "ID": "wrld_1f9c89fc-cc2f-47f5-adea-557ec1ce1410",
+                    "Name": "Tycho Magnetic Anomaly-1"
                 }
              ]
         },
@@ -304,6 +324,10 @@
                 {
                     "Name": "フォトグラメトリ置き場6",
                     "ID": "wrld_13b6da1c-3ea4-4e53-b4c0-7028d28c3c15"
+                },
+                {
+                    "Name": "フォトグラメトリ置き場7 駄菓子や",
+                    "ID": "wrld_ed4e7b2f-404e-4598-8365-6eba17e06826"
                 }
              ]
         }
