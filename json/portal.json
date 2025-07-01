@@ -104,6 +104,10 @@
                     "Name": "Jetski Islet"
                 },
                 {
+                    "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
+                    "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-"
+                },
+                {
                     "ID": "wrld_66b25766-e60c-43c3-a2e2-2009ee21151b",
                     "Name": "Hakoniwa Tropics"
                 }
@@ -230,8 +234,12 @@
                     "Name": "_studio"
                 },
                 {
+                    "ID": "wrld_5e8adb56-e91f-4e92-93e4-df04a5398395",
+                    "Name": "_REALITY"
+                },
+                {
                     "ID": "wrld_957b8ad9-0241-4ab7-9006-af726532b4ac",
-                    "Name": "_recovered?SHELTER2.mrg"
+                    "Name": "_recovered SHELTER2.mrg"
                 },
                 {
                     "ID": "wrld_5e5511b0-9ef3-419a-bb5a-aa301089607e",
@@ -242,8 +250,16 @@
                     "Name": "Myrlie Hall"
                 },
                 {
+                    "ID": "wrld_14241f0e-56b1-4f83-b672-d3d546e321c5",
+                    "Name": "SAKURA hiroba"
+                },
+                {
                     "ID": "wrld_b981e35e-597f-4604-a06b-d92188bf89e9",
                     "Name": "Storm Drain"
+                },
+                {
+                    "ID": "wrld_e7869587-3810-47f1-aceb-3ea984b494f1",
+                    "Name": "Guest House"
                 },
                 {
                     "ID": "wrld_af51bdee-db4b-45ae-9dc6-d9d6f0eaa69f",
@@ -358,6 +374,10 @@
                     "Name": "現代仮想美術館"
                 },
                 {
+                    "ID": "wrld_bbb77155-1015-4828-8e4c-bbccef84e038",
+                    "Name": "筑波大学タンデム加速器施設UTTACーメタバース博物館"
+                },
+                {
                     "ID": "wrld_90d08aeb-eaf4-4279-a764-166517672b94",
                     "Name": "メタバース加速器博物館 （MAM） 玄関ホール"
                 }
@@ -470,6 +490,10 @@
                 {
                     "ID": "wrld_f1f126d4-d9b0-4ae6-94b8-4d310dd4acbd",
                     "Name": "US Neighborhood"
+                },
+                {
+                    "ID": "wrld_0d3d11ec-8520-414a-9c80-728242e38982",
+                    "Name": "Nowhere"
                 }
              ]
         },
