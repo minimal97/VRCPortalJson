@@ -576,6 +576,19 @@
              ]
         },
         {
+            "Category": "ホラー",
+            "Worlds": [
+                {
+                    "ID": "wrld_ac2fd7fa-c655-4ade-9345-6a7964505061",
+                    "Name": "_00001"
+                },
+                {
+                    "ID": "wrld_1b5fd822-f8b0-4b23-83b8-dc8c3ebafcca",
+                    "Name": "ほらーたうん"
+                }
+             ]
+        },
+        {
             "Category": "テスト",
             "Worlds": [
                 {
@@ -599,28 +612,12 @@
                     "Name": "The Backroom"
                 },
                 {
-                    "ID": "wrld_ac2fd7fa-c655-4ade-9345-6a7964505061",
-                    "Name": "_00001"
-                },
-                {
-                    "ID": "wrld_1b5fd822-f8b0-4b23-83b8-dc8c3ebafcca",
-                    "Name": "ほらーたうん"
-                },
-                {
-                    "ID": "wrld_328c7a03-9d61-4249-a945-c8944ce2fee5",
-                    "Name": "Horror Jokes world 小枠内館の謎"
-                },
-                {
                     "ID": "wrld_328c7a03-9d61-4249-a945-c8944ce2fee5",
                     "Name": "Horror Jokes world 小枠内館の謎"
                 },
                 {
                     "ID": "wrld_85c268aa-4059-46e7-b852-aab8d96b6ab9",
                     "Name": "Dissociation"
-                },
-                {
-                    "ID": "wrld_1f2ca1c2-b8f9-4582-ab17-156184dbd7f6",
-                    "Name": "6G Experience"
                 },
                 {
                     "ID": "wrld_265374ad-93e0-4016-945c-3435ab762a96",
@@ -639,10 +636,6 @@
                     "Name": "Swamp Island"
                 },
                 {
-                    "ID": "wrld_81a40460-012a-46c6-aad5-570d94625455",
-                    "Name": "Pyramid Nightmare"
-                },
-                {
                     "ID": "wrld_911d68d8-0c33-445a-857b-456ffbc21237",
                     "Name": "MARY"
                 },
@@ -656,7 +649,7 @@
                 },
                 {
                     "ID": "wrld_09536d2a-2623-464a-bdc5-1e35587be9f3",
-                    "Name": "Siren? Blood Curse｜セイレーン 血の呪い ｜ PlayStation Home"
+                    "Name": "Siren Blood Curse｜セイレーン 血の呪い ｜ PlayStation Home"
                 },
                 {
                     "ID": "wrld_7fa4285b-9597-4552-b2a2-6c7a4fb4a45f",
@@ -675,6 +668,15 @@
                     "Name": "Fox's Horror Demo Reel"
                 }
              ]
-        }
+        },
+        {
+            "Category": "無理",
+            "Worlds": [
+                {
+                    "ID": "wrld_1f2ca1c2-b8f9-4582-ab17-156184dbd7f6",
+                    "Name": "6G Experience"
+                }
+             ]
+        },
     ]
 }
