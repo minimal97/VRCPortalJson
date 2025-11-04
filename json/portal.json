@@ -702,7 +702,7 @@
              ]
         },
         {
-            "Category": "フォトグラメトリ 3DGS",
+            "Category": "フォトグラメトリ / 3DGS",
             "Worlds": [
                 {
                     "ID": "wrld_4f9641d0-fc69-4542-9690-938381cb1784",
@@ -715,6 +715,10 @@
                 {
                     "ID": "wrld_1643d0ee-76a7-491a-a5f0-0064c5906b61",
                     "Name": "京都市考古資料館"
+                },
+                {
+                    "ID": "wrld_4572d754-aa23-4f6a-b648-b764378bffab",
+                    "Name": "Liberty Island and Statue Inside Experience"
                 }
              ]
         },
@@ -889,6 +893,18 @@
                 {
                     "ID": "wrld_eb20b089-9a4f-4494-a4a0-d36bd80fca49",
                     "Name": "modern house"
+                },
+                {
+                    "ID": "wrld_0e42091b-b12b-4f86-a8c4-80837f697ea1",
+                    "Name": "---"
+                },
+                {
+                    "ID": "wrld_93bfe69a-c239-4dd2-aa7a-c7a297ef156e",
+                    "Name": "Poolroom Wonderland"
+                },
+                {
+                    "ID": "wrld_93bfe69a-c239-4dd2-aa7a-c7a297ef156e",
+                    "Name": "Poolroom Wonderland"
                 }
              ]
         },
