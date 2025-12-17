@@ -156,6 +156,22 @@
                 {
                     "ID": "wrld_3df71090-3d5b-4cac-8b08-ea45c4e2518e",
                     "Name": "ShootingBattleVRC"
+                },
+                {
+                    "ID": "wrld_0ccde669-6993-448e-b460-b47f6f0abbd9",
+                    "Name": "Daytona USA VR （Advanced）"
+                },
+                {
+                    "ID": "wrld_58143755-2f7c-4c7e-9ef7-273e7c6a9294",
+                    "Name": "Mimic"
+                },
+                {
+                    "ID": "wrld_ec591cd2-6300-415b-8e0b-0d87a55db42d",
+                    "Name": "EMPEROR （α）"
+                },
+                {
+                    "ID": "wrld_f4b66402-33a1-4ccb-800b-585e3cc08b9f",
+                    "Name": "合体オモロワード"
                 }
             ]
         },
@@ -510,6 +526,14 @@
                 {
                     "ID": "wrld_ee946339-af92-49bb-acb0-04b014618cc8",
                     "Name": "ATOM"
+                },
+                {
+                    "ID": "wrld_793f88dd-227b-4f1b-aea7-f4342c5bb66d",
+                    "Name": "Liminal Hotel"
+                },
+                {
+                    "ID": "wrld_4921ccd6-56eb-4af5-8c3f-7991b01dc83f",
+                    "Name": "Veiled Dark"
                 }
              ]
         },
@@ -583,6 +607,10 @@
                 {
                     "ID": "wrld_fa60f6cb-9342-40ba-85c4-bae15e10ab5a",
                     "Name": "Midsommar"
+                },
+                {
+                    "ID": "wrld_aca20efe-419a-466f-9245-4b382fc2385f",
+                    "Name": "White Room"
                 }
              ]
         },
@@ -931,6 +959,10 @@
                 {
                     "ID": "wrld_8b77dcd3-5738-4fbf-a7f1-c51c9b771f4f",
                     "Name": "Tent Of Terror"
+                },
+                {
+                    "ID": "wrld_e7014177-6e35-4407-8de5-909fbe4647fb",
+                    "Name": "Doll The Beginning"
                 }
              ]
         },
@@ -1112,6 +1144,14 @@
                 {
                     "ID": "wrld_29ed52b4-f39f-4874-a012-c95d8eff02a2",
                     "Name": "Wobblins' Digital Circus"
+                },
+                {
+                    "ID": "wrld_1bc5b403-5689-4e4a-910c-7e9ceadf986a",
+                    "Name": "Shake your Peanut"
+                },
+                {
+                    "ID": "wrld_8f551cc3-7411-4276-b74e-07e1915e116e",
+                    "Name": "Ziston Market"
                 }
              ]
         },
