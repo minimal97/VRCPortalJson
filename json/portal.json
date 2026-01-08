@@ -172,6 +172,10 @@
                 {
                     "ID": "wrld_f4b66402-33a1-4ccb-800b-585e3cc08b9f",
                     "Name": "合体オモロワード"
+                },
+                {
+                    "ID": "wrld_0ef0f3d6-96c4-472d-8732-23dacbea4390",
+                    "Name": "The Renegade"
                 }
             ]
         },
@@ -534,6 +538,14 @@
                 {
                     "ID": "wrld_4921ccd6-56eb-4af5-8c3f-7991b01dc83f",
                     "Name": "Veiled Dark"
+                },
+                {
+                    "ID": "wrld_0c7205a6-23a0-43a6-b2c8-fb6b669700b9",
+                    "Name": "Kagaribi Onsen ［Cave］"
+                },
+                {
+                    "ID": "wrld_03ce1cc7-78de-4315-8b5b-30e57c63e067",
+                    "Name": "Umbral Nursery"
                 }
              ]
         },
@@ -848,6 +860,10 @@
                 {
                     "ID": "wrld_8775f283-e249-4671-824b-d8658891069c",
                     "Name": "Belc Land"
+                },
+                {
+                    "ID": "wrld_fbd1f4a3-5132-4835-84b3-f319dd1e04f9",
+                    "Name": "デザインコラボミュージアム2024"
                 }
              ]
         },
@@ -910,6 +926,18 @@
                 {
                     "ID": "wrld_8460ba72-6e84-4996-87af-4da6261d4bc0",
                     "Name": "ホテルアルティアダイナソー岐阜店_601"
+                },
+                {
+                    "ID": "wrld_1b37d82c-2963-4e85-9b0d-5885b9d40bf1",
+                    "Name": "神農街 Shennong Street"
+                },
+                {
+                    "ID": "wrld_7a5acf0f-043e-421f-b3aa-b64f5acc37e2",
+                    "Name": "バーチャル博物館～フォトグラメトリーの館～"
+                },
+                {
+                    "ID": "wrld_a0b26d54-b6c3-4ad8-9db2-8021a3194d89",
+                    "Name": "Saga-jinja Shrine -佐牙神社-"
                 }
              ]
         },
@@ -963,6 +991,14 @@
                 {
                     "ID": "wrld_e7014177-6e35-4407-8de5-909fbe4647fb",
                     "Name": "Doll The Beginning"
+                },
+                {
+                    "ID": "wrld_c842eb8c-d621-408f-a63f-7e1f917d6ff3",
+                    "Name": "Developed Fears ［V4.3］（BROKEN!）"
+                },
+                {
+                    "ID": "wrld_bc7d3880-a367-47d1-ace5-28da461b6d91",
+                    "Name": "Compound 49 1.1"
                 }
              ]
         },
