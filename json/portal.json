@@ -184,6 +184,7 @@
                 {
                     "ID": "wrld_98566e00-d7e2-4dba-a79f-ae0a2040f3d9",
                     "Name": "VRC限界しりとり"
+                },
                     "ID": "wrld_e386c7a2-8be7-4458-b3fe-1a94ba09739f",
                     "Name": "ダークなファンタジーワールド～DarkFantasy～"
                 },
@@ -394,7 +395,7 @@
                     "Name": "The Palace"
                 },
                 {
-                    "ID": "wrld_e23a0cc3-9c26-4b40-bcf7-2341018a95a6wrld_e23a0cc3-9c26-4b40-bcf7-2341018a95a6",
+                    "ID": "wrld_e23a0cc3-9c26-4b40-bcf7-2341018a95a6",
                     "Name": "Non-finite metro space"
                 },
                 {
@@ -508,10 +509,6 @@
                 {
                     "ID": "wrld_55aa6c0c-d6c6-4882-9958-8d75a0eaa067",
                     "Name": "Dreamlite Drive-In"
-                },
-                {
-                    "ID": "wrld_b981e35e-597f-4604-a06b-d92188bf89e9",
-                    "Name": "Storm Drain"
                 },
                 {
                     "ID": "wrld_953570c1-565f-464d-bf22-cfaea7a8b5f1",
@@ -674,10 +671,6 @@
                 {
                     "ID": "wrld_d07e61f1-41ad-4f0b-b1ee-6724f4e64dce",
                     "Name": "Dune Surfing"
-                },
-                {
-                    "ID": "wrld_1758262f-d974-4bd8-a876-a68e7cd7ec1b",
-                    "Name": "Nostromo"
                 },
                 {
                     "ID": "wrld_1758262f-d974-4bd8-a876-a68e7cd7ec1b",
@@ -1021,6 +1014,7 @@
                 {
                     "ID": "wrld_6f12697a-e7ac-4d96-9bbf-fe79338386e7",
                     "Name": "フォトグラ"
+                },
                     "ID": "wrld_aee9c5dc-ddd6-4c7a-b3a8-7958ee778511",
                     "Name": "Inunakisan Shipporyuji temple"
                 },
@@ -1253,10 +1247,6 @@
                 {
                     "ID": "wrld_0e42091b-b12b-4f86-a8c4-80837f697ea1",
                     "Name": "---"
-                },
-                {
-                    "ID": "wrld_93bfe69a-c239-4dd2-aa7a-c7a297ef156e",
-                    "Name": "Poolroom Wonderland"
                 },
                 {
                     "ID": "wrld_93bfe69a-c239-4dd2-aa7a-c7a297ef156e",
