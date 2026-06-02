@@ -1343,6 +1343,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_4bcdb02e-8c43-4831-8343-58f7f636eb28",
+                    "Name": "HANGOUT"
+                },
+                {
+                    "ID": "wrld_2f378a90-0358-4796-9baf-b02ae25b17ec",
+                    "Name": "Lockheed room"
+                },
+                {
+                    "ID": "wrld_76641599-cac5-4e22-9013-f8050240377d",
+                    "Name": "めろんつの怪しい部屋"
+                },
+                {
+                    "ID": "wrld_c965e1a1-86d0-4964-a6e6-9432b4ed9d5f",
+                    "Name": "Warm Vibes"
+                },
+                {
+                    "ID": "wrld_3593b148-c3e7-4c06-b593-81d78a7a6deb",
+                    "Name": "ただの部屋"
+                },
+                {
+                    "ID": "wrld_f42b45e3-1d7a-4e3f-aa65-f87fe3be6c1f",
+                    "Name": "SLEEPINGHOUSE"
+                },
+                {
+                    "ID": "wrld_4e383bf3-c671-4040-a150-8fdb85f16c85",
+                    "Name": "la chambre tommy"
+                },
+                {
+                    "ID": "wrld_6ac7f7e9-3613-4e34-b165-e48c046fea94",
+                    "Name": "songene"
+                },
+                {
+                    "ID": "wrld_16f1965b-fa8c-4eb6-b4c5-4568c431f397",
+                    "Name": "しのさわ写真館 別館"
+                },
+                {
+                    "ID": "wrld_cfb74d02-1ed2-4783-956a-8784d56dc4b6",
+                    "Name": "Sil Lou At Home v3"
+                },
+                {
+                    "ID": "wrld_6d262ae6-b357-4e0f-88cf-79018bd012b5",
+                    "Name": "佐藤の追憶記念館 anavelsato`s Memorial Hall"
+                },
+                {
                     "ID": "wrld_39d229fe-c641-4792-83a6-27e67d6cb8b2",
                     "Name": "小咸鱼的有趣小屋SaltyFish's Home"
                 },
@@ -1417,26 +1461,6 @@
                 {
                     "ID": "wrld_4b0fe54f-436b-42ec-8f9f-a8dcc1b85a17",
                     "Name": "Just Plane"
-                },
-                {
-                    "ID": "wrld_29b54c32-2d66-4b7b-a231-077ab7c67b9c",
-                    "Name": "relax nr 3"
-                },
-                {
-                    "ID": "wrld_a475eb2e-c6ea-4256-adc3-4b63fc97ce3a",
-                    "Name": "Crystal Haven （Avatars ＋ Hangout）"
-                },
-                {
-                    "ID": "wrld_1526b6b0-e500-44cd-ac36-8f04aa7329b3",
-                    "Name": "Mazza's Lounge"
-                },
-                {
-                    "ID": "wrld_e9e8b352-a94b-49cf-9d52-e2d8b09a5632",
-                    "Name": "洗濯バサミギャラクシー"
-                },
-                {
-                    "ID": "wrld_1bb600a3-709c-4283-8b28-b02a12f0dc0e",
-                    "Name": "test"
                 }
             ]
         }
