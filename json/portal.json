@@ -1343,6 +1343,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_6e9566a8-26bc-46c2-9509-03ff22842d2a",
+                    "Name": "Insamnia's Room"
+                },
+                {
+                    "ID": "wrld_ac1451b5-2cab-4bad-956a-d25d406654a4",
+                    "Name": "MyHome"
+                },
+                {
+                    "ID": "wrld_1931ab5f-1d3f-4b00-a692-8853a97cadfd",
+                    "Name": "Grave_Island"
+                },
+                {
+                    "ID": "wrld_812375c1-ea82-4140-8df7-705ca4bf22d1",
+                    "Name": "Bernie contend world"
+                },
+                {
+                    "ID": "wrld_f8fe7a23-063f-4a40-8dd4-eec29f40a3f8",
+                    "Name": "Podcast Fanatic"
+                },
+                {
+                    "ID": "wrld_888fc04e-f7fa-4fc4-8d59-964d55684fee",
+                    "Name": "Munchie Hnagout⁄avis"
+                },
+                {
+                    "ID": "wrld_67c1a552-28e9-41c1-a03f-6128c79fd05d",
+                    "Name": "Jeux de société"
+                },
+                {
+                    "ID": "wrld_57bcabae-3057-412e-90f8-84d3eacc01bc",
+                    "Name": "Egyptian Home"
+                },
+                {
+                    "ID": "wrld_d025ed63-f4ec-435f-b516-ba6668bd9569",
+                    "Name": "PLC HQ"
+                },
+                {
+                    "ID": "wrld_ed6602d8-da3a-47ef-84ab-d8146d94225d",
+                    "Name": "KOS DoxList"
+                },
+                {
+                    "ID": "wrld_0ff92193-be6c-4212-9d28-cf60694d619a",
+                    "Name": "Dees treez"
+                },
+                {
                     "ID": "wrld_4bcdb02e-8c43-4831-8343-58f7f636eb28",
                     "Name": "HANGOUT"
                 },
@@ -1417,50 +1461,6 @@
                 {
                     "ID": "wrld_6c45bf1a-6c5c-4fc3-9ab2-ab89a370da05",
                     "Name": "みんなで集まる憩いの場"
-                },
-                {
-                    "ID": "wrld_0cacd326-fb30-4eb6-baf7-8a9dd69c07e3",
-                    "Name": "test room2"
-                },
-                {
-                    "ID": "wrld_1003344d-d7f2-4150-be49-248cfcef6140",
-                    "Name": "karaoke friends"
-                },
-                {
-                    "ID": "wrld_6d37f3a2-b10a-442a-a694-603c7a82391d",
-                    "Name": "Magic Munitions"
-                },
-                {
-                    "ID": "wrld_7059cc1b-6dec-4a61-b000-620b47382899",
-                    "Name": "bonfire_sleep"
-                },
-                {
-                    "ID": "wrld_4df43e7a-9bcd-40bc-8ee6-c630ab75eefb",
-                    "Name": "Star Warfare space port"
-                },
-                {
-                    "ID": "wrld_185d0d7e-c7cf-46d2-b3b1-6dd835833aaa",
-                    "Name": "hfhf"
-                },
-                {
-                    "ID": "wrld_ceb65d56-8abe-45af-ad12-93f30c1d899f",
-                    "Name": "屋台ごめすフルセット ⁄ Food stall ＂Gomesu＂"
-                },
-                {
-                    "ID": "wrld_19ecfdfd-1ffe-4e55-b85c-54731bc97adf",
-                    "Name": "pinka"
-                },
-                {
-                    "ID": "wrld_aa8f5959-4d07-4199-8470-870d3b3a477d",
-                    "Name": "さぐるまのおうち v0․25"
-                },
-                {
-                    "ID": "wrld_10454a8f-e9b5-4e70-a840-edcee829ce83",
-                    "Name": "［アーカイブ］ 朝活試作会場_202406"
-                },
-                {
-                    "ID": "wrld_4b0fe54f-436b-42ec-8f9f-a8dcc1b85a17",
-                    "Name": "Just Plane"
                 }
             ]
         }
