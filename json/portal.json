@@ -1343,6 +1343,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_bd37c245-6ccf-41d5-a3d3-64eda3457b81",
+                    "Name": "Brass Monkey Bar"
+                },
+                {
+                    "ID": "wrld_2a6a6d22-43bc-4908-a304-750dd98fd903",
+                    "Name": "黒猫コンテナカフェ"
+                },
+                {
+                    "ID": "wrld_5ba023da-cabf-4bf2-a884-d1196d34c391",
+                    "Name": "EasyPeasy Box"
+                },
+                {
+                    "ID": "wrld_52de4779-b526-499d-8f7a-6b3d46043e48",
+                    "Name": "COOLFIN IS STINKY"
+                },
+                {
+                    "ID": "wrld_577e4461-8dff-4caf-8f53-8099d9de0106",
+                    "Name": "Zenith's Chill Room"
+                },
+                {
+                    "ID": "wrld_7dfeb8a1-7a21-4020-988f-36aab8fd1c7f",
+                    "Name": "mqw Mesh"
+                },
+                {
+                    "ID": "wrld_ce0efb97-3209-48d0-8c61-ade1ecfbb7c7",
+                    "Name": "GingGukBab_V2"
+                },
+                {
+                    "ID": "wrld_f7cdfb81-c7a3-437c-a211-9a35bbc59bc8",
+                    "Name": "Chill Nights"
+                },
+                {
+                    "ID": "wrld_868c06e3-41e7-4d5b-adc1-3b80f2b6b86b",
+                    "Name": "Vertigo's Chill Hangout （Test）"
+                },
+                {
+                    "ID": "wrld_f903fd8b-1bb8-4b60-bbad-d71c3613551b",
+                    "Name": "さくらの広場"
+                },
+                {
+                    "ID": "wrld_335757fa-3153-4618-adfd-7a827968b09f",
+                    "Name": "Illyasviel von Einzbern"
+                },
+                {
                     "ID": "wrld_6e9566a8-26bc-46c2-9509-03ff22842d2a",
                     "Name": "Insamnia's Room"
                 },
@@ -1417,50 +1461,6 @@
                 {
                     "ID": "wrld_6ac7f7e9-3613-4e34-b165-e48c046fea94",
                     "Name": "songene"
-                },
-                {
-                    "ID": "wrld_16f1965b-fa8c-4eb6-b4c5-4568c431f397",
-                    "Name": "しのさわ写真館 別館"
-                },
-                {
-                    "ID": "wrld_cfb74d02-1ed2-4783-956a-8784d56dc4b6",
-                    "Name": "Sil Lou At Home v3"
-                },
-                {
-                    "ID": "wrld_6d262ae6-b357-4e0f-88cf-79018bd012b5",
-                    "Name": "佐藤の追憶記念館 anavelsato`s Memorial Hall"
-                },
-                {
-                    "ID": "wrld_39d229fe-c641-4792-83a6-27e67d6cb8b2",
-                    "Name": "小咸鱼的有趣小屋SaltyFish's Home"
-                },
-                {
-                    "ID": "wrld_2e1061e3-3a3e-4d2b-8a55-fc6915ac192a",
-                    "Name": "nonohome"
-                },
-                {
-                    "ID": "wrld_2e2fbf2c-29e3-4ba9-9c34-65c203c1e3d7",
-                    "Name": "マサラ ルーム"
-                },
-                {
-                    "ID": "wrld_e69bf0f4-9f62-4a87-9afd-a7fbbfab993d",
-                    "Name": "Nisepi's avater test room"
-                },
-                {
-                    "ID": "wrld_fc24bedf-d48e-4b43-9b8c-9a4a48979078",
-                    "Name": "ali g indahouse"
-                },
-                {
-                    "ID": "wrld_295d0f27-150a-4ca4-91c3-1b102a8383c8",
-                    "Name": "ModernRoom"
-                },
-                {
-                    "ID": "wrld_1f4eb5e5-c385-4b99-97cc-4aef3d3af976",
-                    "Name": "Sci Tech Chat in VRChat"
-                },
-                {
-                    "ID": "wrld_6c45bf1a-6c5c-4fc3-9ab2-ab89a370da05",
-                    "Name": "みんなで集まる憩いの場"
                 }
             ]
         }
