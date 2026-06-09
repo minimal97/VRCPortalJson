@@ -1343,6 +1343,14 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_a8816921-f746-451c-8566-a16ec15d75d1",
+                    "Name": "Vixen Heart's Chillout Homeworld"
+                },
+                {
+                    "ID": "wrld_ac34290a-5cfb-4436-9f80-1f9706661bc1",
+                    "Name": "'Mora's VoidSpace"
+                },
+                {
                     "ID": "wrld_1409aa95-1512-496c-8919-e84bc13a3b06",
                     "Name": "GuRoom"
                 },
@@ -1453,14 +1461,6 @@
                 {
                     "ID": "wrld_c125cecf-744b-4b95-98b5-0d3e5dc29a1c",
                     "Name": "Modern House"
-                },
-                {
-                    "ID": "wrld_6c746feb-8b63-4ed1-b1f7-7fe9f44e130d",
-                    "Name": "mi-room"
-                },
-                {
-                    "ID": "wrld_9a33d443-16f5-4988-802a-7337cfc9f288",
-                    "Name": "Club Neon Dreams"
                 }
             ]
         }
