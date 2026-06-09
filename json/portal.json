@@ -1343,6 +1343,30 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_1409aa95-1512-496c-8919-e84bc13a3b06",
+                    "Name": "GuRoom"
+                },
+                {
+                    "ID": "wrld_2fef0f2f-d055-44d2-adcc-1cd60e6333eb",
+                    "Name": "HEXED76"
+                },
+                {
+                    "ID": "wrld_9fc12563-d92c-4e70-8e50-317888ea3f9e",
+                    "Name": "kushCOOKIES Sanctum"
+                },
+                {
+                    "ID": "wrld_c83d5be8-0a96-44c1-bd05-9e023e002abd",
+                    "Name": "Comet's Hoyoverse Avatars"
+                },
+                {
+                    "ID": "wrld_221b1608-f3e3-4211-8d2e-85902cc05acb",
+                    "Name": "Horchata Club"
+                },
+                {
+                    "ID": "wrld_fc052cea-0dea-47a8-a00f-c39aa592df09",
+                    "Name": "シンプルDJワールド"
+                },
+                {
                     "ID": "wrld_3e2ef347-58cf-4bde-9de2-6f34e215a154",
                     "Name": "ALT⁄⁄R ˸ AIRZ"
                 },
@@ -1437,30 +1461,6 @@
                 {
                     "ID": "wrld_9a33d443-16f5-4988-802a-7337cfc9f288",
                     "Name": "Club Neon Dreams"
-                },
-                {
-                    "ID": "wrld_0a788b18-b5bb-4acb-814f-8f20a1454d4c",
-                    "Name": "ǃ gang names World"
-                },
-                {
-                    "ID": "wrld_a214864b-9de2-4746-9f20-7abdbdca9cce",
-                    "Name": "HOTEL_山谷園_22号室"
-                },
-                {
-                    "ID": "wrld_d9578ed3-354f-4869-91a9-15d29f3a243f",
-                    "Name": "no mark mansion"
-                },
-                {
-                    "ID": "wrld_35f6b32e-a0bc-4e48-922b-4483b994f710",
-                    "Name": "ウェーブ・パレード"
-                },
-                {
-                    "ID": "wrld_7657bde4-2ff8-409e-8401-dc704e6e31a2",
-                    "Name": "我要升紫名鸭"
-                },
-                {
-                    "ID": "wrld_c349a707-ab05-4d28-b0da-76828b7c368b",
-                    "Name": "MyTower"
                 }
             ]
         }
