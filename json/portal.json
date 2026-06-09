@@ -1343,6 +1343,18 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_8623741f-4528-4840-badb-97e875a8038a",
+                    "Name": "Duck's Apartment"
+                },
+                {
+                    "ID": "wrld_b1f247d9-2669-4957-8945-90ca887d14e7",
+                    "Name": "Elysian Expanse"
+                },
+                {
+                    "ID": "wrld_31f0dac1-f4d4-4cb9-8cda-6610fb2aba87",
+                    "Name": "Feral's Hideout"
+                },
+                {
                     "ID": "wrld_a8816921-f746-451c-8566-a16ec15d75d1",
                     "Name": "Vixen Heart's Chillout Homeworld"
                 },
@@ -1449,18 +1461,6 @@
                 {
                     "ID": "wrld_0a715938-af8e-45fc-b72f-ac9364a9f78d",
                     "Name": "BED"
-                },
-                {
-                    "ID": "wrld_7b136422-d23e-4cff-bedc-a4b1c675e072",
-                    "Name": "Spooky Chill"
-                },
-                {
-                    "ID": "wrld_957903d8-6655-45e4-a7f0-3539ba4e79a9",
-                    "Name": "Uptempo Madness"
-                },
-                {
-                    "ID": "wrld_c125cecf-744b-4b95-98b5-0d3e5dc29a1c",
-                    "Name": "Modern House"
                 }
             ]
         }
