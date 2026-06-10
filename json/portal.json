@@ -1343,6 +1343,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_a0d7780d-1e8d-4e7e-ba33-63e8ef3da039",
+                    "Name": "Takato Appreciation World"
+                },
+                {
+                    "ID": "wrld_b178ebd3-70f6-41fc-a96f-698c282ab224",
+                    "Name": "T O D D W O R L D"
+                },
+                {
+                    "ID": "wrld_8ec26d1e-0440-4ca0-a826-060dd15a6b13",
+                    "Name": "Sea La Vie （Christmas Edition）"
+                },
+                {
+                    "ID": "wrld_c9ec678c-4320-4c13-8b4a-044768931722",
+                    "Name": "Snugness Spot （lightmap）"
+                },
+                {
+                    "ID": "wrld_9c77d175-75d5-4718-af73-50bf351346de",
+                    "Name": "Tagpuan PH （Early Access）"
+                },
+                {
+                    "ID": "wrld_e3b810b8-de7b-4204-965a-f42f5295161a",
+                    "Name": "BIG LOVE-kindergarten-"
+                },
+                {
+                    "ID": "wrld_97a4396f-a1dc-48da-88f4-4d3e56e15f10",
+                    "Name": "Meren's Set World"
+                },
+                {
+                    "ID": "wrld_c1076d2d-97d7-43fa-8ae3-944b4202ac49",
+                    "Name": "デカいプロジェクターとプールがあるお部屋"
+                },
+                {
+                    "ID": "wrld_d498b909-9b2e-4a98-a000-3862fdf1abc2",
+                    "Name": "Shuta World"
+                },
+                {
+                    "ID": "wrld_e912fbd9-e6f6-4de1-9c38-e08ed078d1c1",
+                    "Name": "Miibi"
+                },
+                {
+                    "ID": "wrld_05e6e2fa-9a62-4d08-a088-5b61893210d8",
+                    "Name": "Purple Lounge"
+                },
+                {
                     "ID": "wrld_8623741f-4528-4840-badb-97e875a8038a",
                     "Name": "Duck's Apartment"
                 },
@@ -1417,50 +1461,6 @@
                 {
                     "ID": "wrld_1909a4b9-d739-42f8-be36-1c272316b8f4",
                     "Name": "Relax world"
-                },
-                {
-                    "ID": "wrld_2064fdbb-fd14-47a0-ab46-75175886647e",
-                    "Name": "Warm tiled room"
-                },
-                {
-                    "ID": "wrld_175165f4-07d3-4dec-8704-8f0ab724a5e4",
-                    "Name": "X与M的模型房"
-                },
-                {
-                    "ID": "wrld_1812d4e1-7288-4dcd-af09-f19a4e63bdce",
-                    "Name": "Alchemy Attic"
-                },
-                {
-                    "ID": "wrld_0960114d-d15f-47a8-a2ca-9a07693d40f8",
-                    "Name": "test world"
-                },
-                {
-                    "ID": "wrld_30905606-f533-4717-a8b9-3e28b8f2efaa",
-                    "Name": "SmyleBreak's Room"
-                },
-                {
-                    "ID": "wrld_48a1f8e4-988f-4b23-baea-26f6ffe0fb1d",
-                    "Name": "白龙小窝 （bata）（未建完）v1․5․6"
-                },
-                {
-                    "ID": "wrld_a80fbe80-bb60-4c66-9576-22a6e774c6e7",
-                    "Name": "Markov's Bar"
-                },
-                {
-                    "ID": "wrld_ddf38580-2a60-4a1a-8d27-3411a6f30bb4",
-                    "Name": "my old Fazbear theater"
-                },
-                {
-                    "ID": "wrld_8f5fdb16-a246-4021-87c7-5a7fcb194c81",
-                    "Name": "Event World"
-                },
-                {
-                    "ID": "wrld_2263a65b-35d0-4489-b65e-fd0a3c595018",
-                    "Name": "Refuge"
-                },
-                {
-                    "ID": "wrld_0a715938-af8e-45fc-b72f-ac9364a9f78d",
-                    "Name": "BED"
                 }
             ]
         }
