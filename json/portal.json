@@ -1343,6 +1343,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_1fcc0a37-f027-4762-aeb9-708b7154dbfb",
+                    "Name": "Seriously Lakeside"
+                },
+                {
+                    "ID": "wrld_8aea1253-513e-4709-bb62-64aa0bd47044",
+                    "Name": "THE BOX"
+                },
+                {
+                    "ID": "wrld_79570c45-863e-406a-984e-38f4e75ebc0a",
+                    "Name": "小規模シェーダー展示場 7 番 Small Shader Exhibition Hall 7th"
+                },
+                {
+                    "ID": "wrld_238ae5f9-b4d2-4c48-a31d-2f411294f614",
+                    "Name": "The den"
+                },
+                {
+                    "ID": "wrld_f6ae8545-cd16-444f-8c7e-2b6a24580466",
+                    "Name": "Bar Kandori"
+                },
+                {
+                    "ID": "wrld_c25964b2-fa94-482c-b92b-bf647344414a",
+                    "Name": "Wild Woods Campsite"
+                },
+                {
+                    "ID": "wrld_70355c6c-630d-46b6-9f97-119b5b28d5c6",
+                    "Name": "Smart Peoples Casino World"
+                },
+                {
+                    "ID": "wrld_884e3ee8-1aeb-4810-9f56-b87a0f25792d",
+                    "Name": "Cheerios scuffed avatar world"
+                },
+                {
+                    "ID": "wrld_54159bfc-b61a-4ebd-8c14-e02d3322024d",
+                    "Name": "The Plush Room"
+                },
+                {
+                    "ID": "wrld_52638489-35dd-455a-8039-6584164d2d47",
+                    "Name": "ダーウィン・メダルクイズ"
+                },
+                {
+                    "ID": "wrld_c023ccc6-7ee9-4b74-95d1-9ca8a75e7e04",
+                    "Name": "Home"
+                },
+                {
                     "ID": "wrld_a0d7780d-1e8d-4e7e-ba33-63e8ef3da039",
                     "Name": "Takato Appreciation World"
                 },
@@ -1417,50 +1461,6 @@
                 {
                     "ID": "wrld_9fc12563-d92c-4e70-8e50-317888ea3f9e",
                     "Name": "kushCOOKIES Sanctum"
-                },
-                {
-                    "ID": "wrld_c83d5be8-0a96-44c1-bd05-9e023e002abd",
-                    "Name": "Comet's Hoyoverse Avatars"
-                },
-                {
-                    "ID": "wrld_221b1608-f3e3-4211-8d2e-85902cc05acb",
-                    "Name": "Horchata Club"
-                },
-                {
-                    "ID": "wrld_fc052cea-0dea-47a8-a00f-c39aa592df09",
-                    "Name": "シンプルDJワールド"
-                },
-                {
-                    "ID": "wrld_3e2ef347-58cf-4bde-9de2-6f34e215a154",
-                    "Name": "ALT⁄⁄R ˸ AIRZ"
-                },
-                {
-                    "ID": "wrld_3673a39f-59ce-4b97-b158-d9a431bd0bbb",
-                    "Name": "R WORLDǃǃ"
-                },
-                {
-                    "ID": "wrld_58b3e95d-c195-4a61-a8cd-76cedea4b9ee",
-                    "Name": "SA1 Chao World （Custom Ver․）"
-                },
-                {
-                    "ID": "wrld_57edee1e-5670-4e95-9883-20e68d2dd8c5",
-                    "Name": "Chara's Hideout 2"
-                },
-                {
-                    "ID": "wrld_fe46a73e-172a-4c53-99e3-80009aec2287",
-                    "Name": "Fractal Line"
-                },
-                {
-                    "ID": "wrld_23378c0d-468e-46fc-ad18-c4685610dfff",
-                    "Name": "Chris Home"
-                },
-                {
-                    "ID": "wrld_ea4e2748-f2fd-4b90-a0d8-969dcd86449a",
-                    "Name": "Sunset at millenium"
-                },
-                {
-                    "ID": "wrld_1909a4b9-d739-42f8-be36-1c272316b8f4",
-                    "Name": "Relax world"
                 }
             ]
         }
