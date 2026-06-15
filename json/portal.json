@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_c45ae2f2-f660-4a4a-9738-6c7014713dd0",
+                    "Name": "ロオモネ"
+                },
+                {
+                    "ID": "wrld_f57360b6-6914-4c06-8952-84f0deb1bc6c",
+                    "Name": "Reclusium Flagship"
+                },
+                {
+                    "ID": "wrld_9ea93e55-62ea-4d53-a1a1-f64dae40c24b",
+                    "Name": "Cafe＆Bar芋畑"
+                },
+                {
+                    "ID": "wrld_a8f41ebb-f8cd-40d4-a6a6-5eac76725949",
+                    "Name": "Reece's Mall"
+                },
+                {
+                    "ID": "wrld_360ffb86-172c-4d2e-aecd-b5adb2e540dd",
+                    "Name": "Club Elecdrom"
+                },
+                {
+                    "ID": "wrld_3609d033-ad88-4438-b63b-44eca3c1db3c",
+                    "Name": "Cozy Garage"
+                },
+                {
+                    "ID": "wrld_d824475f-4a54-4ee9-9565-6fb0cc642707",
+                    "Name": "My First Room"
+                },
+                {
+                    "ID": "wrld_8b364ede-def4-45b3-834c-91de0fe78e74",
+                    "Name": "THE UNSC HUB"
+                },
+                {
+                    "ID": "wrld_47a0bda3-6105-49dd-b9e7-44469902fb2b",
+                    "Name": "The Life"
+                },
+                {
+                    "ID": "wrld_17c3482e-7f08-421e-b828-0805250fded1",
+                    "Name": "Froglodyte Avatar World"
+                },
+                {
+                    "ID": "wrld_a7210c11-6a88-40d2-b949-d50a54a073ba",
+                    "Name": "The Box"
+                },
+                {
                     "ID": "wrld_7dd463e5-1a62-4363-8955-283f01375aeb",
                     "Name": "my first world"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_11a6ae8d-90de-4fea-88b6-ff3b7d94359f",
                     "Name": "Two big things"
-                },
-                {
-                    "ID": "wrld_f7bd81ad-6ebe-4550-a21d-e16629546ac4",
-                    "Name": "小屋"
-                },
-                {
-                    "ID": "wrld_b017f06a-572d-4485-9e57-61df94edbf04",
-                    "Name": "Dead but dreaming"
-                },
-                {
-                    "ID": "wrld_f01f3d1c-d135-4bef-8fb0-4851b9cbe7c2",
-                    "Name": "Blop"
-                },
-                {
-                    "ID": "wrld_1fcc0a37-f027-4762-aeb9-708b7154dbfb",
-                    "Name": "Seriously Lakeside"
-                },
-                {
-                    "ID": "wrld_8aea1253-513e-4709-bb62-64aa0bd47044",
-                    "Name": "THE BOX"
-                },
-                {
-                    "ID": "wrld_79570c45-863e-406a-984e-38f4e75ebc0a",
-                    "Name": "小規模シェーダー展示場 7 番 Small Shader Exhibition Hall 7th"
-                },
-                {
-                    "ID": "wrld_238ae5f9-b4d2-4c48-a31d-2f411294f614",
-                    "Name": "The den"
-                },
-                {
-                    "ID": "wrld_f6ae8545-cd16-444f-8c7e-2b6a24580466",
-                    "Name": "Bar Kandori"
-                },
-                {
-                    "ID": "wrld_c25964b2-fa94-482c-b92b-bf647344414a",
-                    "Name": "Wild Woods Campsite"
-                },
-                {
-                    "ID": "wrld_70355c6c-630d-46b6-9f97-119b5b28d5c6",
-                    "Name": "Smart Peoples Casino World"
-                },
-                {
-                    "ID": "wrld_884e3ee8-1aeb-4810-9f56-b87a0f25792d",
-                    "Name": "Cheerios scuffed avatar world"
                 }
             ]
         }
