@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_51338515-38ff-4e76-ac2c-64509fe571c2",
+                    "Name": "ナナセ・ノワール集会 9月会場"
+                },
+                {
+                    "ID": "wrld_4e880fd9-3312-47f6-924d-cd7cb2f77b31",
+                    "Name": "After Hours"
+                },
+                {
+                    "ID": "wrld_05263a4d-0d0d-414c-9d5d-24cd6be47980",
+                    "Name": "Blender Cube"
+                },
+                {
+                    "ID": "wrld_9c3c5684-b568-408e-a151-52cc5833235b",
+                    "Name": "project Miles"
+                },
+                {
+                    "ID": "wrld_c26dba4d-37a2-4f33-b647-a5c2ac4efe60",
+                    "Name": "HAMROOM"
+                },
+                {
+                    "ID": "wrld_063728a7-a808-41ad-a778-46a6b27bd012",
+                    "Name": "The Box"
+                },
+                {
+                    "ID": "wrld_6bcd9fe1-a15e-4aef-af15-3e67ed195c84",
+                    "Name": "AngelbeatsEDワールド（リメイク）"
+                },
+                {
+                    "ID": "wrld_b00c172f-756f-4d91-a313-abbc57d3c2ce",
+                    "Name": "Sad boy hour"
+                },
+                {
+                    "ID": "wrld_1592e157-156e-4cb6-8ea3-829bf71fd1f5",
+                    "Name": "Мой милый дом v1"
+                },
+                {
+                    "ID": "wrld_185d0d7e-c7cf-46d2-b3b1-6dd835833aaa",
+                    "Name": "hfhf"
+                },
+                {
+                    "ID": "wrld_bf0ed57f-160e-42ab-9129-62a7a71de2c4",
+                    "Name": "tombeau des archimages"
+                },
+                {
                     "ID": "wrld_c45ae2f2-f660-4a4a-9738-6c7014713dd0",
                     "Name": "ロオモネ"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_2b2fbca7-517e-45ca-abd0-6e9ab1f91b15",
                     "Name": "クエスト怪異班分け所"
-                },
-                {
-                    "ID": "wrld_31788e0b-6167-4963-a757-b1be9bbf8257",
-                    "Name": "Night（TestWorld）"
-                },
-                {
-                    "ID": "wrld_81940448-0de7-426a-a5bb-369d07381801",
-                    "Name": "Red wall"
-                },
-                {
-                    "ID": "wrld_2b6612a9-9a32-4a71-b18e-be03eb2e983d",
-                    "Name": "Calm Light"
-                },
-                {
-                    "ID": "wrld_4fe83138-48b0-4ee8-832b-13525494a8a7",
-                    "Name": "jii"
-                },
-                {
-                    "ID": "wrld_ec5e9e29-435a-4dde-b442-42c95fefbabc",
-                    "Name": "Give me trusted"
-                },
-                {
-                    "ID": "wrld_61d2f87d-40e2-4727-8dc2-42698178af6f",
-                    "Name": "spartans home"
-                },
-                {
-                    "ID": "wrld_aa92c638-80fc-4580-8383-588687384ef7",
-                    "Name": "Hangout ＆ chill"
-                },
-                {
-                    "ID": "wrld_c819e51a-1eec-4e8d-82fd-41cb3566e940",
-                    "Name": "Atelier"
-                },
-                {
-                    "ID": "wrld_74820d26-0785-473f-8943-0ff269f3197a",
-                    "Name": "My Cat Nest"
-                },
-                {
-                    "ID": "wrld_37575103-cba7-4494-a45a-9eba44d75a59",
-                    "Name": "否"
-                },
-                {
-                    "ID": "wrld_11a6ae8d-90de-4fea-88b6-ff3b7d94359f",
-                    "Name": "Two big things"
                 }
             ]
         }
