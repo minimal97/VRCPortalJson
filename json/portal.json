@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_5a5feeca-81af-4230-bb27-e6b6e4adb8a0",
+                    "Name": "MY WORLD"
+                },
+                {
+                    "ID": "wrld_165ba110-c5eb-4b79-80b7-ff83c2eaf612",
+                    "Name": "Sasukes World"
+                },
+                {
+                    "ID": "wrld_3c5612d6-b3a8-4bba-a828-f13763c7efa6",
+                    "Name": "Quiet place 0․1"
+                },
+                {
+                    "ID": "wrld_4d50f40a-17a0-4547-ae6f-5d13def18c13",
+                    "Name": "Medieval en construccion"
+                },
+                {
+                    "ID": "wrld_d3162152-46ed-4260-aec8-1feb33421fed",
+                    "Name": "Hoppou Harmony Home World WIP"
+                },
+                {
+                    "ID": "wrld_2bc6c530-73d6-4cd9-bbc0-15cb17217108",
+                    "Name": "Music test world"
+                },
+                {
+                    "ID": "wrld_ee8b8f49-001b-43ce-aeb0-3cd79a2d1141",
+                    "Name": "김비이김스앤이맹고챤백야레츠고"
+                },
+                {
+                    "ID": "wrld_fb5688bb-0573-4cd6-8474-9cb9dc6baca5",
+                    "Name": "The void - First"
+                },
+                {
+                    "ID": "wrld_daa76d96-748f-432a-b819-7894c8c88322",
+                    "Name": "Emotional Spot"
+                },
+                {
+                    "ID": "wrld_c21669c0-d7e1-40e1-be31-61a64c6253f0",
+                    "Name": "Pepsi Paradice!"
+                },
+                {
+                    "ID": "wrld_aad65e95-73da-466d-a75c-77b98386d726",
+                    "Name": "оу ес"
+                },
+                {
                     "ID": "wrld_51338515-38ff-4e76-ac2c-64509fe571c2",
                     "Name": "ナナセ・ノワール集会 9月会場"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_8b364ede-def4-45b3-834c-91de0fe78e74",
                     "Name": "THE UNSC HUB"
-                },
-                {
-                    "ID": "wrld_47a0bda3-6105-49dd-b9e7-44469902fb2b",
-                    "Name": "The Life"
-                },
-                {
-                    "ID": "wrld_17c3482e-7f08-421e-b828-0805250fded1",
-                    "Name": "Froglodyte Avatar World"
-                },
-                {
-                    "ID": "wrld_a7210c11-6a88-40d2-b949-d50a54a073ba",
-                    "Name": "The Box"
-                },
-                {
-                    "ID": "wrld_7dd463e5-1a62-4363-8955-283f01375aeb",
-                    "Name": "my first world"
-                },
-                {
-                    "ID": "wrld_e38ecb93-e815-4e50-9ff3-16b3d2eeddbc",
-                    "Name": "Prueba mapa 01"
-                },
-                {
-                    "ID": "wrld_60da6652-be77-424c-a179-e5eb9904a280",
-                    "Name": "sewer party"
-                },
-                {
-                    "ID": "wrld_5b01f45a-b913-47f7-8c54-6e201466867f",
-                    "Name": "world 1"
-                },
-                {
-                    "ID": "wrld_4b817f14-007e-4bbe-ab0b-d1d82e5ccde3",
-                    "Name": "喫茶「はたご」 by Digital Region"
-                },
-                {
-                    "ID": "wrld_09cd63f4-c85d-4657-b7c9-ac65c3edab28",
-                    "Name": "Smallest World Ever"
-                },
-                {
-                    "ID": "wrld_e22f2e8f-689e-4370-9939-b5db78e43301",
-                    "Name": "The Sunset Clearing"
-                },
-                {
-                    "ID": "wrld_2b2fbca7-517e-45ca-abd0-6e9ab1f91b15",
-                    "Name": "クエスト怪異班分け所"
                 }
             ]
         }
