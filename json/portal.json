@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_9ac884c8-39b3-4aec-9ec2-ff375153ea3a",
+                    "Name": "わどはろーワールド"
+                },
+                {
+                    "ID": "wrld_24072a74-b291-44e2-8691-44f1428fb025",
+                    "Name": "DreamyPurple-Lite-"
+                },
+                {
+                    "ID": "wrld_8df25cb7-0fae-4586-8e9a-f8afe724f195",
+                    "Name": "Ascend"
+                },
+                {
+                    "ID": "wrld_3ccad099-9e43-48ce-a569-979127f72d1d",
+                    "Name": "Kitty's Hideout"
+                },
+                {
+                    "ID": "wrld_33f43e3a-5810-49d9-b509-3a1d15cdd06d",
+                    "Name": "Ethereal Longing"
+                },
+                {
+                    "ID": "wrld_f7d040d3-b40f-431b-b407-ed391628e5d9",
+                    "Name": "After 50"
+                },
+                {
+                    "ID": "wrld_cb13f15d-ddf6-4b30-961a-bbe5a24d7b88",
+                    "Name": "Home world?"
+                },
+                {
+                    "ID": "wrld_99283375-9fc7-44e3-b604-a1f82f879369",
+                    "Name": "sss"
+                },
+                {
+                    "ID": "wrld_019e8687-6ca3-45af-a89e-12e18059a46d",
+                    "Name": "Barrel Chilll Space"
+                },
+                {
+                    "ID": "wrld_a2bb9fea-33f8-4415-b987-0b6eb1a5c57d",
+                    "Name": "AdopiaGonnaBePurple"
+                },
+                {
                     "ID": "wrld_95d881f2-ff21-4260-9146-144ae055f606",
                     "Name": "Monster's Madness"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_fb5688bb-0573-4cd6-8474-9cb9dc6baca5",
                     "Name": "The void - First"
-                },
-                {
-                    "ID": "wrld_daa76d96-748f-432a-b819-7894c8c88322",
-                    "Name": "Emotional Spot"
-                },
-                {
-                    "ID": "wrld_c21669c0-d7e1-40e1-be31-61a64c6253f0",
-                    "Name": "Pepsi Paradice!"
-                },
-                {
-                    "ID": "wrld_aad65e95-73da-466d-a75c-77b98386d726",
-                    "Name": "оу ес"
-                },
-                {
-                    "ID": "wrld_51338515-38ff-4e76-ac2c-64509fe571c2",
-                    "Name": "ナナセ・ノワール集会 9月会場"
-                },
-                {
-                    "ID": "wrld_4e880fd9-3312-47f6-924d-cd7cb2f77b31",
-                    "Name": "After Hours"
-                },
-                {
-                    "ID": "wrld_05263a4d-0d0d-414c-9d5d-24cd6be47980",
-                    "Name": "Blender Cube"
-                },
-                {
-                    "ID": "wrld_9c3c5684-b568-408e-a151-52cc5833235b",
-                    "Name": "project Miles"
-                },
-                {
-                    "ID": "wrld_c26dba4d-37a2-4f33-b647-a5c2ac4efe60",
-                    "Name": "HAMROOM"
-                },
-                {
-                    "ID": "wrld_063728a7-a808-41ad-a778-46a6b27bd012",
-                    "Name": "The Box"
-                },
-                {
-                    "ID": "wrld_6bcd9fe1-a15e-4aef-af15-3e67ed195c84",
-                    "Name": "AngelbeatsEDワールド（リメイク）"
                 }
             ]
         }
