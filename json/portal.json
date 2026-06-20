@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_ed093ced-639d-477b-ade9-f83943b0af7e",
+                    "Name": "private roten SPA"
+                },
+                {
+                    "ID": "wrld_370d87a6-bcf9-4e05-a1a5-0ada57201872",
+                    "Name": "Mi casita"
+                },
+                {
+                    "ID": "wrld_b187ecf0-9733-4b7b-9ae6-c4f36b467b41",
+                    "Name": "ちゃそほーむ"
+                },
+                {
+                    "ID": "wrld_5e07e4f9-9aa9-4c83-9073-0e89da3e197d",
+                    "Name": "Little Corner Station"
+                },
+                {
+                    "ID": "wrld_4961a914-b9d3-4dca-849c-4cc19d715bf3",
+                    "Name": "Destiny´s gym party"
+                },
+                {
+                    "ID": "wrld_fc0e8318-8221-4327-b55f-a679defc2ed1",
+                    "Name": "BlackSandz Karaoke ＆ Recording Studio"
+                },
+                {
+                    "ID": "wrld_2803c4b3-8534-4031-b420-43ee167e7053",
+                    "Name": "BB Bonifatius （Unreal 2 ⁄ UT2004）"
+                },
+                {
+                    "ID": "wrld_824930c5-6dd5-4e1f-8b51-f95c3eb08912",
+                    "Name": "Bunny Apartment"
+                },
+                {
+                    "ID": "wrld_34d808eb-c12e-4ad6-9b28-bd85ad07344d",
+                    "Name": "Savvy's Rage Cage GYM"
+                },
+                {
+                    "ID": "wrld_82cdf687-817f-4f4f-897a-8308efcfe6a4",
+                    "Name": "Late Night Apartment"
+                },
+                {
                     "ID": "wrld_9ac884c8-39b3-4aec-9ec2-ff375153ea3a",
                     "Name": "わどはろーワールド"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_fe7b34de-7d4b-4566-b2f4-273f4cf4fc63",
                     "Name": "Ocean2"
-                },
-                {
-                    "ID": "wrld_70f38788-08be-44e5-8c22-95cc9bb91b9f",
-                    "Name": "Boss's Chill Pad On The Water"
-                },
-                {
-                    "ID": "wrld_2d422a93-1593-4b91-9c0c-1f6e0cccc9dc",
-                    "Name": "table set in space"
-                },
-                {
-                    "ID": "wrld_5a5feeca-81af-4230-bb27-e6b6e4adb8a0",
-                    "Name": "MY WORLD"
-                },
-                {
-                    "ID": "wrld_165ba110-c5eb-4b79-80b7-ff83c2eaf612",
-                    "Name": "Sasukes World"
-                },
-                {
-                    "ID": "wrld_3c5612d6-b3a8-4bba-a828-f13763c7efa6",
-                    "Name": "Quiet place 0․1"
-                },
-                {
-                    "ID": "wrld_4d50f40a-17a0-4547-ae6f-5d13def18c13",
-                    "Name": "Medieval en construccion"
-                },
-                {
-                    "ID": "wrld_d3162152-46ed-4260-aec8-1feb33421fed",
-                    "Name": "Hoppou Harmony Home World WIP"
-                },
-                {
-                    "ID": "wrld_2bc6c530-73d6-4cd9-bbc0-15cb17217108",
-                    "Name": "Music test world"
-                },
-                {
-                    "ID": "wrld_ee8b8f49-001b-43ce-aeb0-3cd79a2d1141",
-                    "Name": "김비이김스앤이맹고챤백야레츠고"
-                },
-                {
-                    "ID": "wrld_fb5688bb-0573-4cd6-8474-9cb9dc6baca5",
-                    "Name": "The void - First"
                 }
             ]
         }
