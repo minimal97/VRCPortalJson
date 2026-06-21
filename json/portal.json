@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_2b8fa383-8390-452d-8eb4-b0ea1008d3f3",
+                    "Name": "Music's Safeplace"
+                },
+                {
+                    "ID": "wrld_f1b8508b-4446-4621-93c1-7d267c8b19a0",
+                    "Name": "ぶいすま杯"
+                },
+                {
+                    "ID": "wrld_2672c5ab-bca3-42d1-be63-98f5e63a39d2",
+                    "Name": "Escape The Backrooms"
+                },
+                {
+                    "ID": "wrld_d8580b20-7462-4593-9102-2c08d6ae94db",
+                    "Name": "Harry Potter Diagon Alley RP World․"
+                },
+                {
+                    "ID": "wrld_d57c52d3-31e3-4b91-aca3-7699b1e03e08",
+                    "Name": "Stelar House"
+                },
+                {
+                    "ID": "wrld_afc13f7e-96dc-4320-ae79-ba4756bb439a",
+                    "Name": "Chill Vibes"
+                },
+                {
+                    "ID": "wrld_265510af-981b-4fb2-8a9a-2e2ecbd3a88d",
+                    "Name": "Home In The Void"
+                },
+                {
+                    "ID": "wrld_41cbd39f-25cf-4930-9b55-c65bbf92636a",
+                    "Name": "Simple Bedroom"
+                },
+                {
+                    "ID": "wrld_3a804f0c-dc85-416e-baa7-1d50fbc18471",
+                    "Name": "Kaido Room"
+                },
+                {
+                    "ID": "wrld_c0f3f1e1-985c-4aa9-80c7-60e49d311a7a",
+                    "Name": "おえかきの家"
+                },
+                {
                     "ID": "wrld_ed093ced-639d-477b-ade9-f83943b0af7e",
                     "Name": "private roten SPA"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_a2bb9fea-33f8-4415-b987-0b6eb1a5c57d",
                     "Name": "AdopiaGonnaBePurple"
-                },
-                {
-                    "ID": "wrld_95d881f2-ff21-4260-9146-144ae055f606",
-                    "Name": "Monster's Madness"
-                },
-                {
-                    "ID": "wrld_9118d143-fdbc-4337-99d0-76e906f1a120",
-                    "Name": "Forest"
-                },
-                {
-                    "ID": "wrld_a0cb9858-5685-4ed7-bb66-53de73ad09e6",
-                    "Name": "Patrik Forest ［Official Remake］"
-                },
-                {
-                    "ID": "wrld_3c43e258-4402-48cc-b0e1-2c39feeecc4d",
-                    "Name": "Nimble's Oasis"
-                },
-                {
-                    "ID": "wrld_193a82f9-0de9-4a48-8ccf-1163585bdd70",
-                    "Name": "のれ。のへや（仮）"
-                },
-                {
-                    "ID": "wrld_f44a01ca-4e55-473a-91e1-a7b6f8f05448",
-                    "Name": "休憩所114514"
-                },
-                {
-                    "ID": "wrld_2a44e2b1-a3e8-4f4e-8cfd-614d1493aa68",
-                    "Name": "Relaxing World"
-                },
-                {
-                    "ID": "wrld_b12efee3-d25c-47e8-8901-9648afc1e435",
-                    "Name": "Abomination World"
-                },
-                {
-                    "ID": "wrld_abb485e2-4569-4513-a662-f4d0fa55268a",
-                    "Name": "Crimson dawn"
-                },
-                {
-                    "ID": "wrld_fe7b34de-7d4b-4566-b2f4-273f4cf4fc63",
-                    "Name": "Ocean2"
                 }
             ]
         }
