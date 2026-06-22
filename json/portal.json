@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_e6d08278-1d71-4ffa-8571-f2170f1fab45",
+                    "Name": "The Heartless Fleet"
+                },
+                {
+                    "ID": "wrld_40ff6a99-c7e4-4296-961a-cff094465a4e",
+                    "Name": "แม่มึงตายไอสัส"
+                },
+                {
+                    "ID": "wrld_1404e99a-648c-42f4-9576-4033233e2840",
+                    "Name": "孤島之家 yome's Island house"
+                },
+                {
+                    "ID": "wrld_9612426d-fc9f-425a-9ca8-db9262c25302",
+                    "Name": "Filler world"
+                },
+                {
+                    "ID": "wrld_68b961e8-ebce-4ebf-9b42-8725c8a530fe",
+                    "Name": "Laplus販売機体試乗飛行場 ~Since․1940~"
+                },
+                {
+                    "ID": "wrld_e956e8bf-6527-4397-be7d-4b5f39c9f90c",
+                    "Name": "ぱんだの宝島"
+                },
+                {
+                    "ID": "wrld_dbc9a911-31c7-48b6-a474-bd2a3b3718cc",
+                    "Name": "USFF VFA WIP"
+                },
+                {
+                    "ID": "wrld_8afccd16-7984-4d99-9d7b-566582502f92",
+                    "Name": "ItzAndroid's Room"
+                },
+                {
+                    "ID": "wrld_01b03d4c-fc6a-4a01-97be-43dffadcaf4f",
+                    "Name": "World"
+                },
+                {
+                    "ID": "wrld_f8c4e445-cd42-41c3-a940-400982aae7f0",
+                    "Name": "Home World"
+                },
+                {
                     "ID": "wrld_2b8fa383-8390-452d-8eb4-b0ea1008d3f3",
                     "Name": "Music's Safeplace"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_82cdf687-817f-4f4f-897a-8308efcfe6a4",
                     "Name": "Late Night Apartment"
-                },
-                {
-                    "ID": "wrld_9ac884c8-39b3-4aec-9ec2-ff375153ea3a",
-                    "Name": "わどはろーワールド"
-                },
-                {
-                    "ID": "wrld_24072a74-b291-44e2-8691-44f1428fb025",
-                    "Name": "DreamyPurple-Lite-"
-                },
-                {
-                    "ID": "wrld_8df25cb7-0fae-4586-8e9a-f8afe724f195",
-                    "Name": "Ascend"
-                },
-                {
-                    "ID": "wrld_3ccad099-9e43-48ce-a569-979127f72d1d",
-                    "Name": "Kitty's Hideout"
-                },
-                {
-                    "ID": "wrld_33f43e3a-5810-49d9-b509-3a1d15cdd06d",
-                    "Name": "Ethereal Longing"
-                },
-                {
-                    "ID": "wrld_f7d040d3-b40f-431b-b407-ed391628e5d9",
-                    "Name": "After 50"
-                },
-                {
-                    "ID": "wrld_cb13f15d-ddf6-4b30-961a-bbe5a24d7b88",
-                    "Name": "Home world?"
-                },
-                {
-                    "ID": "wrld_99283375-9fc7-44e3-b604-a1f82f879369",
-                    "Name": "sss"
-                },
-                {
-                    "ID": "wrld_019e8687-6ca3-45af-a89e-12e18059a46d",
-                    "Name": "Barrel Chilll Space"
-                },
-                {
-                    "ID": "wrld_a2bb9fea-33f8-4415-b987-0b6eb1a5c57d",
-                    "Name": "AdopiaGonnaBePurple"
                 }
             ]
         }
