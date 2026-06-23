@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_1e50f804-fc4c-4140-ba25-4d0f66fb1ebc",
+                    "Name": "Test"
+                },
+                {
+                    "ID": "wrld_8be5d141-e384-4f81-bced-34908317d384",
+                    "Name": "中子星-城市【CN】【WJ】"
+                },
+                {
+                    "ID": "wrld_6f702569-90cf-4d0a-8865-7a1e6fb4e3bd",
+                    "Name": "A dark room"
+                },
+                {
+                    "ID": "wrld_e5f4a920-52eb-48df-a492-909557849b38",
+                    "Name": "Channayah's Play-House of Memories"
+                },
+                {
+                    "ID": "wrld_96863d45-11b4-4bbb-9461-623f62b85d74",
+                    "Name": "Fantastical Beasts Sibuxiang's Shop"
+                },
+                {
+                    "ID": "wrld_157c7e07-7a6d-4ebe-a804-d2ff399d0215",
+                    "Name": "Bed Room Sewynac's 2"
+                },
+                {
+                    "ID": "wrld_2e125d04-0de4-4722-b09c-cb8d60ab440a",
+                    "Name": "私立タテノリ学園卒業式"
+                },
+                {
+                    "ID": "wrld_d266ffdf-a4ec-4c1a-9973-a14ed3343075",
+                    "Name": "VRCヴァロ部撮影会場"
+                },
+                {
+                    "ID": "wrld_7202036e-c97c-4aac-8ae5-86d87793fa8b",
+                    "Name": "校長（CV大塚明夫）のお話を聞くワールド"
+                },
+                {
+                    "ID": "wrld_67590029-3463-4480-a2e6-16cb0f0bcec9",
+                    "Name": "Collapsar˸Chill World"
+                },
+                {
+                    "ID": "wrld_3c9fa8f4-bd6d-4f35-a6f7-dca999f7e69c",
+                    "Name": "test"
+                },
+                {
                     "ID": "wrld_e6d08278-1d71-4ffa-8571-f2170f1fab45",
                     "Name": "The Heartless Fleet"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_3a804f0c-dc85-416e-baa7-1d50fbc18471",
                     "Name": "Kaido Room"
-                },
-                {
-                    "ID": "wrld_c0f3f1e1-985c-4aa9-80c7-60e49d311a7a",
-                    "Name": "おえかきの家"
-                },
-                {
-                    "ID": "wrld_ed093ced-639d-477b-ade9-f83943b0af7e",
-                    "Name": "private roten SPA"
-                },
-                {
-                    "ID": "wrld_370d87a6-bcf9-4e05-a1a5-0ada57201872",
-                    "Name": "Mi casita"
-                },
-                {
-                    "ID": "wrld_b187ecf0-9733-4b7b-9ae6-c4f36b467b41",
-                    "Name": "ちゃそほーむ"
-                },
-                {
-                    "ID": "wrld_5e07e4f9-9aa9-4c83-9073-0e89da3e197d",
-                    "Name": "Little Corner Station"
-                },
-                {
-                    "ID": "wrld_4961a914-b9d3-4dca-849c-4cc19d715bf3",
-                    "Name": "Destiny´s gym party"
-                },
-                {
-                    "ID": "wrld_fc0e8318-8221-4327-b55f-a679defc2ed1",
-                    "Name": "BlackSandz Karaoke ＆ Recording Studio"
-                },
-                {
-                    "ID": "wrld_2803c4b3-8534-4031-b420-43ee167e7053",
-                    "Name": "BB Bonifatius （Unreal 2 ⁄ UT2004）"
-                },
-                {
-                    "ID": "wrld_824930c5-6dd5-4e1f-8b51-f95c3eb08912",
-                    "Name": "Bunny Apartment"
-                },
-                {
-                    "ID": "wrld_34d808eb-c12e-4ad6-9b28-bd85ad07344d",
-                    "Name": "Savvy's Rage Cage GYM"
-                },
-                {
-                    "ID": "wrld_82cdf687-817f-4f4f-897a-8308efcfe6a4",
-                    "Name": "Late Night Apartment"
                 }
             ]
         }
