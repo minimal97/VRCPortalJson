@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_d9fdfc6e-7af2-409c-a22d-261e8c4956f6",
+                    "Name": "VLARS Elysium"
+                },
+                {
+                    "ID": "wrld_cb662a54-3921-439f-b0da-a42398c2237b",
+                    "Name": "great world to chill to kpop music"
+                },
+                {
+                    "ID": "wrld_c8e73725-a4e0-411b-b6ab-3b7949a30880",
+                    "Name": "Cyanobells Dance Practice"
+                },
+                {
+                    "ID": "wrld_3b176e43-b471-4554-8312-ba5727cf7cbd",
+                    "Name": "Mik's Trash World"
+                },
+                {
+                    "ID": "wrld_c461f965-743e-4cce-b010-ef21cfeaa726",
+                    "Name": "Violet Day"
+                },
+                {
+                    "ID": "wrld_d51807d3-64ce-4708-b13b-62f6f48d2aed",
+                    "Name": "Loyal"
+                },
+                {
+                    "ID": "wrld_c7950af2-756e-433e-9b73-fede96ea6dd2",
+                    "Name": "Trans Academy - Cazra's Dorm"
+                },
+                {
+                    "ID": "wrld_4d4ac442-67dc-443f-b3a2-47f12c9a1179",
+                    "Name": "Casa de Fictional˸ Screening Edition"
+                },
+                {
+                    "ID": "wrld_dddec0fc-0e4e-4ab7-ab66-21ece7d57bcd",
+                    "Name": "Reds Apartment Room （Hangout）"
+                },
+                {
+                    "ID": "wrld_090e5607-c75d-4d69-ae74-984600e3edcb",
+                    "Name": "前夜祭"
+                },
+                {
+                    "ID": "wrld_fc982f9d-6780-42c5-b2d6-c9138b918071",
+                    "Name": "筋肉Bar"
+                },
+                {
                     "ID": "wrld_1e50f804-fc4c-4140-ba25-4d0f66fb1ebc",
                     "Name": "Test"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_8afccd16-7984-4d99-9d7b-566582502f92",
                     "Name": "ItzAndroid's Room"
-                },
-                {
-                    "ID": "wrld_01b03d4c-fc6a-4a01-97be-43dffadcaf4f",
-                    "Name": "World"
-                },
-                {
-                    "ID": "wrld_f8c4e445-cd42-41c3-a940-400982aae7f0",
-                    "Name": "Home World"
-                },
-                {
-                    "ID": "wrld_2b8fa383-8390-452d-8eb4-b0ea1008d3f3",
-                    "Name": "Music's Safeplace"
-                },
-                {
-                    "ID": "wrld_f1b8508b-4446-4621-93c1-7d267c8b19a0",
-                    "Name": "ぶいすま杯"
-                },
-                {
-                    "ID": "wrld_2672c5ab-bca3-42d1-be63-98f5e63a39d2",
-                    "Name": "Escape The Backrooms"
-                },
-                {
-                    "ID": "wrld_d8580b20-7462-4593-9102-2c08d6ae94db",
-                    "Name": "Harry Potter Diagon Alley RP World․"
-                },
-                {
-                    "ID": "wrld_d57c52d3-31e3-4b91-aca3-7699b1e03e08",
-                    "Name": "Stelar House"
-                },
-                {
-                    "ID": "wrld_afc13f7e-96dc-4320-ae79-ba4756bb439a",
-                    "Name": "Chill Vibes"
-                },
-                {
-                    "ID": "wrld_265510af-981b-4fb2-8a9a-2e2ecbd3a88d",
-                    "Name": "Home In The Void"
-                },
-                {
-                    "ID": "wrld_41cbd39f-25cf-4930-9b55-c65bbf92636a",
-                    "Name": "Simple Bedroom"
-                },
-                {
-                    "ID": "wrld_3a804f0c-dc85-416e-baa7-1d50fbc18471",
-                    "Name": "Kaido Room"
                 }
             ]
         }
