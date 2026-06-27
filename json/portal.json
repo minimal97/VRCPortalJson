@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_425f8ab7-72b2-4169-9f6d-9f578d3d8059",
+                    "Name": "숲속의 친없찐"
+                },
+                {
+                    "ID": "wrld_127ec642-288b-48ea-a2a7-4e5f5a69600a",
+                    "Name": "ホームワールド１"
+                },
+                {
+                    "ID": "wrld_021b87ab-317f-4a94-9fae-7f4b127f8426",
+                    "Name": "魅魔小窝（测试中）"
+                },
+                {
+                    "ID": "wrld_f23bc953-a132-47d7-bafe-7162c67e9576",
+                    "Name": "Tipukissan Krypta"
+                },
+                {
+                    "ID": "wrld_29af8627-62ff-4646-94d9-42b4dbb87902",
+                    "Name": "Spiral World"
+                },
+                {
+                    "ID": "wrld_90857c6b-fb5d-47f7-9ecd-ae42466bf32e",
+                    "Name": "Japanese Restaurant WIP"
+                },
+                {
+                    "ID": "wrld_dce5957d-96aa-46de-98d2-ba0af8eb27fc",
+                    "Name": "Test room"
+                },
+                {
+                    "ID": "wrld_ee9a01ad-e7d0-4031-b612-9b32e595d196",
+                    "Name": "H․T Bar"
+                },
+                {
+                    "ID": "wrld_ebf31bbd-ac8a-47e1-98bd-428d69226f65",
+                    "Name": "glitch sys red"
+                },
+                {
+                    "ID": "wrld_a623029c-939f-4cfe-8886-edba1cfe60a8",
+                    "Name": "ZombieSnowy's Memory Gallery"
+                },
+                {
                     "ID": "wrld_b7e59d06-1c86-4f74-808a-d8977d3b80dc",
                     "Name": "Mundo Do Brunodias16"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_7b40efe4-663b-47f5-8c16-13a1d06f40cb",
                     "Name": "帆船酒店"
-                },
-                {
-                    "ID": "wrld_586ad001-813a-4fb3-a25b-f72d9036273f",
-                    "Name": "鏡文字やオムライスお絵描きの練習部屋"
-                },
-                {
-                    "ID": "wrld_d9fdfc6e-7af2-409c-a22d-261e8c4956f6",
-                    "Name": "VLARS Elysium"
-                },
-                {
-                    "ID": "wrld_cb662a54-3921-439f-b0da-a42398c2237b",
-                    "Name": "great world to chill to kpop music"
-                },
-                {
-                    "ID": "wrld_c8e73725-a4e0-411b-b6ab-3b7949a30880",
-                    "Name": "Cyanobells Dance Practice"
-                },
-                {
-                    "ID": "wrld_3b176e43-b471-4554-8312-ba5727cf7cbd",
-                    "Name": "Mik's Trash World"
-                },
-                {
-                    "ID": "wrld_c461f965-743e-4cce-b010-ef21cfeaa726",
-                    "Name": "Violet Day"
-                },
-                {
-                    "ID": "wrld_d51807d3-64ce-4708-b13b-62f6f48d2aed",
-                    "Name": "Loyal"
-                },
-                {
-                    "ID": "wrld_c7950af2-756e-433e-9b73-fede96ea6dd2",
-                    "Name": "Trans Academy - Cazra's Dorm"
-                },
-                {
-                    "ID": "wrld_4d4ac442-67dc-443f-b3a2-47f12c9a1179",
-                    "Name": "Casa de Fictional˸ Screening Edition"
-                },
-                {
-                    "ID": "wrld_dddec0fc-0e4e-4ab7-ab66-21ece7d57bcd",
-                    "Name": "Reds Apartment Room （Hangout）"
                 }
             ]
         }
