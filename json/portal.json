@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_7e303e21-e494-4cf7-a265-938e4a1e6ab3",
+                    "Name": "HAMLET NOIR workshop space"
+                },
+                {
+                    "ID": "wrld_07481ec9-5982-4cc0-b00b-8cd8a94381a7",
+                    "Name": "ASTROTALE ˸ JUDGEMENT HALL"
+                },
+                {
+                    "ID": "wrld_be4c8ed7-a946-489a-a810-6d396b607249",
+                    "Name": "海ノ家"
+                },
+                {
+                    "ID": "wrld_b90d50c2-db27-4290-a78a-3ecf4fbacf6d",
+                    "Name": "３代目お砂糖代行事務所"
+                },
+                {
+                    "ID": "wrld_2fd5d1ef-4771-4c4a-bed0-dd3ef38c6083",
+                    "Name": "raid meetup"
+                },
+                {
+                    "ID": "wrld_2946f9e3-cf8f-43f0-ad1d-aaab6a1e2934",
+                    "Name": "my friend soren"
+                },
+                {
+                    "ID": "wrld_c0e7df39-6cdd-4444-9dbc-3724ed750778",
+                    "Name": "sword"
+                },
+                {
+                    "ID": "wrld_e003db78-98ec-4c0f-be30-f518192f8d84",
+                    "Name": "CarrierFlightWorld"
+                },
+                {
+                    "ID": "wrld_1601903b-f9b2-4e22-857c-8548fd572735",
+                    "Name": "No Sabos"
+                },
+                {
+                    "ID": "wrld_7c2bbe40-974a-4c23-8ba3-55e8b46b5363",
+                    "Name": "Kotak Awan"
+                },
+                {
+                    "ID": "wrld_6142e83d-af1c-4cac-9e5f-72cb02372010",
+                    "Name": "Testy ＾＾"
+                },
+                {
                     "ID": "wrld_425f8ab7-72b2-4169-9f6d-9f578d3d8059",
                     "Name": "숲속의 친없찐"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_595f681b-fc9f-4d2b-97cc-c842a4dab9b3",
                     "Name": "LightTest"
-                },
-                {
-                    "ID": "wrld_0ebc8301-90aa-433e-b805-38fae53fa9ee",
-                    "Name": "Club Cataclysm"
-                },
-                {
-                    "ID": "wrld_bf0d2d74-26fa-42d1-8571-9d27639467f7",
-                    "Name": "Under the space tree"
-                },
-                {
-                    "ID": "wrld_afe5ffc5-315d-4afe-97b1-255ed28e4aab",
-                    "Name": "Optimized Sonic Hub"
-                },
-                {
-                    "ID": "wrld_6fc1dabe-ec4e-4c6c-b9d1-72e8c62ca01a",
-                    "Name": "Violet Night__Club n Bar"
-                },
-                {
-                    "ID": "wrld_10b0abe6-0f41-4f89-8eda-0d4eba96d7cf",
-                    "Name": "Odyssey christmas"
-                },
-                {
-                    "ID": "wrld_50f35e9f-aafc-4ab5-a323-c3eae7fb0749",
-                    "Name": "Artifex Gallery"
-                },
-                {
-                    "ID": "wrld_66cfcfeb-aca3-40d4-93b1-3abb65fd4789",
-                    "Name": "Recanto Estelar Brasil ｜ Stellar Nook"
-                },
-                {
-                    "ID": "wrld_4cdd2ec0-e9c5-4bc5-8649-b6e772ba510d",
-                    "Name": "Mapa Leve Home"
-                },
-                {
-                    "ID": "wrld_f26712b3-7f60-444b-8065-7852f0f04442",
-                    "Name": "test"
-                },
-                {
-                    "ID": "wrld_67306224-b06f-4041-93af-bdb45cf183fd",
-                    "Name": "Abu Island ≺3"
-                },
-                {
-                    "ID": "wrld_7b40efe4-663b-47f5-8c16-13a1d06f40cb",
-                    "Name": "帆船酒店"
                 }
             ]
         }
