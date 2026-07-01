@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_8d3c67aa-8c16-494d-9123-32b110cabf9a",
+                    "Name": "Sleepy Place"
+                },
+                {
+                    "ID": "wrld_6be4c4db-256f-42b4-b14a-74290dd5c807",
+                    "Name": "Pan1c's House"
+                },
+                {
+                    "ID": "wrld_b026ddeb-596f-4e42-9db4-243e462ddaa3",
+                    "Name": "Bea´s Chillroom"
+                },
+                {
+                    "ID": "wrld_2fef660e-b3a6-4b3e-b6c8-50b534f8d08e",
+                    "Name": "I․C․Akashi Painting Exhibition"
+                },
+                {
+                    "ID": "wrld_d43202e4-840c-4a05-8f57-1aa669f3a22d",
+                    "Name": "Bendix Park"
+                },
+                {
+                    "ID": "wrld_cd66795c-0353-411b-9016-583f90856681",
+                    "Name": "Templo De Daspleto saurian"
+                },
+                {
+                    "ID": "wrld_83908853-82d3-4e9e-8e52-905e658581be",
+                    "Name": "awesome world"
+                },
+                {
+                    "ID": "wrld_e711e120-4ee9-4986-a60f-8968b8d29919",
+                    "Name": "What?ǃ?"
+                },
+                {
+                    "ID": "wrld_65422835-6ca2-4722-91c9-872bdb6aa98a",
+                    "Name": "Work in progress backrooms pre lobby"
+                },
+                {
+                    "ID": "wrld_1f618066-8593-4cba-8866-e52016c1d252",
+                    "Name": "Nex'sMap"
+                },
+                {
+                    "ID": "wrld_69dcbd3d-de06-48c5-83f2-baf90c6ecb9f",
+                    "Name": "Astra World"
+                },
+                {
                     "ID": "wrld_fd0466ae-f4b7-479e-a43e-e874ea9f3b15",
                     "Name": "Mirrors innit idk"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_6bc035d2-bd0a-49d2-a184-75ed8f516d35",
                     "Name": "YoshihimeOyamaROOM（TEST）"
-                },
-                {
-                    "ID": "wrld_a52aaa9f-699a-45b0-a3f6-5bf1e40a5a8d",
-                    "Name": "m-5 studio"
-                },
-                {
-                    "ID": "wrld_16b31b18-db9d-4220-ab6a-461936cb64a4",
-                    "Name": "hope it works"
-                },
-                {
-                    "ID": "wrld_4812907c-6838-4c13-bf13-57b693275a0c",
-                    "Name": "ボードゲーム闘技場 -Bordgame DeathMatch-"
-                },
-                {
-                    "ID": "wrld_7e303e21-e494-4cf7-a265-938e4a1e6ab3",
-                    "Name": "HAMLET NOIR workshop space"
-                },
-                {
-                    "ID": "wrld_07481ec9-5982-4cc0-b00b-8cd8a94381a7",
-                    "Name": "ASTROTALE ˸ JUDGEMENT HALL"
-                },
-                {
-                    "ID": "wrld_be4c8ed7-a946-489a-a810-6d396b607249",
-                    "Name": "海ノ家"
-                },
-                {
-                    "ID": "wrld_b90d50c2-db27-4290-a78a-3ecf4fbacf6d",
-                    "Name": "３代目お砂糖代行事務所"
-                },
-                {
-                    "ID": "wrld_2fd5d1ef-4771-4c4a-bed0-dd3ef38c6083",
-                    "Name": "raid meetup"
-                },
-                {
-                    "ID": "wrld_2946f9e3-cf8f-43f0-ad1d-aaab6a1e2934",
-                    "Name": "my friend soren"
-                },
-                {
-                    "ID": "wrld_c0e7df39-6cdd-4444-9dbc-3724ed750778",
-                    "Name": "sword"
-                },
-                {
-                    "ID": "wrld_e003db78-98ec-4c0f-be30-f518192f8d84",
-                    "Name": "CarrierFlightWorld"
                 }
             ]
         }
