@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_e54f1ab1-51d9-457d-9d41-06f122397425",
+                    "Name": "Red Nebula X"
+                },
+                {
+                    "ID": "wrld_554ac069-acef-43a0-b9ed-881d1bdba63b",
+                    "Name": "club secret garden1"
+                },
+                {
+                    "ID": "wrld_dc65d31e-84f7-4375-b2ff-5d20bbfd93d4",
+                    "Name": "room"
+                },
+                {
+                    "ID": "wrld_bcad1a32-ae3c-40f4-a2ed-b0f9b2ded52a",
+                    "Name": "Robot Wonderland"
+                },
+                {
+                    "ID": "wrld_d2a2c6e2-71be-4982-8ae9-6ca3677f74b6",
+                    "Name": "しゃちのひとりぐらし"
+                },
+                {
+                    "ID": "wrld_be2c2e88-1ba0-4c50-8eaf-9bef2d1f75cf",
+                    "Name": "연습"
+                },
+                {
+                    "ID": "wrld_26147ad3-0882-4000-a05b-c8f9f8fd311b",
+                    "Name": "ハロウィン会場"
+                },
+                {
+                    "ID": "wrld_40d85f35-c523-4c50-9e7b-4a755e9c58c8",
+                    "Name": "bruh momment"
+                },
+                {
+                    "ID": "wrld_8ca19515-ddd3-4dcf-a814-8f7c2c571744",
+                    "Name": "ワールド間移動エレベータのサンプルワールド WorldTransitElevatorA1 Sample"
+                },
+                {
+                    "ID": "wrld_1489afbf-12b1-47e5-811b-63394b4d0cc3",
+                    "Name": "すコール空間"
+                },
+                {
+                    "ID": "wrld_96c71bba-0139-4adb-b512-0b59132cde17",
+                    "Name": "homespace 12mb"
+                },
+                {
                     "ID": "wrld_6ce94606-eedf-4b5f-8b7e-4e1d0538f415",
                     "Name": "牛马CLUB DJ practice room"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_1f618066-8593-4cba-8866-e52016c1d252",
                     "Name": "Nex'sMap"
-                },
-                {
-                    "ID": "wrld_69dcbd3d-de06-48c5-83f2-baf90c6ecb9f",
-                    "Name": "Astra World"
-                },
-                {
-                    "ID": "wrld_fd0466ae-f4b7-479e-a43e-e874ea9f3b15",
-                    "Name": "Mirrors innit idk"
-                },
-                {
-                    "ID": "wrld_75550196-873d-4bd9-8674-427389899e3b",
-                    "Name": "全方向を鏡にしたらどうなるのか？？"
-                },
-                {
-                    "ID": "wrld_c21d3370-be4e-43d1-8919-fb70b3927bc2",
-                    "Name": "치지직 가면 무도회"
-                },
-                {
-                    "ID": "wrld_36a9889c-751f-48af-a964-02f928c8f1ca",
-                    "Name": "Amigos VR room"
-                },
-                {
-                    "ID": "wrld_d9ed93cb-c2ee-4db9-8f21-a6a162fe1889",
-                    "Name": "Kazina's Corner"
-                },
-                {
-                    "ID": "wrld_43d0854d-299d-4643-8829-5f1a3a32fe1e",
-                    "Name": "Lotus Peak"
-                },
-                {
-                    "ID": "wrld_564bcbff-7246-4ba2-8fc0-c9f9cda7dfe0",
-                    "Name": "Chill World"
-                },
-                {
-                    "ID": "wrld_21533958-4fc2-40f1-8ac9-b59bb81b544c",
-                    "Name": "The Legend of AkaCham 2077"
-                },
-                {
-                    "ID": "wrld_e74be62f-1ca4-4cc4-b8aa-fdded57cee96",
-                    "Name": "Hollowmoon's Cafe"
-                },
-                {
-                    "ID": "wrld_d055147d-3d26-46e5-a43b-7efa1d0092ba",
-                    "Name": "Rofgads Kammer （WIP）"
                 }
             ]
         }
