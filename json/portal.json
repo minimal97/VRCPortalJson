@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_f9a58fac-9046-4db8-b626-ec67ef7243c9",
+                    "Name": "Weekend camping"
+                },
+                {
+                    "ID": "wrld_ad0308b3-1460-4cb8-8943-9624efeb9951",
+                    "Name": "Rez's Rainy Loft"
+                },
+                {
+                    "ID": "wrld_d073ff71-8cfc-45a7-aab6-b70899b1a96c",
+                    "Name": "Killer Shack"
+                },
+                {
+                    "ID": "wrld_86b3b56d-bf70-47b6-980b-b72368635d12",
+                    "Name": "Nomikai"
+                },
+                {
+                    "ID": "wrld_ce93c92e-abe5-42d7-b4d5-78246879d70f",
+                    "Name": "HomeWorld"
+                },
+                {
+                    "ID": "wrld_0743d205-e48b-4f9b-83d2-a90da9441973",
+                    "Name": "一言堂"
+                },
+                {
+                    "ID": "wrld_aa6fa01f-badb-41e9-ade5-241aba50e096",
+                    "Name": "DJ Koala Living Room"
+                },
+                {
+                    "ID": "wrld_62d1f9f3-fa43-4fe3-b286-03d55ee51b5a",
+                    "Name": "よりCafe"
+                },
+                {
+                    "ID": "wrld_1ca75cad-4865-4d01-ad26-22741ab39d1c",
+                    "Name": "Ziggbee Christmas"
+                },
+                {
+                    "ID": "wrld_d3a22491-6844-4f73-9712-7c4de7a16ab8",
+                    "Name": "toaru tabi no omoide"
+                },
+                {
+                    "ID": "wrld_4f2d7650-ad9a-4713-9ea3-a7660e424b90",
+                    "Name": "Echo Bar"
+                },
+                {
                     "ID": "wrld_e54f1ab1-51d9-457d-9d41-06f122397425",
                     "Name": "Red Nebula X"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_3b20030f-1bc7-497f-96c3-0fd451aa6da8",
                     "Name": "kirito-home"
-                },
-                {
-                    "ID": "wrld_e253e25f-c329-4d91-a9b4-658b9bd71ca8",
-                    "Name": "Space Station Fun"
-                },
-                {
-                    "ID": "wrld_8d3c67aa-8c16-494d-9123-32b110cabf9a",
-                    "Name": "Sleepy Place"
-                },
-                {
-                    "ID": "wrld_6be4c4db-256f-42b4-b14a-74290dd5c807",
-                    "Name": "Pan1c's House"
-                },
-                {
-                    "ID": "wrld_b026ddeb-596f-4e42-9db4-243e462ddaa3",
-                    "Name": "Bea´s Chillroom"
-                },
-                {
-                    "ID": "wrld_2fef660e-b3a6-4b3e-b6c8-50b534f8d08e",
-                    "Name": "I․C․Akashi Painting Exhibition"
-                },
-                {
-                    "ID": "wrld_d43202e4-840c-4a05-8f57-1aa669f3a22d",
-                    "Name": "Bendix Park"
-                },
-                {
-                    "ID": "wrld_cd66795c-0353-411b-9016-583f90856681",
-                    "Name": "Templo De Daspleto saurian"
-                },
-                {
-                    "ID": "wrld_83908853-82d3-4e9e-8e52-905e658581be",
-                    "Name": "awesome world"
-                },
-                {
-                    "ID": "wrld_e711e120-4ee9-4986-a60f-8968b8d29919",
-                    "Name": "What?ǃ?"
-                },
-                {
-                    "ID": "wrld_65422835-6ca2-4722-91c9-872bdb6aa98a",
-                    "Name": "Work in progress backrooms pre lobby"
-                },
-                {
-                    "ID": "wrld_1f618066-8593-4cba-8866-e52016c1d252",
-                    "Name": "Nex'sMap"
                 }
             ]
         }
