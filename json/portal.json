@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_55cef9a4-799d-4829-a785-19102107b2fa",
+                    "Name": "Night Starz"
+                },
+                {
+                    "ID": "wrld_caee74fa-83a3-4fdf-bb27-b29da7687e6e",
+                    "Name": "testProto"
+                },
+                {
+                    "ID": "wrld_69dce68c-2530-44c7-849a-e2a52d9539ee",
+                    "Name": "夜の休息"
+                },
+                {
+                    "ID": "wrld_106f185a-4f34-40b6-abcb-a6c24ae7479f",
+                    "Name": "Familiar Place"
+                },
+                {
+                    "ID": "wrld_a37542e0-e682-453e-a12f-fc3bd22cf6a3",
+                    "Name": "Club Lumi"
+                },
+                {
+                    "ID": "wrld_954e4572-7dd0-43f3-bdcc-4d92f43adbba",
+                    "Name": "Kristal"
+                },
+                {
+                    "ID": "wrld_2c4db027-f7d8-4250-9380-512e439c1630",
+                    "Name": "Koopa's Chill Studio Apartment"
+                },
+                {
+                    "ID": "wrld_61b4d3bb-c2d1-44f1-aa78-a50d016bbb19",
+                    "Name": "A Toll By The Aether"
+                },
+                {
+                    "ID": "wrld_34189f55-1ae0-4b8e-afb5-29b43d2091c3",
+                    "Name": "paranoia"
+                },
+                {
+                    "ID": "wrld_2ab876a8-a216-4baa-89fd-47c1d85fae6c",
+                    "Name": "Kokichi cult"
+                },
+                {
+                    "ID": "wrld_6e6db2f2-b48c-443a-b579-ef8803076318",
+                    "Name": "UPIICSA VRChat"
+                },
+                {
                     "ID": "wrld_1fb38251-0f4d-4aa8-8887-593af4775d47",
                     "Name": "Test World 1"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_d3a22491-6844-4f73-9712-7c4de7a16ab8",
                     "Name": "toaru tabi no omoide"
-                },
-                {
-                    "ID": "wrld_4f2d7650-ad9a-4713-9ea3-a7660e424b90",
-                    "Name": "Echo Bar"
-                },
-                {
-                    "ID": "wrld_e54f1ab1-51d9-457d-9d41-06f122397425",
-                    "Name": "Red Nebula X"
-                },
-                {
-                    "ID": "wrld_554ac069-acef-43a0-b9ed-881d1bdba63b",
-                    "Name": "club secret garden1"
-                },
-                {
-                    "ID": "wrld_dc65d31e-84f7-4375-b2ff-5d20bbfd93d4",
-                    "Name": "room"
-                },
-                {
-                    "ID": "wrld_bcad1a32-ae3c-40f4-a2ed-b0f9b2ded52a",
-                    "Name": "Robot Wonderland"
-                },
-                {
-                    "ID": "wrld_d2a2c6e2-71be-4982-8ae9-6ca3677f74b6",
-                    "Name": "しゃちのひとりぐらし"
-                },
-                {
-                    "ID": "wrld_be2c2e88-1ba0-4c50-8eaf-9bef2d1f75cf",
-                    "Name": "연습"
-                },
-                {
-                    "ID": "wrld_26147ad3-0882-4000-a05b-c8f9f8fd311b",
-                    "Name": "ハロウィン会場"
-                },
-                {
-                    "ID": "wrld_40d85f35-c523-4c50-9e7b-4a755e9c58c8",
-                    "Name": "bruh momment"
-                },
-                {
-                    "ID": "wrld_8ca19515-ddd3-4dcf-a814-8f7c2c571744",
-                    "Name": "ワールド間移動エレベータのサンプルワールド WorldTransitElevatorA1 Sample"
-                },
-                {
-                    "ID": "wrld_1489afbf-12b1-47e5-811b-63394b4d0cc3",
-                    "Name": "すコール空間"
                 }
             ]
         }
