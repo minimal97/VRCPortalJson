@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_5612b6ba-44cf-4a3c-8e3b-0cb197df09a8",
+                    "Name": "D4AD STUDIO"
+                },
+                {
+                    "ID": "wrld_47252af3-faed-441d-a218-90b37111918a",
+                    "Name": "sdfa"
+                },
+                {
+                    "ID": "wrld_01d1812a-ccf5-4733-a4b7-7ccf010b9804",
+                    "Name": "lights testing"
+                },
+                {
+                    "ID": "wrld_5f0b39b2-4052-4d81-be8c-2ffef66df8e5",
+                    "Name": "hexe home"
+                },
+                {
+                    "ID": "wrld_5ab5d881-2bae-4d8b-886e-0d3ed952e018",
+                    "Name": "Soft-boiled Room Type A"
+                },
+                {
+                    "ID": "wrld_8c067649-2a09-4886-8e89-78304205bd01",
+                    "Name": "これくらい広い家ならいいなな家"
+                },
+                {
+                    "ID": "wrld_7642ca97-d9f5-4757-b313-27d7cfd53bb4",
+                    "Name": "the lost void"
+                },
+                {
+                    "ID": "wrld_e61d2693-ba6b-4498-9434-e1e2ab259d83",
+                    "Name": "ChromaKey test"
+                },
+                {
+                    "ID": "wrld_4c3770d6-0c93-4611-a450-6d9b05cf2303",
+                    "Name": "Solong recording"
+                },
+                {
+                    "ID": "wrld_80f0ee88-bde9-4fbb-bd48-65c916bc6058",
+                    "Name": "French Apartment"
+                },
+                {
+                    "ID": "wrld_c628fa33-4704-4242-95aa-9bc2ce755d0c",
+                    "Name": "もつやしき 1号室"
+                },
+                {
                     "ID": "wrld_22fb77bb-ac17-4829-9996-9733b16b85eb",
                     "Name": "Supra's Room"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_34189f55-1ae0-4b8e-afb5-29b43d2091c3",
                     "Name": "paranoia"
-                },
-                {
-                    "ID": "wrld_2ab876a8-a216-4baa-89fd-47c1d85fae6c",
-                    "Name": "Kokichi cult"
-                },
-                {
-                    "ID": "wrld_6e6db2f2-b48c-443a-b579-ef8803076318",
-                    "Name": "UPIICSA VRChat"
-                },
-                {
-                    "ID": "wrld_1fb38251-0f4d-4aa8-8887-593af4775d47",
-                    "Name": "Test World 1"
-                },
-                {
-                    "ID": "wrld_a3156667-93a1-4f0a-a0ce-7f109d89cc06",
-                    "Name": "Big GarDen"
-                },
-                {
-                    "ID": "wrld_312135f1-5118-40a6-8478-5876b3f0d776",
-                    "Name": "Liminal Lounge"
-                },
-                {
-                    "ID": "wrld_d6141d2a-5545-4a1a-802e-c404a966a86e",
-                    "Name": "uyuni mirror"
-                },
-                {
-                    "ID": "wrld_fd173c0a-4ad8-4215-9cd3-d91e97b9815d",
-                    "Name": "home villa"
-                },
-                {
-                    "ID": "wrld_079b4fb0-b7a4-4458-9525-978fd4ab5fa5",
-                    "Name": "Mirror "
-                },
-                {
-                    "ID": "wrld_5e13e4b8-c27d-4d25-920d-07f3d1cfdcbf",
-                    "Name": "Cinema_World"
-                },
-                {
-                    "ID": "wrld_78fe14e1-a211-4999-813d-73a117484ddb",
-                    "Name": "Small Sky Room"
-                },
-                {
-                    "ID": "wrld_6c19218e-700b-40e6-b23e-5ef774ebaeba",
-                    "Name": "Griddy World"
                 }
             ]
         }
