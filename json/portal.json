@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_682acbf2-12fc-4840-820c-4d587bc09137",
+                    "Name": "Paradise"
+                },
+                {
+                    "ID": "wrld_851d2657-7eb5-45ff-986f-d773affe9cd9",
+                    "Name": "Mortal Escapism - Chandler's Office"
+                },
+                {
+                    "ID": "wrld_260c0639-bec3-4e1e-bceb-00c642ed506c",
+                    "Name": "34showroom"
+                },
+                {
+                    "ID": "wrld_a3d58995-a837-4820-86fd-6c5b4d1e04ab",
+                    "Name": "T70s Airport V1․6"
+                },
+                {
+                    "ID": "wrld_4ed2a79e-b7a4-43dd-9738-1909f8bd2682",
+                    "Name": "The Red Room"
+                },
+                {
+                    "ID": "wrld_33cce81a-b7a3-41a4-a5e7-6423409d25ca",
+                    "Name": "Those People"
+                },
+                {
+                    "ID": "wrld_b6e94c16-0239-4107-84ce-c8e0b90f42b6",
+                    "Name": "友達がやっているCafe「SnowDrift」"
+                },
+                {
+                    "ID": "wrld_2d772a4c-35a3-4ed6-a4c7-7e24c700d011",
+                    "Name": "Minimalistic"
+                },
+                {
+                    "ID": "wrld_1e770c85-73c0-4bda-8492-877253ccf321",
+                    "Name": "Richies Room"
+                },
+                {
+                    "ID": "wrld_21aa32bf-30db-44b4-9f4f-da88f9850ca1",
+                    "Name": "hostess cheers lounge"
+                },
+                {
                     "ID": "wrld_5612b6ba-44cf-4a3c-8e3b-0cb197df09a8",
                     "Name": "D4AD STUDIO"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_bca2bb52-3fee-4c4d-b3ac-d79eac53c236",
                     "Name": "Fket2024Summer"
-                },
-                {
-                    "ID": "wrld_1b34b8ab-7bdc-4c7d-a485-d807807502ba",
-                    "Name": "Nothing here"
-                },
-                {
-                    "ID": "wrld_55cef9a4-799d-4829-a785-19102107b2fa",
-                    "Name": "Night Starz"
-                },
-                {
-                    "ID": "wrld_caee74fa-83a3-4fdf-bb27-b29da7687e6e",
-                    "Name": "testProto"
-                },
-                {
-                    "ID": "wrld_69dce68c-2530-44c7-849a-e2a52d9539ee",
-                    "Name": "夜の休息"
-                },
-                {
-                    "ID": "wrld_106f185a-4f34-40b6-abcb-a6c24ae7479f",
-                    "Name": "Familiar Place"
-                },
-                {
-                    "ID": "wrld_a37542e0-e682-453e-a12f-fc3bd22cf6a3",
-                    "Name": "Club Lumi"
-                },
-                {
-                    "ID": "wrld_954e4572-7dd0-43f3-bdcc-4d92f43adbba",
-                    "Name": "Kristal"
-                },
-                {
-                    "ID": "wrld_2c4db027-f7d8-4250-9380-512e439c1630",
-                    "Name": "Koopa's Chill Studio Apartment"
-                },
-                {
-                    "ID": "wrld_61b4d3bb-c2d1-44f1-aa78-a50d016bbb19",
-                    "Name": "A Toll By The Aether"
-                },
-                {
-                    "ID": "wrld_34189f55-1ae0-4b8e-afb5-29b43d2091c3",
-                    "Name": "paranoia"
                 }
             ]
         }
