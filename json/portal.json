@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_bdd2f790-93a8-4ca8-9418-a128960ff476",
+                    "Name": "SakuraChillPark3․0"
+                },
+                {
+                    "ID": "wrld_018127ca-1083-4d30-ade0-daedf3ba19e8",
+                    "Name": "happy little dinosaurs a card game"
+                },
+                {
+                    "ID": "wrld_3ad7b53e-7cc5-4dd4-b9a4-d27597acf500",
+                    "Name": "Vibe house"
+                },
+                {
+                    "ID": "wrld_ef8412ce-29ff-47e5-9314-baa67af4198f",
+                    "Name": "リノベーション古民家"
+                },
+                {
+                    "ID": "wrld_98f3f2d4-17dd-4c91-a1c7-cbd40658cc5c",
+                    "Name": "Kleva13s world"
+                },
+                {
+                    "ID": "wrld_13638b48-e180-4ecc-8091-07ef8094b0d4",
+                    "Name": "วันดี"
+                },
+                {
+                    "ID": "wrld_800fe565-794b-4a22-87f1-2eb0598fa75e",
+                    "Name": "Masontheshrimp's chill world"
+                },
+                {
+                    "ID": "wrld_60e610ce-e443-4ecd-b226-4e09b0d73128",
+                    "Name": "Split Realities Bar＆Grill （In-Dev）"
+                },
+                {
+                    "ID": "wrld_516c416b-773f-452a-b0b6-baa743ff1979",
+                    "Name": "ワールド 置き場"
+                },
+                {
+                    "ID": "wrld_718f4cac-b942-44d1-97a9-9dccac01e8bc",
+                    "Name": "Chayeのroom"
+                },
+                {
                     "ID": "wrld_f31c3cd9-6d1b-4e21-82aa-955d5de659ad",
                     "Name": "Sardarapat"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_8e81bac2-58e9-45fb-973a-d767b9c232f8",
                     "Name": "departamento"
-                },
-                {
-                    "ID": "wrld_e33d8e53-a6b6-4e1f-b4d4-bae9f4a60a1a",
-                    "Name": "Club Kronos"
-                },
-                {
-                    "ID": "wrld_1e633cc8-62fe-48e5-a7a8-dfbed85d6256",
-                    "Name": "Makoto_House"
-                },
-                {
-                    "ID": "wrld_682acbf2-12fc-4840-820c-4d587bc09137",
-                    "Name": "Paradise"
-                },
-                {
-                    "ID": "wrld_851d2657-7eb5-45ff-986f-d773affe9cd9",
-                    "Name": "Mortal Escapism - Chandler's Office"
-                },
-                {
-                    "ID": "wrld_260c0639-bec3-4e1e-bceb-00c642ed506c",
-                    "Name": "34showroom"
-                },
-                {
-                    "ID": "wrld_a3d58995-a837-4820-86fd-6c5b4d1e04ab",
-                    "Name": "T70s Airport V1․6"
-                },
-                {
-                    "ID": "wrld_4ed2a79e-b7a4-43dd-9738-1909f8bd2682",
-                    "Name": "The Red Room"
-                },
-                {
-                    "ID": "wrld_33cce81a-b7a3-41a4-a5e7-6423409d25ca",
-                    "Name": "Those People"
-                },
-                {
-                    "ID": "wrld_b6e94c16-0239-4107-84ce-c8e0b90f42b6",
-                    "Name": "友達がやっているCafe「SnowDrift」"
-                },
-                {
-                    "ID": "wrld_2d772a4c-35a3-4ed6-a4c7-7e24c700d011",
-                    "Name": "Minimalistic"
                 }
             ]
         }
