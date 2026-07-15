@@ -1347,6 +1347,22 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_6b874ac1-f3ad-497b-90cb-d5b15eb867f6",
+                    "Name": "cleptos home"
+                },
+                {
+                    "ID": "wrld_e7080984-6def-4c4f-9fda-bf6d57fb84b1",
+                    "Name": "ハーフちゃんのおうち"
+                },
+                {
+                    "ID": "wrld_f42aed71-6095-43fc-9141-19bce3f7ff7c",
+                    "Name": "Astral planes avi world"
+                },
+                {
+                    "ID": "wrld_1fa86d93-3899-465b-a92a-d5256c0585e0",
+                    "Name": "Shermy's Room"
+                },
+                {
                     "ID": "wrld_a7de6227-2356-489f-9a92-8eb5d61a8a8c",
                     "Name": "test2"
                 },
@@ -1449,22 +1465,6 @@
                 {
                     "ID": "wrld_ef8412ce-29ff-47e5-9314-baa67af4198f",
                     "Name": "リノベーション古民家"
-                },
-                {
-                    "ID": "wrld_98f3f2d4-17dd-4c91-a1c7-cbd40658cc5c",
-                    "Name": "Kleva13s world"
-                },
-                {
-                    "ID": "wrld_13638b48-e180-4ecc-8091-07ef8094b0d4",
-                    "Name": "วันดี"
-                },
-                {
-                    "ID": "wrld_800fe565-794b-4a22-87f1-2eb0598fa75e",
-                    "Name": "Masontheshrimp's chill world"
-                },
-                {
-                    "ID": "wrld_60e610ce-e443-4ecd-b226-4e09b0d73128",
-                    "Name": "Split Realities Bar＆Grill （In-Dev）"
                 }
             ]
         }
