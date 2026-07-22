@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_09f7186c-b1bf-4d7d-8f15-dd40d84fa6b7",
+                    "Name": "Media Player Behavior"
+                },
+                {
+                    "ID": "wrld_49e339a4-b9dd-49c5-903b-f75fe233749c",
+                    "Name": "ぷぷるぷDX"
+                },
+                {
+                    "ID": "wrld_110c21bb-07f0-4e8c-ae44-52b95d9e0a30",
+                    "Name": "ただの雑談場"
+                },
+                {
+                    "ID": "wrld_2d8491df-f49a-44f4-b5e4-ff622c85ce69",
+                    "Name": "三重塔"
+                },
+                {
+                    "ID": "wrld_1673d980-28ed-4cd0-971f-b69d8037b6b5",
+                    "Name": "kapi world finished"
+                },
+                {
+                    "ID": "wrld_b27c3105-74b7-4a0e-9dad-0a24f59565a0",
+                    "Name": "VRCプログラミング集会"
+                },
+                {
+                    "ID": "wrld_ef955e58-6e6c-4012-bdc2-9ac074fca996",
+                    "Name": "和室ver1․07"
+                },
+                {
+                    "ID": "wrld_89d9f05e-27a9-4762-81fb-b61f1a1653f3",
+                    "Name": "量産型チルワールド"
+                },
+                {
+                    "ID": "wrld_537cabeb-2f1c-4e25-8037-7a40078bda72",
+                    "Name": "Light Experiments˸ Paradise Lost"
+                },
+                {
+                    "ID": "wrld_3df0ad91-b221-41de-8151-ba7b2ea7ac45",
+                    "Name": "云落的小窝"
+                },
+                {
+                    "ID": "wrld_15100dfb-3943-48fa-b177-078d5a4f76ef",
+                    "Name": "临居小窝"
+                },
+                {
                     "ID": "wrld_5693d01d-ba7e-4dae-8368-b5eb46e55bd9",
                     "Name": "CK Bus Camp"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_d902cc31-45c4-4dee-a979-989f23669a6c",
                     "Name": "Shop weirdstore․vn"
-                },
-                {
-                    "ID": "wrld_208aef07-a2d2-4411-8b23-6156b6ce36eb",
-                    "Name": "Dr_Skeletons fireplace"
-                },
-                {
-                    "ID": "wrld_7c38cd97-a6c3-4289-8aaa-99ddbc1f792e",
-                    "Name": "RED ROOM"
-                },
-                {
-                    "ID": "wrld_724d6a95-b7d8-4b92-b014-6d83b77af005",
-                    "Name": "Innocence"
-                },
-                {
-                    "ID": "wrld_4785a062-e6f4-46bc-9d59-33ccb57c6bdb",
-                    "Name": "Silent Forest"
-                },
-                {
-                    "ID": "wrld_4cf0b73f-6d06-4531-a6a5-33d97afb5f4b",
-                    "Name": "My room 4 hours challenge"
-                },
-                {
-                    "ID": "wrld_a1bc83f6-b5c1-482d-b5dc-310aefded8c6",
-                    "Name": "poolrooms and side railway"
-                },
-                {
-                    "ID": "wrld_449c9e71-96d9-45ee-80ab-a37c70d43f31",
-                    "Name": "The happy day"
-                },
-                {
-                    "ID": "wrld_e56705d6-a180-489e-b69b-7d2eccdc506e",
-                    "Name": "MF Design Test World 2"
-                },
-                {
-                    "ID": "wrld_b03ca7ad-4a03-467f-abf3-4b3a5947bc28",
-                    "Name": "Justなぞのばしょ"
-                },
-                {
-                    "ID": "wrld_1fcdef67-1016-4548-9f6f-411f55940868",
-                    "Name": "Lamb space"
-                },
-                {
-                    "ID": "wrld_3ad28d9c-b23d-4bff-8879-c4a4e9619770",
-                    "Name": "Eve Sugar Dice Game"
                 }
             ]
         }
