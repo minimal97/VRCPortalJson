@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_17fddc72-ca49-4bca-a2ee-df205f3898fb",
+                    "Name": "very useless"
+                },
+                {
+                    "ID": "wrld_ce896c35-65a2-4ba3-8f8f-b7059a4678b0",
+                    "Name": "霓虹屋"
+                },
+                {
+                    "ID": "wrld_d45306f6-5ff5-407c-b55e-0d93ab9f79c8",
+                    "Name": "Test"
+                },
+                {
+                    "ID": "wrld_f8861063-30fd-49c9-b9ff-afa72151443a",
+                    "Name": "Barzinho"
+                },
+                {
+                    "ID": "wrld_51adb8d2-effb-4ad6-8ffa-09ddcd2318c4",
+                    "Name": "Asteroom"
+                },
+                {
+                    "ID": "wrld_34e29575-86cc-4f2b-82fd-5d16eb77b615",
+                    "Name": "World Test 1"
+                },
+                {
+                    "ID": "wrld_492f793a-3f6d-437c-bd83-3f0c59b74d94",
+                    "Name": "tkashi's Milkyway Lounge"
+                },
+                {
+                    "ID": "wrld_6578f71b-1283-4ed1-bb63-2a68c02830e6",
+                    "Name": "Yuuko meetup"
+                },
+                {
+                    "ID": "wrld_6c290e04-0bc9-4972-b308-cc5e46000854",
+                    "Name": "Photogrammetry Aogashima 青ヶ島"
+                },
+                {
+                    "ID": "wrld_0d32c553-0dbf-4f5d-8272-e4604bf71e4c",
+                    "Name": "Chest Pain Jake Neutron Cover World"
+                },
+                {
+                    "ID": "wrld_5d5ee214-9a67-47a3-a74d-b2ff0bad0c9b",
+                    "Name": "The Tree"
+                },
+                {
                     "ID": "wrld_46290fec-3c26-43f8-bc24-79cfc112d4a6",
                     "Name": "This is just a test world"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_d737aac1-3151-4753-978a-1a4a93d41501",
                     "Name": "SalaYuyii"
-                },
-                {
-                    "ID": "wrld_01756aaf-dc1e-46af-b4d8-78f3774b28d0",
-                    "Name": "GAL Astor's"
-                },
-                {
-                    "ID": "wrld_0e969bb3-91f6-4b10-815e-74d3d0f66b6d",
-                    "Name": "Mass Effect Illusive Man's Office"
-                },
-                {
-                    "ID": "wrld_09f7186c-b1bf-4d7d-8f15-dd40d84fa6b7",
-                    "Name": "Media Player Behavior"
-                },
-                {
-                    "ID": "wrld_49e339a4-b9dd-49c5-903b-f75fe233749c",
-                    "Name": "ぷぷるぷDX"
-                },
-                {
-                    "ID": "wrld_110c21bb-07f0-4e8c-ae44-52b95d9e0a30",
-                    "Name": "ただの雑談場"
-                },
-                {
-                    "ID": "wrld_2d8491df-f49a-44f4-b5e4-ff622c85ce69",
-                    "Name": "三重塔"
-                },
-                {
-                    "ID": "wrld_1673d980-28ed-4cd0-971f-b69d8037b6b5",
-                    "Name": "kapi world finished"
-                },
-                {
-                    "ID": "wrld_b27c3105-74b7-4a0e-9dad-0a24f59565a0",
-                    "Name": "VRCプログラミング集会"
-                },
-                {
-                    "ID": "wrld_ef955e58-6e6c-4012-bdc2-9ac074fca996",
-                    "Name": "和室ver1․07"
-                },
-                {
-                    "ID": "wrld_89d9f05e-27a9-4762-81fb-b61f1a1653f3",
-                    "Name": "量産型チルワールド"
-                },
-                {
-                    "ID": "wrld_537cabeb-2f1c-4e25-8037-7a40078bda72",
-                    "Name": "Light Experiments˸ Paradise Lost"
                 }
             ]
         }
