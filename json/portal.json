@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_5cabafe4-ce09-4e2e-b86e-161589a39d63",
+                    "Name": "Toxics Cozy Home"
+                },
+                {
+                    "ID": "wrld_f4c900dd-ca06-497d-b624-9dee7af58369",
+                    "Name": "SUGARS WRLD"
+                },
+                {
+                    "ID": "wrld_82e5a7d4-5e7a-4ce9-aa9f-71ba593a4a47",
+                    "Name": "year"
+                },
+                {
+                    "ID": "wrld_cba5dd64-b692-490f-9c52-15f59679fd7a",
+                    "Name": "R․fs home"
+                },
+                {
+                    "ID": "wrld_73ee5874-7318-4cb7-a518-d2ae0a81ba1b",
+                    "Name": "Velvet Cove Apartment"
+                },
+                {
+                    "ID": "wrld_690d0369-996c-4848-992b-f8a1790f8172",
+                    "Name": "cosmic foxfire colective club"
+                },
+                {
+                    "ID": "wrld_26cf0551-d782-40a8-88ae-1acb3c9bcf73",
+                    "Name": "OLD OOGA BOOGA"
+                },
+                {
+                    "ID": "wrld_30148364-891d-4615-9331-67ebe01b0163",
+                    "Name": "WTF_CAFE_shiba?????"
+                },
+                {
+                    "ID": "wrld_7d34e90d-20f0-4a28-8330-1efc629c43aa",
+                    "Name": "Quest Chess with a chicken"
+                },
+                {
+                    "ID": "wrld_92d0f2e9-e30d-43cc-b0e5-972ac0d69f51",
+                    "Name": "DC tunnel"
+                },
+                {
                     "ID": "wrld_74aad56a-8844-4dc5-8064-f5b35099fca7",
                     "Name": "Only Dads Meeting Room"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_1e11057c-5899-4dec-b4f3-e86789deee15",
                     "Name": "VirtualBallVer1"
-                },
-                {
-                    "ID": "wrld_bafb402c-18b4-418b-9b79-086ce2d04aee",
-                    "Name": "Omega by AstrixZ˸ Lunar Embassy"
-                },
-                {
-                    "ID": "wrld_17fddc72-ca49-4bca-a2ee-df205f3898fb",
-                    "Name": "very useless"
-                },
-                {
-                    "ID": "wrld_ce896c35-65a2-4ba3-8f8f-b7059a4678b0",
-                    "Name": "霓虹屋"
-                },
-                {
-                    "ID": "wrld_d45306f6-5ff5-407c-b55e-0d93ab9f79c8",
-                    "Name": "Test"
-                },
-                {
-                    "ID": "wrld_f8861063-30fd-49c9-b9ff-afa72151443a",
-                    "Name": "Barzinho"
-                },
-                {
-                    "ID": "wrld_51adb8d2-effb-4ad6-8ffa-09ddcd2318c4",
-                    "Name": "Asteroom"
-                },
-                {
-                    "ID": "wrld_34e29575-86cc-4f2b-82fd-5d16eb77b615",
-                    "Name": "World Test 1"
-                },
-                {
-                    "ID": "wrld_492f793a-3f6d-437c-bd83-3f0c59b74d94",
-                    "Name": "tkashi's Milkyway Lounge"
-                },
-                {
-                    "ID": "wrld_6578f71b-1283-4ed1-bb63-2a68c02830e6",
-                    "Name": "Yuuko meetup"
-                },
-                {
-                    "ID": "wrld_6c290e04-0bc9-4972-b308-cc5e46000854",
-                    "Name": "Photogrammetry Aogashima 青ヶ島"
                 }
             ]
         }
