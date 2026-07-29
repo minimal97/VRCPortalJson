@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_30892ab7-44b3-47fe-a237-774628b3bf10",
+                    "Name": "Commarts_VRU"
+                },
+                {
+                    "ID": "wrld_96befd7a-6300-44aa-973b-984350db9253",
+                    "Name": "test8"
+                },
+                {
+                    "ID": "wrld_fa4140c5-2bff-4be7-9bdc-89c542e764c5",
+                    "Name": "Wonderful relaxing room"
+                },
+                {
+                    "ID": "wrld_1a0eadbe-8527-42a9-a6d8-2d7c91458324",
+                    "Name": "Sierra-YYRCcarTestCorce"
+                },
+                {
+                    "ID": "wrld_cc603cda-ead3-4003-9451-38649c418144",
+                    "Name": "blues chill temple"
+                },
+                {
+                    "ID": "wrld_1804e61c-08ba-4cbe-b4bd-deb036963ca6",
+                    "Name": "コスプレイベント用"
+                },
+                {
+                    "ID": "wrld_ef959941-ce4a-4e72-a51d-5379d8867409",
+                    "Name": "D-1"
+                },
+                {
+                    "ID": "wrld_004ea96f-38eb-4aa8-bbc1-f480da40b1b1",
+                    "Name": "room test"
+                },
+                {
+                    "ID": "wrld_093d5a24-6142-4a1a-9c6e-1f8d3daf0e79",
+                    "Name": "life"
+                },
+                {
+                    "ID": "wrld_95b06555-ec5c-41d4-9b42-bc7308100995",
+                    "Name": "测试地图1"
+                },
+                {
                     "ID": "wrld_5cabafe4-ce09-4e2e-b86e-161589a39d63",
                     "Name": "Toxics Cozy Home"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_c157d146-9ecd-46f5-8738-4025bd02bc22",
                     "Name": "Soapela Relax Club"
-                },
-                {
-                    "ID": "wrld_ddddfa42-f0e4-476a-89ed-e261c37981db",
-                    "Name": "Go Gio 2․1"
-                },
-                {
-                    "ID": "wrld_ccf756eb-6b59-4bf4-924e-34ab960b1105",
-                    "Name": "magic bedroom"
-                },
-                {
-                    "ID": "wrld_ddd72769-9cab-4eaa-95c3-d290c1180eab",
-                    "Name": "Phettaverse 2․0"
-                },
-                {
-                    "ID": "wrld_37471a9c-3690-42bd-a490-a6014197656b",
-                    "Name": "Mr․Reflection"
-                },
-                {
-                    "ID": "wrld_6bdcddad-a9eb-4b20-871d-744a84776214",
-                    "Name": "Spellbound Sanctuary"
-                },
-                {
-                    "ID": "wrld_23164ee9-9209-4239-888d-87b20ec2e676",
-                    "Name": "どんぐり村_Acorn Village"
-                },
-                {
-                    "ID": "wrld_3cabfb6b-ab08-4ee7-ab4f-2eda07ceac84",
-                    "Name": "Комната v0․6․1"
-                },
-                {
-                    "ID": "wrld_eaa3ebe0-aab0-441f-90f9-22020b98ade6",
-                    "Name": "Ari home"
-                },
-                {
-                    "ID": "wrld_2ccbf192-75d1-4dd0-a430-8371ebbe1e7d",
-                    "Name": "TZB's Home World"
-                },
-                {
-                    "ID": "wrld_1e11057c-5899-4dec-b4f3-e86789deee15",
-                    "Name": "VirtualBallVer1"
                 }
             ]
         }
