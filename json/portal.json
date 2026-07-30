@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_ddd4aa3b-021f-4098-845d-6ce89c124656",
+                    "Name": "苏大米的小房间"
+                },
+                {
+                    "ID": "wrld_7d527db5-b095-4baa-8154-19dfdddd94be",
+                    "Name": "カゴホーム"
+                },
+                {
+                    "ID": "wrld_604786ea-0218-4967-a76d-876288165691",
+                    "Name": "Road Home"
+                },
+                {
+                    "ID": "wrld_718522af-41e8-4c95-80bb-74cdd0ed3fbf",
+                    "Name": "Scene9"
+                },
+                {
+                    "ID": "wrld_d46fefc3-a3eb-43c3-911d-e90a087e2012",
+                    "Name": "VRC DMI"
+                },
+                {
+                    "ID": "wrld_86dc7edf-9732-48c1-a399-fdd4e12ec4c7",
+                    "Name": "Club Pegasus"
+                },
+                {
+                    "ID": "wrld_5a99fcea-3cf0-4f4a-8b3a-5a19e2dd2d3f",
+                    "Name": "Little Home"
+                },
+                {
+                    "ID": "wrld_af01321d-62c5-4e8a-8d4e-33abf089ecb5",
+                    "Name": "Death company boxing"
+                },
+                {
+                    "ID": "wrld_1b6ff1ee-e1af-4b1f-bce9-576926d54676",
+                    "Name": "Sweet Dreams"
+                },
+                {
+                    "ID": "wrld_662bec3b-a8ff-4ef1-9584-ac53712847f6",
+                    "Name": "The G Studio"
+                },
+                {
+                    "ID": "wrld_c58addae-d586-429e-bfcd-e5daef0733e3",
+                    "Name": "Fancy's World"
+                },
+                {
                     "ID": "wrld_30892ab7-44b3-47fe-a237-774628b3bf10",
                     "Name": "Commarts_VRU"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_7d34e90d-20f0-4a28-8330-1efc629c43aa",
                     "Name": "Quest Chess with a chicken"
-                },
-                {
-                    "ID": "wrld_92d0f2e9-e30d-43cc-b0e5-972ac0d69f51",
-                    "Name": "DC tunnel"
-                },
-                {
-                    "ID": "wrld_74aad56a-8844-4dc5-8064-f5b35099fca7",
-                    "Name": "Only Dads Meeting Room"
-                },
-                {
-                    "ID": "wrld_1c936067-83bb-4d4b-a556-b35aeb240822",
-                    "Name": "The Apartment"
-                },
-                {
-                    "ID": "wrld_eed9df43-adae-4ab9-acb1-d923a6f4947e",
-                    "Name": "Tiny Home"
-                },
-                {
-                    "ID": "wrld_6c60e471-4a93-4632-9762-e8794e00e827",
-                    "Name": "Josh's Garden"
-                },
-                {
-                    "ID": "wrld_40e0eff0-0b03-4642-ba4a-729371c9503d",
-                    "Name": "Book-Room 0․17"
-                },
-                {
-                    "ID": "wrld_5bf78716-a4d3-48d8-b859-00ba3a00bead",
-                    "Name": "Agência Carib"
-                },
-                {
-                    "ID": "wrld_9ba8cf1d-b246-4fcd-896e-92643d9c052a",
-                    "Name": "おとぅいのお部屋"
-                },
-                {
-                    "ID": "wrld_061cd77d-8551-4c66-b894-a6ab6150ac18",
-                    "Name": "north"
-                },
-                {
-                    "ID": "wrld_e1b257d3-5974-4994-b5bc-a26875882f9c",
-                    "Name": "The Midnight Hour"
-                },
-                {
-                    "ID": "wrld_c157d146-9ecd-46f5-8738-4025bd02bc22",
-                    "Name": "Soapela Relax Club"
                 }
             ]
         }
