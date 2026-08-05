@@ -1347,6 +1347,42 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_4b1c7486-3ca7-43d2-a6ac-1414b8f35079",
+                    "Name": "［OCTAGON］ Dringking World"
+                },
+                {
+                    "ID": "wrld_23e2181e-d828-4a76-8bb2-544cc13450d1",
+                    "Name": "HartofStone Testing Zone"
+                },
+                {
+                    "ID": "wrld_372ec236-d024-4266-b3d5-7c5f11853893",
+                    "Name": "My nubos"
+                },
+                {
+                    "ID": "wrld_4c821e08-a77c-4f8e-83c2-18b84596565e",
+                    "Name": "TEST WORLD"
+                },
+                {
+                    "ID": "wrld_484d13ca-dcc9-4beb-80c7-fabe2ec20d53",
+                    "Name": "AI遊園地"
+                },
+                {
+                    "ID": "wrld_c916714b-b4fd-40ac-99d5-14f698e88eba",
+                    "Name": "Udon Driving City․"
+                },
+                {
+                    "ID": "wrld_924670d4-006d-43d6-b23e-029b98546a43",
+                    "Name": "the box ＃2"
+                },
+                {
+                    "ID": "wrld_6a9febf0-a1a3-49ee-813e-6832ea269bf9",
+                    "Name": "NYCU VTuber Club"
+                },
+                {
+                    "ID": "wrld_478ba90e-9ec3-4627-adee-f3fc35b7abb7",
+                    "Name": "Raiders chill pad"
+                },
+                {
                     "ID": "wrld_d502df7b-a0d9-444d-a535-4028f36744cf",
                     "Name": "Floransia Roxbury"
                 },
@@ -1429,42 +1465,6 @@
                 {
                     "ID": "wrld_2f150f96-2ee8-42c7-9a88-772b6af2642a",
                     "Name": "GaussianSplattingDog"
-                },
-                {
-                    "ID": "wrld_760012c4-4758-4652-8a1b-7faee5323684",
-                    "Name": "first time"
-                },
-                {
-                    "ID": "wrld_fe6559c6-0487-496b-9751-c8cb2441880e",
-                    "Name": "Xyn's Special Place"
-                },
-                {
-                    "ID": "wrld_6ef0bc23-b386-43f4-bea5-0e88ac3cb939",
-                    "Name": "test"
-                },
-                {
-                    "ID": "wrld_4a9b64d7-8ec2-4dd7-9637-0df952a9dd7a",
-                    "Name": "Romantic"
-                },
-                {
-                    "ID": "wrld_5e2fa4cd-1ced-44be-ac6c-1b220c6208a0",
-                    "Name": "0411WT1"
-                },
-                {
-                    "ID": "wrld_d8d2c31b-23a9-493f-a9b3-7d10f1b565bc",
-                    "Name": "The Velvet Box - DP Galaxy of Terror - Jazz club"
-                },
-                {
-                    "ID": "wrld_abef89ef-82c8-43b8-851e-63d5d5cfb776",
-                    "Name": "one-room"
-                },
-                {
-                    "ID": "wrld_3af2884b-49e6-4e3f-9b44-8bfcaf782089",
-                    "Name": "Rays Of Nostalgia~Art Gallery"
-                },
-                {
-                    "ID": "wrld_6aca75dc-609d-4a76-bb68-515f915cff3b",
-                    "Name": "cat"
                 }
             ]
         }
