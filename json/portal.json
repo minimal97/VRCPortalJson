@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_b7b5c84a-91d3-42f0-9a63-ce757b49bae5",
+                    "Name": "lung cancer cave 肺がんの洞窟"
+                },
+                {
+                    "ID": "wrld_b878b936-ee2b-4b0f-8b32-399a355ec8a4",
+                    "Name": "Construction hotel"
+                },
+                {
+                    "ID": "wrld_badc18a0-ab3f-4d61-aa0a-39744e4851a0",
+                    "Name": "Room2022"
+                },
+                {
+                    "ID": "wrld_cba364c9-8a26-4291-996f-e04c52e8d340",
+                    "Name": "Cait`s Pinky Pastel"
+                },
+                {
+                    "ID": "wrld_bf4a1f87-f60f-46d1-babf-c989a62acd5c",
+                    "Name": "house-001"
+                },
+                {
+                    "ID": "wrld_2c36d452-8834-4609-8bc5-7b530d452839",
+                    "Name": "MaoRoom貓房"
+                },
+                {
+                    "ID": "wrld_d04660eb-c0cb-43c0-98c1-44e63517198b",
+                    "Name": "Dylan ave World"
+                },
+                {
+                    "ID": "wrld_81e68187-047e-4dc0-845b-745f6573d6df",
+                    "Name": "rubble"
+                },
+                {
+                    "ID": "wrld_5f86a026-c3cd-4a2c-a5ec-9529c8f9e729",
+                    "Name": "无敌白雫的小家"
+                },
+                {
+                    "ID": "wrld_48067757-4009-4a67-a69e-ed3019980060",
+                    "Name": "Stranded"
+                },
+                {
                     "ID": "wrld_4b1c7486-3ca7-43d2-a6ac-1414b8f35079",
                     "Name": "［OCTAGON］ Dringking World"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_a2119dbf-25a5-44c8-97a9-1b4cfb9f6195",
                     "Name": "chill world"
-                },
-                {
-                    "ID": "wrld_fa4cd960-2543-40da-9000-5b34e47d5991",
-                    "Name": "SecretSugar"
-                },
-                {
-                    "ID": "wrld_4746036b-e140-4cdd-b7de-84e0d170e5ce",
-                    "Name": "사이버 모시깽이 월드"
-                },
-                {
-                    "ID": "wrld_801f53d9-4e19-428a-b3af-ea97b2f583d0",
-                    "Name": "Cian Bar"
-                },
-                {
-                    "ID": "wrld_418e39dc-cb28-4233-b74a-9366767ca764",
-                    "Name": "White well The third Lab"
-                },
-                {
-                    "ID": "wrld_a4591f08-46d0-4da3-a38e-1fe52641e82d",
-                    "Name": "House_beta"
-                },
-                {
-                    "ID": "wrld_1e32b43a-4f00-403b-bae2-37d5bfa31200",
-                    "Name": "佐衛乃平太の部屋"
-                },
-                {
-                    "ID": "wrld_78edd63e-722a-44f8-b659-6a77aa78befd",
-                    "Name": "abandonated city"
-                },
-                {
-                    "ID": "wrld_3bd78f73-9de0-47cd-a8d4-5b994b6f38bb",
-                    "Name": "World"
-                },
-                {
-                    "ID": "wrld_0f4bb713-84a3-4042-8b6b-fc06e6626adb",
-                    "Name": "ucbos airfield"
-                },
-                {
-                    "ID": "wrld_2f150f96-2ee8-42c7-9a88-772b6af2642a",
-                    "Name": "GaussianSplattingDog"
                 }
             ]
         }
