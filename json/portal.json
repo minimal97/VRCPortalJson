@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_733e57a9-bb74-47f0-8ec8-ab6a4ebbcbbe",
+                    "Name": "Four Seasons 四季 -Summer 夏-"
+                },
+                {
+                    "ID": "wrld_218f88c5-fda2-48e8-bf3e-4f6e66d99090",
+                    "Name": "Interstellar Abduction"
+                },
+                {
+                    "ID": "wrld_66c7ae85-d9ac-4dba-8f70-07c13dc396da",
+                    "Name": "Mantra 9 Bar 2․0 ［Archived］"
+                },
+                {
+                    "ID": "wrld_1252290d-7f0f-46fe-99c2-58bc3b9f178c",
+                    "Name": "chacha's home"
+                },
+                {
+                    "ID": "wrld_7f540fde-dd40-4a77-bb0b-67eaa377a502",
+                    "Name": "Nd n zé"
+                },
+                {
+                    "ID": "wrld_0acc8aac-c703-4485-aa46-52a0fa0638e1",
+                    "Name": "Nathanimalls Animal Bar"
+                },
+                {
+                    "ID": "wrld_5abd82f9-3afc-43e3-849b-6dc155764e06",
+                    "Name": "New type VR Keyboard Test"
+                },
+                {
+                    "ID": "wrld_47e44004-a5c4-482a-a973-ce1249806b3e",
+                    "Name": "Boiling pub"
+                },
+                {
+                    "ID": "wrld_7071859a-009b-472b-b9ed-48d4c9288df7",
+                    "Name": "FriThru's Office"
+                },
+                {
+                    "ID": "wrld_2f11c89a-cd56-4184-af80-c97cac2c43cc",
+                    "Name": "ChillWorld"
+                },
+                {
+                    "ID": "wrld_7a9b053e-c725-4eca-954b-ac43ca2a79f6",
+                    "Name": "TestMap"
+                },
+                {
                     "ID": "wrld_c2d9fb52-4958-4667-bb7d-3f82c6644987",
                     "Name": "Diamond Planet （Elien）"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_301c0d61-a69e-49ee-8af1-f1c7c8d86036",
                     "Name": "Soren House Noche"
-                },
-                {
-                    "ID": "wrld_cea28ef4-7703-4fc4-938f-bbc40605a528",
-                    "Name": "Totem Playground"
-                },
-                {
-                    "ID": "wrld_a7ec515a-f474-4297-a54c-9fcd75938397",
-                    "Name": "Test for quest"
-                },
-                {
-                    "ID": "wrld_82cdf806-36d7-4756-97ed-add221e069fb",
-                    "Name": "Architecture_Prototyping005"
-                },
-                {
-                    "ID": "wrld_32e3da9b-7bbd-4353-b232-c333bb2a273d",
-                    "Name": "The Spark Plug"
-                },
-                {
-                    "ID": "wrld_387478c4-a1a0-4964-a6e6-f91a658edf3f",
-                    "Name": "Mal's Cafe"
-                },
-                {
-                    "ID": "wrld_de9157a9-2c27-4771-b779-b13955ba8b95",
-                    "Name": "Sleepy"
-                },
-                {
-                    "ID": "wrld_dac59dd7-02ff-492a-a4a2-31a742238bd4",
-                    "Name": "Tiger's Labyrinth"
-                },
-                {
-                    "ID": "wrld_dd7a1c03-14fb-4bdf-bfa7-cf3d82f1c96c",
-                    "Name": "真正的大别野"
-                },
-                {
-                    "ID": "wrld_3da8fb67-b3e9-4eda-9785-992d6debd7ad",
-                    "Name": "枫州的小屋（beta）"
-                },
-                {
-                    "ID": "wrld_ac23d792-266a-484e-80af-4b3fea117bf4",
-                    "Name": "Bingus bongus"
-                },
-                {
-                    "ID": "wrld_9db86a5a-0950-43c5-b75b-68f8ae676847",
-                    "Name": "Amy's vr hangout"
                 }
             ]
         }
