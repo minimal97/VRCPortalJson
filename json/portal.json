@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_bba672fc-4a77-407a-85f4-6c0953d2cde2",
+                    "Name": "Random_Kingdom"
+                },
+                {
+                    "ID": "wrld_5a7caeba-19c5-43e8-9fd0-e00a52d5f261",
+                    "Name": "IntroSphere"
+                },
+                {
+                    "ID": "wrld_f230daa1-7ca7-4f42-85f6-409e36774534",
+                    "Name": "yoruuuuuuu"
+                },
+                {
+                    "ID": "wrld_09bdf789-71a6-49ba-88a9-c761e049b7b5",
+                    "Name": "ろめハウス（仮）"
+                },
+                {
+                    "ID": "wrld_3562c9bf-dcc0-4759-9686-d3a2727f3094",
+                    "Name": "Palo Verde Magnet High"
+                },
+                {
+                    "ID": "wrld_f574c443-3838-4039-b008-302e30ae0f2a",
+                    "Name": "Cabin"
+                },
+                {
+                    "ID": "wrld_5db79aec-03f4-477a-8cc3-9593df637565",
+                    "Name": "Closed Room"
+                },
+                {
+                    "ID": "wrld_0b14c9ae-0114-4c00-9bcd-fd6d39b1fcde",
+                    "Name": "T3 Hangout"
+                },
+                {
+                    "ID": "wrld_e9f56f7f-bf04-4e71-b6c6-d5190c713813",
+                    "Name": "Scorilla World"
+                },
+                {
+                    "ID": "wrld_12c5b14f-630c-4523-aec2-7aba4c959b17",
+                    "Name": "CAP Assets Demo World"
+                },
+                {
+                    "ID": "wrld_dfc2d353-8a4b-4b0b-91a1-df885ef72b24",
+                    "Name": "CORIUM"
+                },
+                {
                     "ID": "wrld_d8c301ee-4c29-444e-971c-ce8eecf179fd",
                     "Name": "Just 自然教室の部屋"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_9cb4d520-9ba7-40bb-8bf1-2632c25c4507",
                     "Name": "WUFFYFURRY Chill"
-                },
-                {
-                    "ID": "wrld_2633ea87-5adf-42c5-a2c9-5b6ef0b3e42e",
-                    "Name": "WTC"
-                },
-                {
-                    "ID": "wrld_76b66478-113f-4fd3-ba88-c764a1adc2a8",
-                    "Name": "RED BOX"
-                },
-                {
-                    "ID": "wrld_cbfd2b2c-8178-4951-aa9c-24c1a0ceb74d",
-                    "Name": "Comfy Home"
-                },
-                {
-                    "ID": "wrld_ed075f53-379c-4677-8631-1f74bb54646c",
-                    "Name": "hidden"
-                },
-                {
-                    "ID": "wrld_b65b62ba-ebf0-4e9b-970a-ef995ccd827d",
-                    "Name": "불한당"
-                },
-                {
-                    "ID": "wrld_6baffd95-086e-45db-a318-ead6bd4fec0d",
-                    "Name": "シラフver1․2"
-                },
-                {
-                    "ID": "wrld_f352719c-b8c4-4419-b1d6-fbfef8856967",
-                    "Name": "Froggo Supremacy"
-                },
-                {
-                    "ID": "wrld_0063b3e5-6847-4046-ae14-26cc4a82bb52",
-                    "Name": "Violet Viper's Home"
-                },
-                {
-                    "ID": "wrld_bb37a923-6bc2-425c-b6c8-2baf0b733122",
-                    "Name": "vipers home"
-                },
-                {
-                    "ID": "wrld_bf534cee-872c-4185-9e41-87be921633d0",
-                    "Name": "mario circuit 1"
-                },
-                {
-                    "ID": "wrld_dd25cfa6-2c18-434b-80fd-d8217650d5d8",
-                    "Name": "首の家"
                 }
             ]
         }
