@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_6afe8a62-67f9-4fb0-b0eb-35ef0e8567d9",
+                    "Name": "おしゃれなモダンハウス"
+                },
+                {
+                    "ID": "wrld_0997e244-b15f-4361-bc83-78fc913ce6d2",
+                    "Name": "Testing"
+                },
+                {
+                    "ID": "wrld_e39b59d3-e029-4c31-9aa8-b7c22a9b7ba9",
+                    "Name": "＄0rry's LØunge․"
+                },
+                {
+                    "ID": "wrld_8f086a78-0e34-4e6e-b41c-e2e7dc318820",
+                    "Name": "My room"
+                },
+                {
+                    "ID": "wrld_2c640b07-1776-47e2-ae1d-c0e365e308b7",
+                    "Name": "回憶小屋"
+                },
+                {
+                    "ID": "wrld_2ac364d3-707f-46df-8608-047fa7d3db6d",
+                    "Name": "Low Poly Bowl Camp"
+                },
+                {
+                    "ID": "wrld_3b7293d8-68bb-4aec-b667-5aa3d8774aea",
+                    "Name": "Simply Sea Side Island Ocean"
+                },
+                {
+                    "ID": "wrld_44dc603c-70a7-4ebd-b0ca-222322cf288d",
+                    "Name": "Sunset ＃4"
+                },
+                {
+                    "ID": "wrld_ea475c0e-353c-49b4-8e84-7d3ec542ccfb",
+                    "Name": "Tropical Villa and Community Cafe"
+                },
+                {
+                    "ID": "wrld_e04706a7-4a2b-4b7c-86d4-04b972870e99",
+                    "Name": "별천지2"
+                },
+                {
+                    "ID": "wrld_43b724d4-0471-4152-9143-3edaa329354e",
+                    "Name": "헤라 카페"
+                },
+                {
                     "ID": "wrld_6191ab18-9555-46f2-8f0d-fec259fd4fe7",
                     "Name": "Indigo Park Screen"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_e9f56f7f-bf04-4e71-b6c6-d5190c713813",
                     "Name": "Scorilla World"
-                },
-                {
-                    "ID": "wrld_12c5b14f-630c-4523-aec2-7aba4c959b17",
-                    "Name": "CAP Assets Demo World"
-                },
-                {
-                    "ID": "wrld_dfc2d353-8a4b-4b0b-91a1-df885ef72b24",
-                    "Name": "CORIUM"
-                },
-                {
-                    "ID": "wrld_d8c301ee-4c29-444e-971c-ce8eecf179fd",
-                    "Name": "Just 自然教室の部屋"
-                },
-                {
-                    "ID": "wrld_937bc42f-7d1c-40f3-a57e-6271b41cd82b",
-                    "Name": "The Box"
-                },
-                {
-                    "ID": "wrld_a337a563-17ff-4d63-85be-b366f22a4d92",
-                    "Name": "Modern House with Cinema"
-                },
-                {
-                    "ID": "wrld_2ea7b8b9-80a7-4786-9656-2ec9627b29b1",
-                    "Name": "Moonlight And Stars Universe"
-                },
-                {
-                    "ID": "wrld_cae2ff9f-2d40-4dfe-9fab-52a856a8b822",
-                    "Name": "集会ないしは待合所ワールド"
-                },
-                {
-                    "ID": "wrld_56a5d058-6215-45ba-843d-9f0ae0aead3f",
-                    "Name": "my blocky cool room wow"
-                },
-                {
-                    "ID": "wrld_365ac758-122a-4c60-b747-5aa7133e316e",
-                    "Name": "toxics simple video player world"
-                },
-                {
-                    "ID": "wrld_3912f2df-02a8-4bbd-a462-04f010bed1a1",
-                    "Name": "とある何処かの講義室"
-                },
-                {
-                    "ID": "wrld_77cef964-a8d0-411c-abc8-bf2c1d18797d",
-                    "Name": "room"
                 }
             ]
         }
