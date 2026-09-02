@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_9eb27a40-5b9a-461a-b25b-3ff659b38c59",
+                    "Name": "The Very Third"
+                },
+                {
+                    "ID": "wrld_a2fbeded-ec30-42d8-a7d0-34f835ea19c8",
+                    "Name": "ASMRの部屋"
+                },
+                {
+                    "ID": "wrld_cf8cce1a-bcb2-40f5-ad62-2257a49d900e",
+                    "Name": "imy"
+                },
+                {
+                    "ID": "wrld_57baf62b-058a-4ca2-820e-d9c03ec9b6db",
+                    "Name": "Spirale"
+                },
+                {
+                    "ID": "wrld_46ea3b84-9cce-4500-8e1b-6dfcdfd727d0",
+                    "Name": "Sheesh WIP"
+                },
+                {
+                    "ID": "wrld_60f8ac1a-a2bb-4d25-8544-e17538d456ac",
+                    "Name": "睡魔の休憩所"
+                },
+                {
+                    "ID": "wrld_5c650c2f-a86b-43bc-a523-b7e888a9f7dc",
+                    "Name": "SGT鈴鹿"
+                },
+                {
+                    "ID": "wrld_3e4e851c-a34e-4261-984c-a11f17044d46",
+                    "Name": "Test Server （Made by Ralph）"
+                },
+                {
+                    "ID": "wrld_632f03b6-abdb-4d1d-8b1c-ac8d9509b30b",
+                    "Name": "The Acheron"
+                },
+                {
+                    "ID": "wrld_17def84d-64e0-440f-a9c6-440c17624b0c",
+                    "Name": "量産型チルワールド"
+                },
+                {
+                    "ID": "wrld_fbf8795d-59b0-4c24-94b6-47151f0f98f2",
+                    "Name": "E-Inc Office Building"
+                },
+                {
                     "ID": "wrld_36f67d71-be3b-4125-b295-377c8622d531",
                     "Name": "Megaworld Festival 2023"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_6560af4b-0e62-43ef-bff3-215e17cde633",
                     "Name": "Kairakuya-Coffee"
-                },
-                {
-                    "ID": "wrld_a210c2c1-4c45-4459-86fc-d097bbd7fee9",
-                    "Name": "Team Taidum event hall"
-                },
-                {
-                    "ID": "wrld_389cc6b1-43b0-44d5-8fb0-c8f3abb27f4e",
-                    "Name": "诗乃的海上孤岛"
-                },
-                {
-                    "ID": "wrld_861fbb75-a4bd-4f93-9c76-76e47cb800b2",
-                    "Name": "꿀멩이 3주년 기념 파티"
-                },
-                {
-                    "ID": "wrld_d1d345b2-fcc4-4b33-bca7-95b95e3fe17a",
-                    "Name": "Honlin test"
-                },
-                {
-                    "ID": "wrld_5bb25ad5-dd9f-4e5e-9d9d-0f23dc8d8632",
-                    "Name": "体育館beta"
-                },
-                {
-                    "ID": "wrld_4743936c-da89-49a6-af3c-d825904d95a7",
-                    "Name": "NewMemory"
-                },
-                {
-                    "ID": "wrld_903e4d59-4a69-4ce0-a7d2-32ae26e84e4a",
-                    "Name": "のんびり部屋"
-                },
-                {
-                    "ID": "wrld_aa2ee4bf-010e-43cd-9bc3-c68bea5dc9f9",
-                    "Name": "-私の居場所-"
-                },
-                {
-                    "ID": "wrld_2287ce4c-3beb-4d8f-b283-3977a19ead2d",
-                    "Name": "Imperialis"
-                },
-                {
-                    "ID": "wrld_499cefe7-6db7-4b9c-9c19-59ad573b191d",
-                    "Name": "kaya world"
-                },
-                {
-                    "ID": "wrld_2324d69b-3d42-4e6e-b3e1-6d03a370b1ac",
-                    "Name": "（2025） Kaylee's Birthday"
                 }
             ]
         }
