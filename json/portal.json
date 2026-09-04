@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_9419992d-3ddb-4155-b43d-847f7601972b",
+                    "Name": "Sinking Star"
+                },
+                {
+                    "ID": "wrld_3e11ba0e-0260-4bf4-9b66-f24593b9c1d9",
+                    "Name": "The Box"
+                },
+                {
+                    "ID": "wrld_957f9ebb-5125-49b1-ab81-eac6d79058ea",
+                    "Name": "Quest Cafe"
+                },
+                {
+                    "ID": "wrld_808622c9-8199-438d-a476-76c23fdaad2c",
+                    "Name": "Yadorigi Sport Fes"
+                },
+                {
+                    "ID": "wrld_6212b20f-02c5-4575-b0cb-9d2dee984f32",
+                    "Name": "ナハトの隠れ屋敷"
+                },
+                {
+                    "ID": "wrld_fe4e0b21-51d2-4ab5-a2c3-641fec061e33",
+                    "Name": "理想乡"
+                },
+                {
+                    "ID": "wrld_be31025a-b35d-4f4d-98df-e17d06a0d867",
+                    "Name": "まっするーむ"
+                },
+                {
+                    "ID": "wrld_b68dd4c5-6aa6-4148-9859-1f2c5d77414f",
+                    "Name": "第100操縦訓練場⁄Time attack area"
+                },
+                {
+                    "ID": "wrld_eacac38e-a98d-41cb-96aa-5778189021a6",
+                    "Name": "World of Rus"
+                },
+                {
+                    "ID": "wrld_5311a61c-74b8-4939-83d8-7c1f7847816d",
+                    "Name": "The Zoo"
+                },
+                {
+                    "ID": "wrld_0b854ee6-e13a-4200-a217-4af2d8a30c96",
+                    "Name": "煩悩少なめの写真館3"
+                },
+                {
                     "ID": "wrld_3c6e3b3e-ef50-4420-849e-3ed3aed0095b",
                     "Name": "Devil goo House"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_3e4e851c-a34e-4261-984c-a11f17044d46",
                     "Name": "Test Server （Made by Ralph）"
-                },
-                {
-                    "ID": "wrld_632f03b6-abdb-4d1d-8b1c-ac8d9509b30b",
-                    "Name": "The Acheron"
-                },
-                {
-                    "ID": "wrld_17def84d-64e0-440f-a9c6-440c17624b0c",
-                    "Name": "量産型チルワールド"
-                },
-                {
-                    "ID": "wrld_fbf8795d-59b0-4c24-94b6-47151f0f98f2",
-                    "Name": "E-Inc Office Building"
-                },
-                {
-                    "ID": "wrld_36f67d71-be3b-4125-b295-377c8622d531",
-                    "Name": "Megaworld Festival 2023"
-                },
-                {
-                    "ID": "wrld_6f56bbaa-11ca-4824-be5a-88098389b27a",
-                    "Name": "Toaster Lurkers' Bar"
-                },
-                {
-                    "ID": "wrld_5a36d8b9-0b84-4f04-9b97-d429cce9c5ca",
-                    "Name": "Desolence"
-                },
-                {
-                    "ID": "wrld_bb59c614-f37b-44a8-bb9e-4b63cd464d74",
-                    "Name": "Chill place in space to AFK and chill in ˸）"
-                },
-                {
-                    "ID": "wrld_bf9edb02-2f75-4d6b-b761-c11c63d6c56e",
-                    "Name": "RoseSuka's happy place"
-                },
-                {
-                    "ID": "wrld_2fe53130-d08b-43f2-8c82-da17249c6d77",
-                    "Name": "ギャルあらいぐま"
-                },
-                {
-                    "ID": "wrld_2363d5c5-4ced-4b4d-b0d1-39abe1bcf0d0",
-                    "Name": "Dark world"
-                },
-                {
-                    "ID": "wrld_e9ce1322-c7ba-4db0-af7c-a42cb7689c27",
-                    "Name": "Lydia's Dorm"
                 }
             ]
         }
