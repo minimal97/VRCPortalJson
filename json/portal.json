@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_2279544d-c24c-41b7-8382-779c52e18799",
+                    "Name": "Bexs Chill Apartment"
+                },
+                {
+                    "ID": "wrld_2526c3c7-ccd4-4083-b252-80692234c78a",
+                    "Name": "Cardboard City"
+                },
+                {
+                    "ID": "wrld_a026c707-464c-4e27-aeff-5f6ff08d772a",
+                    "Name": "The Nook․"
+                },
+                {
+                    "ID": "wrld_e02b34fd-b6e8-4417-9aca-97cd0d470964",
+                    "Name": "Starry Night Gazebo"
+                },
+                {
+                    "ID": "wrld_f1908a2f-df3c-4621-8d78-ebec084867aa",
+                    "Name": "Circa November"
+                },
+                {
+                    "ID": "wrld_5e2dd52b-7fe2-45c0-b42f-1d99ea92003b",
+                    "Name": "Sub-Terra"
+                },
+                {
+                    "ID": "wrld_d1eefc24-4609-42e2-874b-051f37d06138",
+                    "Name": "ElCozyRoomo"
+                },
+                {
+                    "ID": "wrld_7b1c986d-a71f-44d7-a371-3942236fccae",
+                    "Name": "Boardgame Factory_Hub"
+                },
+                {
+                    "ID": "wrld_3b60b2b7-9cb8-4c4b-8631-68a9e4a60585",
+                    "Name": "Chocolate rain"
+                },
+                {
+                    "ID": "wrld_a51311ed-133b-4ee6-9bf3-3c0ed9af7a19",
+                    "Name": "Fiesta Latina"
+                },
+                {
                     "ID": "wrld_beed84e1-e3bb-4b00-8968-00caa84bf2e0",
                     "Name": "PIP'S PAD"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_50c0af1f-4b5f-4afe-88a5-b0fdf0a23879",
                     "Name": "I․S․U BlockWorld"
-                },
-                {
-                    "ID": "wrld_11912714-f67e-4aab-a498-04c80c3ccad7",
-                    "Name": "North Industrial District Outskirts"
-                },
-                {
-                    "ID": "wrld_4d03baf1-a024-4988-8b39-6400fa9e85cd",
-                    "Name": "What is this?"
-                },
-                {
-                    "ID": "wrld_7f0d7da9-3734-4f6b-a3d2-db7813c997eb",
-                    "Name": "Grey Haven"
-                },
-                {
-                    "ID": "wrld_25a39060-7ead-4e04-a7bd-411b3312ce44",
-                    "Name": "Renkiritan Home"
-                },
-                {
-                    "ID": "wrld_4b78c7e3-3db8-4549-b8dc-7946d35a6105",
-                    "Name": "AFK ROOM"
-                },
-                {
-                    "ID": "wrld_d5eade61-e03d-45b7-bffc-beb9851fb608",
-                    "Name": "ヘル"
-                },
-                {
-                    "ID": "wrld_d88060a8-43db-4182-8061-64c819979bff",
-                    "Name": "GRoom"
-                },
-                {
-                    "ID": "wrld_77a48df8-2c1d-42f0-9c9f-5a6199d2a431",
-                    "Name": "Nei Home （試作品）"
-                },
-                {
-                    "ID": "wrld_b7982bd8-9044-4921-b721-dc8b55b230bf",
-                    "Name": "CJ Club"
-                },
-                {
-                    "ID": "wrld_265e22d6-f3ee-4c5e-a423-6da5bafd66bc",
-                    "Name": "Trip V4"
                 }
             ]
         }
