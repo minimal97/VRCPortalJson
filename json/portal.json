@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_7d3a2714-31ac-4ab7-8a05-e168f30a0358",
+                    "Name": "Exo's Basement"
+                },
+                {
+                    "ID": "wrld_511a4ff0-cd67-4c65-9b21-2ee0a8af5f54",
+                    "Name": "Ocean House"
+                },
+                {
+                    "ID": "wrld_8408cd34-cd32-4ca9-8270-a54dbb0e5aa9",
+                    "Name": "Order Of Veil ｜ Fleet Ship"
+                },
+                {
+                    "ID": "wrld_ce2ba729-60f1-4560-963a-266f25de631f",
+                    "Name": "Protogen just a protogen sitting in a world"
+                },
+                {
+                    "ID": "wrld_63a85f73-a8ee-4267-907e-a79ed9fec027",
+                    "Name": "星空広Bar"
+                },
+                {
+                    "ID": "wrld_f8908aa4-a8b5-4c7b-a287-d64fdb045c5b",
+                    "Name": "NightLodge"
+                },
+                {
+                    "ID": "wrld_9ce84be6-9c96-43ca-a880-f1539ab14408",
+                    "Name": "End Date"
+                },
+                {
+                    "ID": "wrld_00fcad9c-2c54-4836-ba4b-8807f951a7fe",
+                    "Name": "blue container"
+                },
+                {
+                    "ID": "wrld_14baed54-fdbf-4b0d-9c1b-7a27a22a53d2",
+                    "Name": "Templo de Asgard"
+                },
+                {
+                    "ID": "wrld_4d28a7d8-af5d-4f40-999d-11d1b47d078c",
+                    "Name": "King's world"
+                },
+                {
                     "ID": "wrld_2279544d-c24c-41b7-8382-779c52e18799",
                     "Name": "Bexs Chill Apartment"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_5bb3f7a7-c848-4362-acc1-d6b18ab29edf",
                     "Name": "Senpai's hangout"
-                },
-                {
-                    "ID": "wrld_50972a45-0ff8-43cf-a977-278230963aed",
-                    "Name": "Random Island"
-                },
-                {
-                    "ID": "wrld_a2e9c347-869e-4062-a3cf-3ce245550557",
-                    "Name": "Martin's House V3"
-                },
-                {
-                    "ID": "wrld_64d8de1d-2c66-465f-bb08-1f2d2c1ba5a7",
-                    "Name": "Betani_BedRoom"
-                },
-                {
-                    "ID": "wrld_e75d132c-7a06-4fad-b60e-dea64f33394a",
-                    "Name": "Whiteout"
-                },
-                {
-                    "ID": "wrld_5a3f908c-824e-44bc-a1e6-48cf87ecc359",
-                    "Name": "Rain Room"
-                },
-                {
-                    "ID": "wrld_1b0d8a94-278d-41eb-8a67-4abd4da0a675",
-                    "Name": "Happy Heart Day"
-                },
-                {
-                    "ID": "wrld_f02c83a0-eb2c-423e-bba0-254c4a2c94d2",
-                    "Name": "Rave's Events"
-                },
-                {
-                    "ID": "wrld_d39cb57f-059a-4e60-bf0b-36b9a8875acf",
-                    "Name": "Virtual Mitsuken City（VR見附市：非公式）"
-                },
-                {
-                    "ID": "wrld_2e640ae8-86b1-47ad-90c0-0edac1a79314",
-                    "Name": "みかち～ハウス"
-                },
-                {
-                    "ID": "wrld_50c0af1f-4b5f-4afe-88a5-b0fdf0a23879",
-                    "Name": "I․S․U BlockWorld"
                 }
             ]
         }
