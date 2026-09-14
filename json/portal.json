@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_7f1b1744-a2a5-4a8e-8350-7533b94ea8d3",
+                    "Name": "ばんびの家"
+                },
+                {
+                    "ID": "wrld_e612eeb7-9f59-4b92-afbc-f48c3f9e48d7",
+                    "Name": "Cozy Room"
+                },
+                {
+                    "ID": "wrld_844e3470-c9e3-4fee-a8d1-9a425f81f5bb",
+                    "Name": "Lobby test"
+                },
+                {
+                    "ID": "wrld_fcdc550d-6b57-45ec-b7e5-4b379a4f7a0c",
+                    "Name": "灵猫的Soft Solace"
+                },
+                {
+                    "ID": "wrld_6632e31e-c871-4fab-8890-d82850cf4bc9",
+                    "Name": "Plexus Sky"
+                },
+                {
+                    "ID": "wrld_3de8767e-9c6f-458a-8731-9a2e20e7b525",
+                    "Name": "新・VRChatガイドブック フォトギャラリーワールド New VRChat Guidebook photo gallery"
+                },
+                {
+                    "ID": "wrld_82b4c391-df2d-4643-b680-614ff5e00fc7",
+                    "Name": "The Room"
+                },
+                {
+                    "ID": "wrld_4c941573-565c-44c4-8055-ab4538f07606",
+                    "Name": "bblb"
+                },
+                {
+                    "ID": "wrld_2ec9194c-bd38-4b5a-8fe1-4f15cdbee988",
+                    "Name": "platform 1"
+                },
+                {
+                    "ID": "wrld_baa5c220-ab02-4eef-88b7-54a1f2bcc648",
+                    "Name": "TesT V․2"
+                },
+                {
+                    "ID": "wrld_421891b9-f7b6-4521-94a7-74050f4fb25a",
+                    "Name": "하찮은 사거리"
+                },
+                {
                     "ID": "wrld_5175d9f9-5142-4f30-aef5-ca29d70fe562",
                     "Name": "Metro"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_32ab219c-ee6d-4c49-95fa-c55e6b9af0c0",
                     "Name": "Mysterious world"
-                },
-                {
-                    "ID": "wrld_79be4ef7-6052-4f7a-b872-8b9338cdacf5",
-                    "Name": "ブラウン工房ショールーム"
-                },
-                {
-                    "ID": "wrld_ce45700e-ef71-4112-aa2c-65ac999b3927",
-                    "Name": "Udon_ Asitir and StackOverflow"
-                },
-                {
-                    "ID": "wrld_5a9d78b5-574d-4eb8-949a-2594782c2b52",
-                    "Name": "Backyard Afternoon"
-                },
-                {
-                    "ID": "wrld_feeef105-9315-42d5-ae43-3c894389c5cc",
-                    "Name": "Cloudy loft"
-                },
-                {
-                    "ID": "wrld_504bfaac-62af-4ea6-9e6e-7dd62bec4a45",
-                    "Name": "Mikoto's space home"
-                },
-                {
-                    "ID": "wrld_3d87e96d-d0fc-4da0-a0ab-5ce733a3fa3d",
-                    "Name": "1"
-                },
-                {
-                    "ID": "wrld_a61e39e6-fbfb-4b6c-8a4a-ef99ea310eee",
-                    "Name": "映画感"
-                },
-                {
-                    "ID": "wrld_5450ed3f-b1d5-41e8-8ceb-3c42ee5a408d",
-                    "Name": "Devils Club"
-                },
-                {
-                    "ID": "wrld_b074aab0-711b-4fbb-b987-097a29dead4f",
-                    "Name": "Student Council room"
-                },
-                {
-                    "ID": "wrld_8702654a-3f96-4d6f-9cb9-50f9b4bd726e",
-                    "Name": "axel's chill world"
-                },
-                {
-                    "ID": "wrld_6343df9b-9eef-4a24-a112-b1e83a3b8438",
-                    "Name": "Apartment Hang out"
                 }
             ]
         }
