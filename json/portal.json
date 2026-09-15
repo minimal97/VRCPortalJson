@@ -1347,6 +1347,26 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_ac1962dc-5c54-4dc3-83e4-1562fcb6413e",
+                    "Name": "〜燦華〜 Cafe WeeNight 3rd Lounge"
+                },
+                {
+                    "ID": "wrld_5b33d46a-1bd0-43ae-a21d-11f71d732417",
+                    "Name": "けちゃぷの寝室"
+                },
+                {
+                    "ID": "wrld_ff4bcc62-b03d-4fa6-9872-e1e6e03c71ef",
+                    "Name": "Cafe Mock Up V 0․0․3"
+                },
+                {
+                    "ID": "wrld_046fb233-75e7-4125-983a-fa784c24e857",
+                    "Name": "Home Sweet Home"
+                },
+                {
+                    "ID": "wrld_65d64548-fefa-49de-badc-3486d8428a09",
+                    "Name": "10x10x10m"
+                },
+                {
                     "ID": "wrld_7f1b1744-a2a5-4a8e-8350-7533b94ea8d3",
                     "Name": "ばんびの家"
                 },
@@ -1445,26 +1465,6 @@
                 {
                     "ID": "wrld_2163be93-988f-4d33-885b-711514d137c0",
                     "Name": "Alone in lake"
-                },
-                {
-                    "ID": "wrld_b6ad5963-aeea-452b-8f73-4c74a5af3e51",
-                    "Name": "Kuroros Bar"
-                },
-                {
-                    "ID": "wrld_d5eb3d92-e475-4013-bd01-ee39a06915a4",
-                    "Name": "Webbed Cast"
-                },
-                {
-                    "ID": "wrld_85af9406-c4cb-468e-a521-41427907c42a",
-                    "Name": "The Box"
-                },
-                {
-                    "ID": "wrld_7b85e007-80ab-441c-84fe-2eba5866580b",
-                    "Name": "folklore"
-                },
-                {
-                    "ID": "wrld_32ab219c-ee6d-4c49-95fa-c55e6b9af0c0",
-                    "Name": "Mysterious world"
                 }
             ]
         }
