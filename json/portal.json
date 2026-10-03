@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_d3f4dc28-e4d2-41ab-a91e-39ac32b4202e",
+                    "Name": "Lilith HUB"
+                },
+                {
+                    "ID": "wrld_4639cc82-119f-4a1d-a637-d325008e360d",
+                    "Name": "なかねｓ思い出写真館"
+                },
+                {
+                    "ID": "wrld_2000359b-b5aa-43d2-a484-826e41a09f87",
+                    "Name": "Saturo Sphere"
+                },
+                {
+                    "ID": "wrld_982cbc50-410c-48ba-ab2a-1f9939378a96",
+                    "Name": "Intercessory ［FFXIV Heavensward］"
+                },
+                {
+                    "ID": "wrld_b9bef574-f083-4958-9223-29d82be7cf34",
+                    "Name": "LoneZaMusicFest In Space"
+                },
+                {
+                    "ID": "wrld_75ddf663-8eef-4d53-b4e4-c480f6b95f22",
+                    "Name": "비밀의 침실"
+                },
+                {
+                    "ID": "wrld_163f0e9a-0b1d-4a1a-9070-ab37be2b5d24",
+                    "Name": "FPVDrone plactice room 26"
+                },
+                {
+                    "ID": "wrld_32436070-937c-4f24-a9b8-18ea5404a57c",
+                    "Name": "TestWorld"
+                },
+                {
+                    "ID": "wrld_6eea6933-0c63-4b84-a492-c300719eeaf5",
+                    "Name": "Scream Room - Ghostface Inspired"
+                },
+                {
+                    "ID": "wrld_5f541cb9-d55b-421c-99ed-3dbdcccc5659",
+                    "Name": "Slab's Room"
+                },
+                {
                     "ID": "wrld_6b98e20f-1671-463f-baec-53d1ee0a3df2",
                     "Name": "Our House"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_fcdc550d-6b57-45ec-b7e5-4b379a4f7a0c",
                     "Name": "灵猫的Soft Solace"
-                },
-                {
-                    "ID": "wrld_6632e31e-c871-4fab-8890-d82850cf4bc9",
-                    "Name": "Plexus Sky"
-                },
-                {
-                    "ID": "wrld_3de8767e-9c6f-458a-8731-9a2e20e7b525",
-                    "Name": "新・VRChatガイドブック フォトギャラリーワールド New VRChat Guidebook photo gallery"
-                },
-                {
-                    "ID": "wrld_82b4c391-df2d-4643-b680-614ff5e00fc7",
-                    "Name": "The Room"
-                },
-                {
-                    "ID": "wrld_4c941573-565c-44c4-8055-ab4538f07606",
-                    "Name": "bblb"
-                },
-                {
-                    "ID": "wrld_2ec9194c-bd38-4b5a-8fe1-4f15cdbee988",
-                    "Name": "platform 1"
-                },
-                {
-                    "ID": "wrld_baa5c220-ab02-4eef-88b7-54a1f2bcc648",
-                    "Name": "TesT V․2"
-                },
-                {
-                    "ID": "wrld_421891b9-f7b6-4521-94a7-74050f4fb25a",
-                    "Name": "하찮은 사거리"
-                },
-                {
-                    "ID": "wrld_5175d9f9-5142-4f30-aef5-ca29d70fe562",
-                    "Name": "Metro"
-                },
-                {
-                    "ID": "wrld_8f5f9166-2a5b-45ea-97f0-48d5e5065d58",
-                    "Name": "KingVaders World"
-                },
-                {
-                    "ID": "wrld_e1f35421-0f2e-4b29-93d9-a248bd5e9f3b",
-                    "Name": "Sands of Aurora Deep Desert Region One"
                 }
             ]
         }
