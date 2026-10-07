@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_0ad75fee-0111-4ba9-beb6-22de7e17945e",
+                    "Name": "海上别墅"
+                },
+                {
+                    "ID": "wrld_679df7f6-3e06-4096-8e0e-2e8bb8f10203",
+                    "Name": "水の都-Sabeka"
+                },
+                {
+                    "ID": "wrld_5280cf8f-ec38-4c43-9514-a55e8084a2e6",
+                    "Name": "HotelHaiLong-213号室［HalloweenEdition］"
+                },
+                {
+                    "ID": "wrld_bf6d3353-52ac-47ec-8e8e-d695d9c55de4",
+                    "Name": "SergeiBlack's Gallery"
+                },
+                {
+                    "ID": "wrld_e7926fa9-d1e8-4607-85b6-9e5ce107d2d5",
+                    "Name": "Chairs ＆ Tables"
+                },
+                {
+                    "ID": "wrld_d7bcf462-f07d-4405-b68f-fad599dad3f7",
+                    "Name": "Pamio的小窝"
+                },
+                {
+                    "ID": "wrld_5233102c-e74a-484c-b813-825bd3e34a49",
+                    "Name": "アシモトノソラ（朝）"
+                },
+                {
+                    "ID": "wrld_63f5b295-f439-4a92-8a31-2ac75b403092",
+                    "Name": "Camping by the river"
+                },
+                {
+                    "ID": "wrld_97b2de17-16f6-4cea-9629-47345904d40f",
+                    "Name": "鉄道展示場"
+                },
+                {
+                    "ID": "wrld_8185be4f-a647-48a9-a98d-4b80b4cde8e5",
+                    "Name": "Just Plane"
+                },
+                {
                     "ID": "wrld_94fa4323-d1af-4301-bb31-99215fa6f057",
                     "Name": "Braddles Room"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_766ccb4d-0d92-41c6-add4-767f433156b4",
                     "Name": "test3"
-                },
-                {
-                    "ID": "wrld_01c67dd1-e765-4bd7-b5a0-2032b5e61050",
-                    "Name": "Cielo Carmesi"
-                },
-                {
-                    "ID": "wrld_d375e660-1627-4159-b14d-55e43c51bb79",
-                    "Name": "台本読み合わせるーむ"
-                },
-                {
-                    "ID": "wrld_c25a8438-2daa-43c6-84c4-76f92606c21c",
-                    "Name": "Hangout"
-                },
-                {
-                    "ID": "wrld_81a73e21-3c7d-4f89-956d-4151b377c000",
-                    "Name": "Apartment 14"
-                },
-                {
-                    "ID": "wrld_02c459c3-987f-49d8-8eba-de751e5123a1",
-                    "Name": "Sakura Mountain V1"
-                },
-                {
-                    "ID": "wrld_c42a17dc-af38-42cf-b6be-540eae0c1836",
-                    "Name": "凌乃窝"
-                },
-                {
-                    "ID": "wrld_b0d6fb62-305d-4bf0-be39-144ee38d9c0a",
-                    "Name": "Azur Lane․ IronBlood Throne Room 2․0"
-                },
-                {
-                    "ID": "wrld_498b3552-93f5-4e1b-969c-4a63cf9bf586",
-                    "Name": "Small Office"
-                },
-                {
-                    "ID": "wrld_86dade60-39b9-40a0-9476-9c1f2debae96",
-                    "Name": "Tony Knight Oasis"
-                },
-                {
-                    "ID": "wrld_d6efcbd1-c9c3-457d-918b-9a9a6ac78ca5",
-                    "Name": "Planets of Talisman MLP"
                 }
             ]
         }
