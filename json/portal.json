@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_0a6513a4-f4cf-4f3a-b9fe-dd85f1fcd2fa",
+                    "Name": "Osten Keep Bedchamber"
+                },
+                {
+                    "ID": "wrld_7cdfc1fb-cbf7-4cb5-a213-517c4c540ebb",
+                    "Name": "Chill-Café - ［Work In-Progress］"
+                },
+                {
+                    "ID": "wrld_c6225618-448f-4a7d-bc9f-ea6d78aef2c6",
+                    "Name": "Delirium Lodge Scan 2025"
+                },
+                {
+                    "ID": "wrld_7cb2ca3e-185d-41c9-bb7a-b2b3d617fba1",
+                    "Name": "LAB Unit Laboratory"
+                },
+                {
+                    "ID": "wrld_f56fb4b1-e62e-43c3-adbc-bb75bba84981",
+                    "Name": "Maze world"
+                },
+                {
+                    "ID": "wrld_d3eeb534-2ce6-47fe-9cb2-b50f3d512e3c",
+                    "Name": "audiolink tutorial for a friend"
+                },
+                {
+                    "ID": "wrld_51b0dce0-a520-4b5c-b4c2-c80194857f05",
+                    "Name": "Game test"
+                },
+                {
+                    "ID": "wrld_6e91a43a-dfcb-42a3-9e2f-c93b879c7a54",
+                    "Name": "Cool world"
+                },
+                {
+                    "ID": "wrld_53a01b4a-2268-4c64-80ce-1493ca18f117",
+                    "Name": "Hotel F"
+                },
+                {
+                    "ID": "wrld_e8be15c7-8078-4c0f-b216-474581e085d1",
+                    "Name": "Citadel （Benji）"
+                },
+                {
+                    "ID": "wrld_7157315f-a199-4a5d-b075-cc3f5123ed9c",
+                    "Name": "Just Plane"
+                },
+                {
                     "ID": "wrld_8d32677f-b348-4b35-9d6f-fc99cead1649",
                     "Name": "Film_Set_3"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_2e57042e-9550-4363-a0ee-aeddbe08bdf1",
                     "Name": "the funnies in the world are funny yk"
-                },
-                {
-                    "ID": "wrld_8bb114ec-8e4f-4ed0-bbc3-a2ac60e58bc8",
-                    "Name": "Ohio‚ The Cube"
-                },
-                {
-                    "ID": "wrld_8d0d53db-2cff-4f46-a323-80bb5b13da5f",
-                    "Name": "ShadowWorld"
-                },
-                {
-                    "ID": "wrld_07496c62-15b5-485f-976b-819929f0ce85",
-                    "Name": "xin"
-                },
-                {
-                    "ID": "wrld_f968f7e0-7d95-428b-b5b9-1e46f28b3e35",
-                    "Name": "My Old Room"
-                },
-                {
-                    "ID": "wrld_74729eb8-bf76-4b38-83b7-190f5cbf04e1",
-                    "Name": "J | K | Random"
-                },
-                {
-                    "ID": "wrld_291617f9-0913-4019-b5de-fef55cdcf8fe",
-                    "Name": "KANEGONs WORLD"
-                },
-                {
-                    "ID": "wrld_2090f2ef-0cfb-46f1-ac6a-99a57edb5f82",
-                    "Name": "SRL Virtual Pumper's Realm"
-                },
-                {
-                    "ID": "wrld_7bf6cc4c-fa9d-4786-bf06-fb817f95d22b",
-                    "Name": "Sirui's studio"
-                },
-                {
-                    "ID": "wrld_863b219b-bb21-4e9b-9689-89e46b1f3d38",
-                    "Name": "Cliffside Mansion"
-                },
-                {
-                    "ID": "wrld_e6742a4a-2167-4bbf-ab87-1d6375ebbc4f",
-                    "Name": "YOLOv4-Tiny"
-                },
-                {
-                    "ID": "wrld_e17efbff-ea9a-48d5-89c8-a0cfbec071fa",
-                    "Name": "Web's Showroom"
                 }
             ]
         }
