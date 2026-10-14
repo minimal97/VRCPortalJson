@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_08b4c6bc-8f04-4ba2-875f-62a484f28cd6",
+                    "Name": "Otaku Paradise"
+                },
+                {
+                    "ID": "wrld_9820880f-4ba5-4aeb-b096-5ac8f28712a9",
+                    "Name": "Homare Bar"
+                },
+                {
+                    "ID": "wrld_b52e4308-b39d-402f-b822-d4f1783cd71d",
+                    "Name": "HoME"
+                },
+                {
+                    "ID": "wrld_e65a3c11-1c32-4613-bdd0-9bab37e9bbd7",
+                    "Name": "MessageWindow_Sample"
+                },
+                {
+                    "ID": "wrld_afaac886-7aa1-4b90-b52c-439a01bed908",
+                    "Name": "Giant's Forest （거인의 숲）"
+                },
+                {
+                    "ID": "wrld_1722b331-d51e-4e2b-917f-e47770d6ce95",
+                    "Name": "-XIX- The Sun"
+                },
+                {
+                    "ID": "wrld_58a49ff9-f870-4ec6-88bd-c1609f8b111b",
+                    "Name": "k"
+                },
+                {
+                    "ID": "wrld_5595515b-7739-4ab6-bfd6-9f9726de7066",
+                    "Name": "コンクリートと浅いプール"
+                },
+                {
+                    "ID": "wrld_2e69b677-2b6c-494c-8a19-a4a8e3a2cffe",
+                    "Name": "Myammyu Room Simple 3"
+                },
+                {
+                    "ID": "wrld_9433bdf9-64da-4abf-b1dd-695c00147aaf",
+                    "Name": "Psionic Says - Spatial Memory Game"
+                },
+                {
+                    "ID": "wrld_d7727c4d-5085-45be-b619-4cde9a699f74",
+                    "Name": "QuickChips （Test World）"
+                },
+                {
                     "ID": "wrld_0a6513a4-f4cf-4f3a-b9fe-dd85f1fcd2fa",
                     "Name": "Osten Keep Bedchamber"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_dc5f3979-0cfe-4a42-b9ed-f4486c5b6117",
                     "Name": "tomo142's test world"
-                },
-                {
-                    "ID": "wrld_e0316f12-08d0-438f-9620-2c70adbf9a98",
-                    "Name": "Rest in the dark"
-                },
-                {
-                    "ID": "wrld_7d341152-1d26-402f-8e23-c7ac90f93c33",
-                    "Name": "CyberRoom"
-                },
-                {
-                    "ID": "wrld_c7b5a267-c937-452e-aed2-5560f8b01234",
-                    "Name": "Mini Club"
-                },
-                {
-                    "ID": "wrld_a1b7b3cc-3ef6-4a47-b856-9b4041d49f67",
-                    "Name": "梦幻水帘洞"
-                },
-                {
-                    "ID": "wrld_40914378-e8a0-47d6-8d9b-6b6750a0d449",
-                    "Name": "Faded Frenzy"
-                },
-                {
-                    "ID": "wrld_a6ba87a0-96b9-4491-87a7-11c4487248dd",
-                    "Name": "Day's End"
-                },
-                {
-                    "ID": "wrld_6d05f201-5ffd-4eaf-b019-634cc2379968",
-                    "Name": "Everquest 1 - Befallen"
-                },
-                {
-                    "ID": "wrld_c39773b4-6c66-4d12-828b-fdbc28170b9e",
-                    "Name": "Site Therian （beta）"
-                },
-                {
-                    "ID": "wrld_c65ef0f8-fb0c-448e-9e4a-d0539f3b23f3",
-                    "Name": "Tsukimi's Flight Training"
-                },
-                {
-                    "ID": "wrld_a448c10a-6bb5-4e26-b2de-2f39773b8257",
-                    "Name": "island in the ocean recreation‚ swimming"
-                },
-                {
-                    "ID": "wrld_2e57042e-9550-4363-a0ee-aeddbe08bdf1",
-                    "Name": "the funnies in the world are funny yk"
                 }
             ]
         }
