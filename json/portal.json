@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_8860ce53-1286-4c38-a04b-73063af26d33",
+                    "Name": "なんにゅーPhotoGallery"
+                },
+                {
+                    "ID": "wrld_49ed865f-1ed4-4958-a3b9-05a7ad1ccd7d",
+                    "Name": "Kurplunk's World"
+                },
+                {
+                    "ID": "wrld_95d9cf3c-7cd4-4787-b5a2-413639c403af",
+                    "Name": "FLEXCORE V0․5․1"
+                },
+                {
+                    "ID": "wrld_ab35cd7c-8f66-4f22-9964-55ac7c2966f5",
+                    "Name": "ボクの隠れ家BAR"
+                },
+                {
+                    "ID": "wrld_a8f8a564-6387-4491-b170-932cb4cfe982",
+                    "Name": "Charlotte_House"
+                },
+                {
+                    "ID": "wrld_e8984fa9-5641-4990-b88d-6d9628430e2c",
+                    "Name": "formula 1"
+                },
+                {
+                    "ID": "wrld_1abf76e2-87d9-4a35-872d-7ef2c91864d7",
+                    "Name": "雑鯖ハウス"
+                },
+                {
+                    "ID": "wrld_9382be29-8e29-4750-86be-bc6e3e34f3d2",
+                    "Name": "Hideki's Booth World"
+                },
+                {
+                    "ID": "wrld_f5415803-a1c6-47a6-91d8-678c660a4dca",
+                    "Name": "創世の地"
+                },
+                {
+                    "ID": "wrld_ab680915-d000-426e-adfa-d155b200a90b",
+                    "Name": "Bad Garage"
+                },
+                {
+                    "ID": "wrld_53e68cff-56ad-4696-b3dd-9923984b6603",
+                    "Name": "Normal"
+                },
+                {
                     "ID": "wrld_bf2edc98-d1d0-4f12-b7c3-c064ced7f4be",
                     "Name": "Reyna´s Test World V2"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_05eb66b0-7ba3-4fd2-ac70-0a5740e95eab",
                     "Name": "Deeply Intellectual"
-                },
-                {
-                    "ID": "wrld_4e0b61b5-c23d-4086-9941-a214ab99a611",
-                    "Name": "Dynamite's Test World"
-                },
-                {
-                    "ID": "wrld_bc10cd26-c271-4d4a-86de-88c6c5247b01",
-                    "Name": "U․T․P （Under the pipe）"
-                },
-                {
-                    "ID": "wrld_f994198a-2bcf-4256-b947-0fb81ddb603e",
-                    "Name": "Monochrome Lake"
-                },
-                {
-                    "ID": "wrld_33cb8a0f-fd57-4fe5-b530-f61ebfacb31e",
-                    "Name": "Mooney's"
-                },
-                {
-                    "ID": "wrld_1370910b-8c5b-4674-afee-1a7d89ae75ec",
-                    "Name": "Empty Museum"
-                },
-                {
-                    "ID": "wrld_5aa08f3b-965e-45be-8314-eb415f3ab74d",
-                    "Name": "Lair of the Plat"
-                },
-                {
-                    "ID": "wrld_04e22452-de3c-4df2-8fc5-162f8d0378a5",
-                    "Name": "Mion's Haven"
-                },
-                {
-                    "ID": "wrld_924ca5dd-ec37-4e82-b21b-3b3f9da470a6",
-                    "Name": "casa teste ≻˸U"
-                },
-                {
-                    "ID": "wrld_12de3975-361a-4dbf-8fe9-b799f1bb18c7",
-                    "Name": "Don't Tap the Glass"
-                },
-                {
-                    "ID": "wrld_c81cddcd-78cb-40c6-98ce-782508fe0a83",
-                    "Name": "Just Athletic"
-                },
-                {
-                    "ID": "wrld_94e7cda6-822b-43ae-9d94-0905f5fb22a7",
-                    "Name": "猫チルシアター"
                 }
             ]
         }
