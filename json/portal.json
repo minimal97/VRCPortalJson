@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_4ff0da04-6276-4f33-8d7a-734f81d050c0",
+                    "Name": "あざらし幼稚園のクリスマス会場"
+                },
+                {
+                    "ID": "wrld_62b725d0-df14-4b05-9f66-681e821c9892",
+                    "Name": "Meowland"
+                },
+                {
+                    "ID": "wrld_3d1982c1-bc61-4ba9-bbfd-96b2ec0ef5c9",
+                    "Name": "Music Vid Set 1"
+                },
+                {
+                    "ID": "wrld_4d8ff9ea-4703-497a-ab27-506918b0432c",
+                    "Name": "satoukonya_s home v0․0․10beta"
+                },
+                {
+                    "ID": "wrld_67758fe3-75e4-4000-ad4f-be328027c81e",
+                    "Name": "StealthDeck"
+                },
+                {
+                    "ID": "wrld_7d53bf95-49a7-4718-a2b8-497cfc0eba96",
+                    "Name": "Toma R room"
+                },
+                {
+                    "ID": "wrld_9bc209e2-fcb9-40ee-a540-d738a613f4b3",
+                    "Name": "mofumaru world"
+                },
+                {
+                    "ID": "wrld_3b951d79-6e33-4539-9534-c494d303422c",
+                    "Name": "CLLC3"
+                },
+                {
+                    "ID": "wrld_88739de3-480d-44bf-9c9d-21a818ddcffc",
+                    "Name": "タイマーテストワールド"
+                },
+                {
+                    "ID": "wrld_17d549b2-f65e-44da-b3d7-6cadbdf10719",
+                    "Name": "Globe House"
+                },
+                {
                     "ID": "wrld_8860ce53-1286-4c38-a04b-73063af26d33",
                     "Name": "なんにゅーPhotoGallery"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_46df6fb3-f687-4bf1-9df5-8142a4ca4073",
                     "Name": "casa"
-                },
-                {
-                    "ID": "wrld_155ed566-9107-4c04-a702-14e7e35e08c8",
-                    "Name": "Rooftop"
-                },
-                {
-                    "ID": "wrld_419e2702-4500-4223-aa54-4c347cda286d",
-                    "Name": "Biblioteca Medieval"
-                },
-                {
-                    "ID": "wrld_5c65cedb-57bc-4cb7-9a95-2a73266c915f",
-                    "Name": "드남 전용 놀이방"
-                },
-                {
-                    "ID": "wrld_039c7cae-fbe7-4969-8b69-cce251d1bd02",
-                    "Name": "Worldola"
-                },
-                {
-                    "ID": "wrld_cc02e2d0-e1fc-47d7-8099-a1ef729bb95d",
-                    "Name": "void with mirror"
-                },
-                {
-                    "ID": "wrld_89378e19-61bf-46ab-9d88-13a50f88bab9",
-                    "Name": "Nest"
-                },
-                {
-                    "ID": "wrld_a014913d-e647-4038-a176-856d62ddb81d",
-                    "Name": "1․Bootss 28c8 World"
-                },
-                {
-                    "ID": "wrld_194ed490-dc5a-46d6-be44-c4da5c80294e",
-                    "Name": "Papa's Domain"
-                },
-                {
-                    "ID": "wrld_588576c5-b69e-4c2e-aa6a-86113675dab6",
-                    "Name": "Levamentum"
-                },
-                {
-                    "ID": "wrld_05eb66b0-7ba3-4fd2-ac70-0a5740e95eab",
-                    "Name": "Deeply Intellectual"
                 }
             ]
         }
