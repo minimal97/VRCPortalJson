@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_86ee943c-f7bd-414e-99d2-4941fd790a07",
+                    "Name": "Normal House"
+                },
+                {
+                    "ID": "wrld_d52a08b7-02c7-4255-9cb7-78a7798e5963",
+                    "Name": "Tatami64Test"
+                },
+                {
+                    "ID": "wrld_51641aec-c59e-40d7-a050-4842eb5eb045",
+                    "Name": "Simpo's Birthday Museum ⁄ 심포님의 생일미술관"
+                },
+                {
+                    "ID": "wrld_8ea2c8d5-516a-403d-bf57-2073175d3964",
+                    "Name": "ちなつ誕生日会"
+                },
+                {
+                    "ID": "wrld_b2d42cbb-6a85-4b78-bd3a-476f937850e4",
+                    "Name": "I Ching Practice ⁄ 易"
+                },
+                {
+                    "ID": "wrld_17434a6b-7ba6-4b0d-835d-19f4b5f803b0",
+                    "Name": "kingstudio"
+                },
+                {
+                    "ID": "wrld_14845937-e103-49db-9ab5-24eac507a82a",
+                    "Name": "NOKIMA"
+                },
+                {
+                    "ID": "wrld_8aec31bd-21f4-44ef-bc7d-d81fb8d2dee8",
+                    "Name": "Ultraman Fighting 再见奥特曼"
+                },
+                {
+                    "ID": "wrld_1cc4c7e5-6848-4ae3-906d-66b758ce3a80",
+                    "Name": "Echoescrom"
+                },
+                {
+                    "ID": "wrld_64aba823-4787-44c4-907b-e535e50cdd89",
+                    "Name": "310HOUSE"
+                },
+                {
+                    "ID": "wrld_608e738d-476d-4fb7-9d18-cac527e48844",
+                    "Name": "FoN Knight training world"
+                },
+                {
                     "ID": "wrld_a2b10864-ad3b-41ac-8d01-66a7bc8fdb6e",
                     "Name": "IYDTAS Techno Clubǃ"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_32e2eb39-6aaf-4eb8-af7c-39698a53c581",
                     "Name": "MuriCafe07 鯉のぼり_Spring_Day"
-                },
-                {
-                    "ID": "wrld_60d6b528-9bad-40dd-9baa-fe15e6d0a2f0",
-                    "Name": "Sanctuary of Memories"
-                },
-                {
-                    "ID": "wrld_1b86eaac-3486-4819-b947-70bfac4f587a",
-                    "Name": "My Home World"
-                },
-                {
-                    "ID": "wrld_7996cb7c-93ba-457a-bc18-cf24e5709b71",
-                    "Name": "Toxicly Sweet"
-                },
-                {
-                    "ID": "wrld_78d443b1-f774-489a-830e-5ad6443933f4",
-                    "Name": "Chilling Room"
-                },
-                {
-                    "ID": "wrld_6565d29c-898e-4eca-989b-98c162269912",
-                    "Name": "후원테스트 빌드"
-                },
-                {
-                    "ID": "wrld_206ebe92-9003-45b5-b7d6-82ca8209caa4",
-                    "Name": "ǃ（Trusts）（Shiny）（＠）（＋）（＃8․7）（＠≻＋Worlds＋≺＠）（＠≻＋VoicesShiature＋≺＠）"
-                },
-                {
-                    "ID": "wrld_00022cb3-1f84-423f-b9de-8c4e22213e03",
-                    "Name": "ちょっちの家"
-                },
-                {
-                    "ID": "wrld_65b05556-284e-4157-b532-43acab54b54d",
-                    "Name": "Treats"
-                },
-                {
-                    "ID": "wrld_47d43d65-d93a-4707-a3ef-91de6845fa8b",
-                    "Name": "I made this in 5 minutes"
-                },
-                {
-                    "ID": "wrld_38efde22-cefd-419d-8f94-a8294c867118",
-                    "Name": "Simple Communicate Space"
-                },
-                {
-                    "ID": "wrld_85526356-e830-4b70-885f-94cefb138c42",
-                    "Name": "The evening lights"
                 }
             ]
         }
