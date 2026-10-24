@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_ea3f2b68-87eb-443d-abe2-09c78ae14831",
+                    "Name": "是他还是她？！选择现场"
+                },
+                {
+                    "ID": "wrld_cb4eeed7-46f1-4040-8d32-aa15db467531",
+                    "Name": "CSAVR"
+                },
+                {
+                    "ID": "wrld_a3dee0ba-2dda-4992-89ce-443a17ad2f5c",
+                    "Name": "ぽれさまはねりをしまつ"
+                },
+                {
+                    "ID": "wrld_af646ea6-b1a4-4bf7-8eb6-718c45d32422",
+                    "Name": "Akex's Home"
+                },
+                {
+                    "ID": "wrld_2730d0dc-fe89-4139-beed-e7fadc93f119",
+                    "Name": "bar"
+                },
+                {
+                    "ID": "wrld_d6237b14-89c4-4ad3-aba6-59ca6fe4b89d",
+                    "Name": "Love"
+                },
+                {
+                    "ID": "wrld_665db0d9-cd4d-4ffe-88f8-6d7600b473c1",
+                    "Name": "Voxel's Supersized Room"
+                },
+                {
+                    "ID": "wrld_2e4aee82-7294-4ce7-b8bc-ece315ebd017",
+                    "Name": "Scuffed Greece"
+                },
+                {
+                    "ID": "wrld_d9b00480-d40f-4b45-8581-b27e6782d757",
+                    "Name": "ゴールドパニック！"
+                },
+                {
+                    "ID": "wrld_fd3b1ef4-7f7f-4e8f-965f-493d680f14a5",
+                    "Name": "Summer Camp Camp 2025"
+                },
+                {
+                    "ID": "wrld_02a75f0d-859c-4dfe-b1c3-2d62f6f799cd",
+                    "Name": "mori"
+                },
+                {
                     "ID": "wrld_86ee943c-f7bd-414e-99d2-4941fd790a07",
                     "Name": "Normal House"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_6d3cf274-7e64-4bd3-8bfb-5fff4b88e5be",
                     "Name": "Imaginary Dream"
-                },
-                {
-                    "ID": "wrld_3b7257ce-ab22-4686-aaab-a544bf711a1a",
-                    "Name": "제3세계협동조회의실"
-                },
-                {
-                    "ID": "wrld_cdd794ec-9b6b-41fa-a361-a78cf62db97e",
-                    "Name": "My world"
-                },
-                {
-                    "ID": "wrld_587bb887-977e-4560-94cb-9f1271eca786",
-                    "Name": "Pitch Black"
-                },
-                {
-                    "ID": "wrld_95d7cc5b-b80d-47e6-b40a-29bdf99b0608",
-                    "Name": "WWG 영화제 맵（민수의 방）"
-                },
-                {
-                    "ID": "wrld_0323f7dc-5ee9-45e2-99bf-8688d8e75b24",
-                    "Name": "Happy 3 Months"
-                },
-                {
-                    "ID": "wrld_1cc9d090-4776-4d12-8f10-0b255568ecfe",
-                    "Name": "Poe ashville"
-                },
-                {
-                    "ID": "wrld_397f0ed3-5a85-484e-8e2f-6d9fd5d5d53d",
-                    "Name": "KUZEY SHOW ROOM"
-                },
-                {
-                    "ID": "wrld_b4c509f4-3fb2-49f3-b87a-493d8be320fa",
-                    "Name": "Sunderer's Pass"
-                },
-                {
-                    "ID": "wrld_c5791d88-dc6e-4735-b9ae-84912d91a6c6",
-                    "Name": "アラマアの家 - 作ってる最中 Aramaa"
-                },
-                {
-                    "ID": "wrld_a1233ef3-7803-46a5-83d5-52ac9ce6b872",
-                    "Name": "思い出"
-                },
-                {
-                    "ID": "wrld_32e2eb39-6aaf-4eb8-af7c-39698a53c581",
-                    "Name": "MuriCafe07 鯉のぼり_Spring_Day"
                 }
             ]
         }
