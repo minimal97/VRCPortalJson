@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_2fcd1561-e874-4547-a915-fb2e5b6573aa",
+                    "Name": "VRChat Italia Official - Museo Carciofetti"
+                },
+                {
+                    "ID": "wrld_cfdbba97-8740-4e53-8b21-1e17f50f404e",
+                    "Name": "Meditative Shore"
+                },
+                {
+                    "ID": "wrld_df27fc73-9813-41e5-be6f-a1dace3b3ae8",
+                    "Name": "Another Skyline"
+                },
+                {
+                    "ID": "wrld_02c51ac8-9db2-4dac-a714-ee091cbf5917",
+                    "Name": "hazeltein"
+                },
+                {
+                    "ID": "wrld_e07a8a64-9532-414c-b822-7e0b7aca7700",
+                    "Name": "Wayfinders Home"
+                },
+                {
+                    "ID": "wrld_64fb13cf-11a2-4fe6-98a0-6d6c754ff0fd",
+                    "Name": "Power is Power"
+                },
+                {
+                    "ID": "wrld_6c50eb7a-43ed-4bae-af9f-f29952dd6c08",
+                    "Name": "UFC HANGOUT"
+                },
+                {
+                    "ID": "wrld_8bbf8c66-e18e-4a92-ad12-f158e8ffb321",
+                    "Name": "ryu's memories"
+                },
+                {
+                    "ID": "wrld_0245e32b-e861-493d-badd-cb4975fc358b",
+                    "Name": "I really dont know if this works"
+                },
+                {
+                    "ID": "wrld_88469908-6f1f-4047-b8e6-05cc7a36fe24",
+                    "Name": "Kurime House"
+                },
+                {
+                    "ID": "wrld_abc7f991-1c8e-479e-b529-7a72cf33a1a8",
+                    "Name": "Honoka House"
+                },
+                {
                     "ID": "wrld_ea3f2b68-87eb-443d-abe2-09c78ae14831",
                     "Name": "是他还是她？！选择现场"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_8aec31bd-21f4-44ef-bc7d-d81fb8d2dee8",
                     "Name": "Ultraman Fighting 再见奥特曼"
-                },
-                {
-                    "ID": "wrld_1cc4c7e5-6848-4ae3-906d-66b758ce3a80",
-                    "Name": "Echoescrom"
-                },
-                {
-                    "ID": "wrld_64aba823-4787-44c4-907b-e535e50cdd89",
-                    "Name": "310HOUSE"
-                },
-                {
-                    "ID": "wrld_608e738d-476d-4fb7-9d18-cac527e48844",
-                    "Name": "FoN Knight training world"
-                },
-                {
-                    "ID": "wrld_a2b10864-ad3b-41ac-8d01-66a7bc8fdb6e",
-                    "Name": "IYDTAS Techno Clubǃ"
-                },
-                {
-                    "ID": "wrld_a8e2eb06-2610-4226-8b6a-00a5d3a11fa1",
-                    "Name": "Lotus ＆ me"
-                },
-                {
-                    "ID": "wrld_20e0f6c8-0cbe-40fd-90fa-7a4867c04943",
-                    "Name": "Darky's home world lol"
-                },
-                {
-                    "ID": "wrld_92ec632b-1a45-48a6-b33d-7dd118362a8c",
-                    "Name": "kisaragiの家"
-                },
-                {
-                    "ID": "wrld_5758a75e-909e-4e7b-9592-203ffafaded6",
-                    "Name": "Noh Theatre"
-                },
-                {
-                    "ID": "wrld_89d0ea12-6c78-44d9-ae3d-32397e48c47a",
-                    "Name": "Perfect garage v5"
-                },
-                {
-                    "ID": "wrld_ecdef8c7-694e-45a0-bf0e-9642de53f286",
-                    "Name": "Pog"
-                },
-                {
-                    "ID": "wrld_6d3cf274-7e64-4bd3-8bfb-5fff4b88e5be",
-                    "Name": "Imaginary Dream"
                 }
             ]
         }
