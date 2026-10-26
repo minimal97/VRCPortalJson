@@ -1347,6 +1347,42 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_b49ef0f4-0a35-4c59-9ed8-c64fbadd8a82",
+                    "Name": "裏庭工房"
+                },
+                {
+                    "ID": "wrld_872c32da-9066-4003-9bff-6006076ddf51",
+                    "Name": "The Stars Align Society"
+                },
+                {
+                    "ID": "wrld_831a8ca0-b285-44a8-a8ad-1cf24745c30c",
+                    "Name": "海嗣攻略组"
+                },
+                {
+                    "ID": "wrld_2826c338-3f3a-4f41-b81c-9a18c6793aa9",
+                    "Name": "Vendetta's View"
+                },
+                {
+                    "ID": "wrld_9fc71678-97c8-490f-9772-85fcdb1bf72d",
+                    "Name": "细水共笛吟"
+                },
+                {
+                    "ID": "wrld_6534ff90-dca0-4df0-a5ec-a023fbbd67c2",
+                    "Name": "JUSTDUCKY_女子アバター集会場"
+                },
+                {
+                    "ID": "wrld_0a3d4915-006d-40e2-b40d-6dba92655d9f",
+                    "Name": "Missy World"
+                },
+                {
+                    "ID": "wrld_6c4a30fd-ed1c-48d8-afbb-251a63f5a437",
+                    "Name": "Shed 17"
+                },
+                {
+                    "ID": "wrld_c6373696-2071-4ec1-98cd-1bc0255895c2",
+                    "Name": "Paddys boop"
+                },
+                {
                     "ID": "wrld_2fcd1561-e874-4547-a915-fb2e5b6573aa",
                     "Name": "VRChat Italia Official - Museo Carciofetti"
                 },
@@ -1429,42 +1465,6 @@
                 {
                     "ID": "wrld_fd3b1ef4-7f7f-4e8f-965f-493d680f14a5",
                     "Name": "Summer Camp Camp 2025"
-                },
-                {
-                    "ID": "wrld_02a75f0d-859c-4dfe-b1c3-2d62f6f799cd",
-                    "Name": "mori"
-                },
-                {
-                    "ID": "wrld_86ee943c-f7bd-414e-99d2-4941fd790a07",
-                    "Name": "Normal House"
-                },
-                {
-                    "ID": "wrld_d52a08b7-02c7-4255-9cb7-78a7798e5963",
-                    "Name": "Tatami64Test"
-                },
-                {
-                    "ID": "wrld_51641aec-c59e-40d7-a050-4842eb5eb045",
-                    "Name": "Simpo's Birthday Museum ⁄ 심포님의 생일미술관"
-                },
-                {
-                    "ID": "wrld_8ea2c8d5-516a-403d-bf57-2073175d3964",
-                    "Name": "ちなつ誕生日会"
-                },
-                {
-                    "ID": "wrld_b2d42cbb-6a85-4b78-bd3a-476f937850e4",
-                    "Name": "I Ching Practice ⁄ 易"
-                },
-                {
-                    "ID": "wrld_17434a6b-7ba6-4b0d-835d-19f4b5f803b0",
-                    "Name": "kingstudio"
-                },
-                {
-                    "ID": "wrld_14845937-e103-49db-9ab5-24eac507a82a",
-                    "Name": "NOKIMA"
-                },
-                {
-                    "ID": "wrld_8aec31bd-21f4-44ef-bc7d-d81fb8d2dee8",
-                    "Name": "Ultraman Fighting 再见奥特曼"
                 }
             ]
         }
