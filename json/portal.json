@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_301b2210-c466-4ed8-8650-06d23992e242",
+                    "Name": "Cxinity's music world"
+                },
+                {
+                    "ID": "wrld_5b0e0476-0c53-4624-8325-730266bedcb6",
+                    "Name": "Tarot_Star"
+                },
+                {
+                    "ID": "wrld_6534a0a7-a218-4519-bdd8-5f9b24047e11",
+                    "Name": "Laurenti´s Room"
+                },
+                {
+                    "ID": "wrld_eb61f1cd-32d9-4d1e-9a6d-7bdb209e6f63",
+                    "Name": "Adam Sandler Appreciation World"
+                },
+                {
+                    "ID": "wrld_c2b4caa6-b504-4849-8841-ddf37346f0c1",
+                    "Name": "The Hangar Hangout"
+                },
+                {
+                    "ID": "wrld_ea80fe1b-2b46-445f-9fdc-d8606b4ec758",
+                    "Name": "あなたは正気を保てるか"
+                },
+                {
+                    "ID": "wrld_1fb15ea6-e4fa-475d-80fa-b8cda0f4d943",
+                    "Name": "星継のレガシリア VRギャラリー"
+                },
+                {
+                    "ID": "wrld_dc2e9786-4ab6-4097-abb2-9475a1d04b32",
+                    "Name": "Modstruc Showcase"
+                },
+                {
+                    "ID": "wrld_f3024652-83ea-4c89-b13e-d4d83aea4384",
+                    "Name": "Vidio Room"
+                },
+                {
+                    "ID": "wrld_fc1e04c2-f3b1-4371-a21b-eab67f6b895b",
+                    "Name": "~ Place Holder World 35 ~"
+                },
+                {
+                    "ID": "wrld_8a3fd5b3-df4b-484f-9131-024c68b6fbfd",
+                    "Name": "Roddy Ricch - The Box"
+                },
+                {
                     "ID": "wrld_b49ef0f4-0a35-4c59-9ed8-c64fbadd8a82",
                     "Name": "裏庭工房"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_88469908-6f1f-4047-b8e6-05cc7a36fe24",
                     "Name": "Kurime House"
-                },
-                {
-                    "ID": "wrld_abc7f991-1c8e-479e-b529-7a72cf33a1a8",
-                    "Name": "Honoka House"
-                },
-                {
-                    "ID": "wrld_ea3f2b68-87eb-443d-abe2-09c78ae14831",
-                    "Name": "是他还是她？！选择现场"
-                },
-                {
-                    "ID": "wrld_cb4eeed7-46f1-4040-8d32-aa15db467531",
-                    "Name": "CSAVR"
-                },
-                {
-                    "ID": "wrld_a3dee0ba-2dda-4992-89ce-443a17ad2f5c",
-                    "Name": "ぽれさまはねりをしまつ"
-                },
-                {
-                    "ID": "wrld_af646ea6-b1a4-4bf7-8eb6-718c45d32422",
-                    "Name": "Akex's Home"
-                },
-                {
-                    "ID": "wrld_2730d0dc-fe89-4139-beed-e7fadc93f119",
-                    "Name": "bar"
-                },
-                {
-                    "ID": "wrld_d6237b14-89c4-4ad3-aba6-59ca6fe4b89d",
-                    "Name": "Love"
-                },
-                {
-                    "ID": "wrld_665db0d9-cd4d-4ffe-88f8-6d7600b473c1",
-                    "Name": "Voxel's Supersized Room"
-                },
-                {
-                    "ID": "wrld_2e4aee82-7294-4ce7-b8bc-ece315ebd017",
-                    "Name": "Scuffed Greece"
-                },
-                {
-                    "ID": "wrld_d9b00480-d40f-4b45-8581-b27e6782d757",
-                    "Name": "ゴールドパニック！"
-                },
-                {
-                    "ID": "wrld_fd3b1ef4-7f7f-4e8f-965f-493d680f14a5",
-                    "Name": "Summer Camp Camp 2025"
                 }
             ]
         }
