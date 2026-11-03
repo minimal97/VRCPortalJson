@@ -1347,6 +1347,42 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_2c32bcf8-0460-4f8d-a71d-f1cada1856a5",
+                    "Name": "Soviet Apartament"
+                },
+                {
+                    "ID": "wrld_4bcd6f8f-df47-471b-b011-6e1b5bd6b0a5",
+                    "Name": "Hangout area"
+                },
+                {
+                    "ID": "wrld_70ad7127-5eb9-4909-a3fe-168c73fc47a0",
+                    "Name": "Caw Flag Upǃ"
+                },
+                {
+                    "ID": "wrld_38dce1c4-60f5-45a2-b1d4-d1a7e260100e",
+                    "Name": "なる誕生日パーティーHappy Birthday to nqrudy_"
+                },
+                {
+                    "ID": "wrld_27b4428e-217c-44a0-9337-d8491d084f29",
+                    "Name": "アバターの透過撮影・ドローン操作練習ワールド"
+                },
+                {
+                    "ID": "wrld_f2a0c078-9dde-40ab-881e-eba36302504b",
+                    "Name": "Boo's home"
+                },
+                {
+                    "ID": "wrld_63e5b59b-3de7-4fa5-b4d2-f76dd25d8e8c",
+                    "Name": "ポストプロセスをスライダーで調整できるだけのワールド⁄PP-Slider Photo World"
+                },
+                {
+                    "ID": "wrld_99f92898-5064-413d-ae0a-4876fdb02d26",
+                    "Name": "大和海岸"
+                },
+                {
+                    "ID": "wrld_8c094904-b1b2-4589-9830-4aa27c689bab",
+                    "Name": "Missing"
+                },
+                {
                     "ID": "wrld_c81c257c-16df-4779-ad9f-304ff3aeec67",
                     "Name": "Destruidor de suzuya"
                 },
@@ -1429,42 +1465,6 @@
                 {
                     "ID": "wrld_abde2055-87c7-49d4-ab7f-48310c13158b",
                     "Name": "TangNiE Room"
-                },
-                {
-                    "ID": "wrld_d43fe958-058b-4d37-8d9e-751fc129310a",
-                    "Name": "dark"
-                },
-                {
-                    "ID": "wrld_9fa32d93-0372-4d56-845b-79589b31a121",
-                    "Name": "Mine world"
-                },
-                {
-                    "ID": "wrld_b1380db3-faff-4f9f-b34f-33d5cefc4664",
-                    "Name": "Yuki work place"
-                },
-                {
-                    "ID": "wrld_3025fa5c-a14f-4612-9be1-5283c17ee545",
-                    "Name": "Smashhole"
-                },
-                {
-                    "ID": "wrld_c3ca7668-96fc-4e71-a132-81554a95fb7d",
-                    "Name": "Schokoladen Hub"
-                },
-                {
-                    "ID": "wrld_0af3d442-6173-4b8e-8b21-25d9f9b0576a",
-                    "Name": "Vibe Time"
-                },
-                {
-                    "ID": "wrld_b0c69400-c9e0-4d07-996f-449d9bf4b9f1",
-                    "Name": "Club A"
-                },
-                {
-                    "ID": "wrld_9ff29a38-034a-448e-8a1f-ae763c5280d2",
-                    "Name": "Chaotic Bosses （In Development）"
-                },
-                {
-                    "ID": "wrld_34a31876-ffa1-42ea-a440-843c861efb48",
-                    "Name": "Rycia's Interstellar"
                 }
             ]
         }
