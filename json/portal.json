@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_7a0e9cca-bf9a-4db4-a74e-c2b640ab1761",
+                    "Name": "-----------------"
+                },
+                {
+                    "ID": "wrld_1560ef8f-a593-4489-8ca0-3ae192c628c4",
+                    "Name": "ツクモハウス"
+                },
+                {
+                    "ID": "wrld_fdcde7d3-47a9-4dda-8c80-3e195a557106",
+                    "Name": "The Demons Gate Underworld"
+                },
+                {
+                    "ID": "wrld_9e203941-6391-494d-b343-82f49d5314ff",
+                    "Name": "たぬっこホーム"
+                },
+                {
+                    "ID": "wrld_b38b11ce-8695-42d9-ad3e-9ccf25d5baf5",
+                    "Name": "Y"
+                },
+                {
+                    "ID": "wrld_50a852a2-13c7-42d6-93b5-a0f02441b84b",
+                    "Name": "Times Game World"
+                },
+                {
+                    "ID": "wrld_59842c96-6593-4e18-ac5b-3241ab41b9d1",
+                    "Name": "PP Outdoor Idea"
+                },
+                {
+                    "ID": "wrld_e541c231-f704-449f-8f51-e97da0098a63",
+                    "Name": "ruyaaaa room"
+                },
+                {
+                    "ID": "wrld_aab0f1a7-a00b-4fa2-ab41-6f72bbf1e4a7",
+                    "Name": "Clan Icebornes base by Mori"
+                },
+                {
+                    "ID": "wrld_8b78a2bc-cca1-451b-b1b3-43a22cb23390",
+                    "Name": "Furry Friends and More - Public Event World"
+                },
+                {
                     "ID": "wrld_aa3f7666-286b-4d28-ae62-339295390c89",
                     "Name": "testing"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_8c094904-b1b2-4589-9830-4aa27c689bab",
                     "Name": "Missing"
-                },
-                {
-                    "ID": "wrld_c81c257c-16df-4779-ad9f-304ff3aeec67",
-                    "Name": "Destruidor de suzuya"
-                },
-                {
-                    "ID": "wrld_e30099aa-e34f-47e9-8485-76b6ff2834b7",
-                    "Name": "Trials of Hel Heim"
-                },
-                {
-                    "ID": "wrld_380fde3a-b37e-4379-823d-a1b87ec0ecc7",
-                    "Name": "The Lounge"
-                },
-                {
-                    "ID": "wrld_3be22693-37fa-4faf-9e59-befe5e056c76",
-                    "Name": "Room HomeWorld"
-                },
-                {
-                    "ID": "wrld_4c126c81-410c-4066-8341-6730f97dc4eb",
-                    "Name": "My dream living room"
-                },
-                {
-                    "ID": "wrld_22511de1-6d12-4e09-9b06-2bcc6f6bab63",
-                    "Name": "VibeOutNStuff"
-                },
-                {
-                    "ID": "wrld_db392e09-ef3c-482b-81d2-7caa20ee6def",
-                    "Name": "The JH Show Podcast"
-                },
-                {
-                    "ID": "wrld_627e40d4-1aa5-4684-92e4-f6856448176d",
-                    "Name": "SeiraMoriru's Snow Mountain Lodge"
-                },
-                {
-                    "ID": "wrld_508a30fb-897b-4425-80c4-6edb21aaa1fc",
-                    "Name": "休闲小家"
-                },
-                {
-                    "ID": "wrld_21d9f488-17cd-440a-905e-06641532368d",
-                    "Name": "SUMMER"
                 }
             ]
         }
