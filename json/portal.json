@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_88c1413c-4d9c-4abe-8e34-f8036b8670fe",
+                    "Name": "Loli HQ"
+                },
+                {
+                    "ID": "wrld_4fb40e03-4674-4eb1-8576-ca272d8bcc08",
+                    "Name": "Courtyard"
+                },
+                {
+                    "ID": "wrld_80471ac4-8709-4313-9a37-cea311a7874e",
+                    "Name": "Hello World"
+                },
+                {
+                    "ID": "wrld_1b6ed0fe-897b-4b65-adf9-0b8f24817295",
+                    "Name": "Breathwork Studio"
+                },
+                {
+                    "ID": "wrld_00422778-ee4a-4bc3-9ca1-d7898e395b8c",
+                    "Name": "Panda's Home"
+                },
+                {
+                    "ID": "wrld_5d5e2585-ea70-4cf8-8d46-42fc4015b699",
+                    "Name": "yes"
+                },
+                {
+                    "ID": "wrld_d9b700f4-b985-4129-9d20-7fa48e885c1d",
+                    "Name": "Eva's Saloon"
+                },
+                {
+                    "ID": "wrld_3484a83a-b99b-4f37-8080-9ef39941ab86",
+                    "Name": "Yukiki House"
+                },
+                {
+                    "ID": "wrld_a09d40da-7430-40e3-b915-0d4e6dc43390",
+                    "Name": "Mirror World"
+                },
+                {
+                    "ID": "wrld_1329d229-e0e1-45b3-843f-19278ced536d",
+                    "Name": "JMLC Airlines"
+                },
+                {
+                    "ID": "wrld_9c59c514-6d63-409a-be54-a9596c4bf2b5",
+                    "Name": "플리의 1주년을 축하해"
+                },
+                {
                     "ID": "wrld_dbdf2b34-9932-4787-87f0-77c6c51c0fde",
                     "Name": "Kittymcpancakes"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_179c7a5e-d888-42f8-9fb4-37f92cbec012",
                     "Name": "Naz's bedroom"
-                },
-                {
-                    "ID": "wrld_21c0504e-65d0-497f-a6b1-9f27350e8c75",
-                    "Name": "Primo Chill"
-                },
-                {
-                    "ID": "wrld_b0cb36dc-a0fa-42da-a61f-895384c790e9",
-                    "Name": "Just Piggy"
-                },
-                {
-                    "ID": "wrld_926d6f44-04a7-47c6-acff-f7353952b79a",
-                    "Name": "Neo Chill Apartment （UC）"
-                },
-                {
-                    "ID": "wrld_ebb385a6-e62b-4f42-9406-0ba16081151b",
-                    "Name": "room doshi"
-                },
-                {
-                    "ID": "wrld_c99b1ee3-8a77-478d-8506-58a6d2d37266",
-                    "Name": "ぷらあいべーとなおへや"
-                },
-                {
-                    "ID": "wrld_e91655e5-d514-4ef2-8936-1f3eada924c3",
-                    "Name": "꿀 스위치 하우스"
-                },
-                {
-                    "ID": "wrld_5ad7f469-3472-42d6-a1e6-6f7f64a3d392",
-                    "Name": "Fubuking's House"
-                },
-                {
-                    "ID": "wrld_d7bc3eb9-7f73-4690-933b-03375c03e158",
-                    "Name": "The Bears Hideout"
-                },
-                {
-                    "ID": "wrld_ccd418e6-dd35-448c-a607-8b363d05a250",
-                    "Name": "Worl1 By a"
-                },
-                {
-                    "ID": "wrld_66a3a48e-ec7b-4969-b782-fed35989ad76",
-                    "Name": "Plane"
-                },
-                {
-                    "ID": "wrld_48e4416a-88a7-4a65-8881-2008e1e209a0",
-                    "Name": "Dallas Room"
                 }
             ]
         }
