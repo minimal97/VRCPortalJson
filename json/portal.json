@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_ad3ee010-aa18-4720-9246-e664b6fec307",
+                    "Name": "ARCADE LAND OPEN 24⁄7"
+                },
+                {
+                    "ID": "wrld_9a23091f-2e45-4668-b9f3-8afd538aa75a",
+                    "Name": "SirFap's Snow Mountain Haven （WIP）"
+                },
+                {
+                    "ID": "wrld_a7e343b7-c7f5-4434-8a99-cf3702e36605",
+                    "Name": "タイヤマワスゼ"
+                },
+                {
+                    "ID": "wrld_9c1c6395-9ff9-4b04-a247-e4b39d85bd37",
+                    "Name": "mushroom bar"
+                },
+                {
+                    "ID": "wrld_f1a25005-81e9-4c09-9fd2-84698dffa0f8",
+                    "Name": "Bar-Cigales-"
+                },
+                {
+                    "ID": "wrld_a74ac424-0f9e-429a-a4a7-93fdb53a1d66",
+                    "Name": "PVP City"
+                },
+                {
+                    "ID": "wrld_091b4b20-47de-4ae2-9781-3c7adffc5690",
+                    "Name": "GrayRoom"
+                },
+                {
+                    "ID": "wrld_c5cf5222-4cb1-44fa-96b1-743e1273f219",
+                    "Name": "Chai's V̸̡̨̨͎͉̤̯̝̰͉̦̼͓͙͕͙̼̣̼̥̽̀̍̍̍̈́̀̇͐̓͝Ǫ̸̨̡̡̤̩̲̻̫͚̼͔͎͎͉̣̦͍͒̅̾̂́̂̍̆̾̐͋̊̆́͋̓͝I̵̡͎̥̲͉̦̭͙̯͚̼̯̲͑̃̓̋̋̌͊̌̒͜Ď̷̢̧̮̙̝͍̺̦̥̗̜̬̀̌̍ͅ"
+                },
+                {
+                    "ID": "wrld_2d7610b2-b739-4723-8120-7d32a72e7696",
+                    "Name": "Asuhondo home world"
+                },
+                {
+                    "ID": "wrld_9b1a3383-22ca-4a85-afe4-8114e7ce2ee1",
+                    "Name": "Onyx's something"
+                },
+                {
+                    "ID": "wrld_cecf869a-83d5-43bc-af05-f6960fcc4b03",
+                    "Name": "JUBS Beach"
+                },
+                {
                     "ID": "wrld_88c1413c-4d9c-4abe-8e34-f8036b8670fe",
                     "Name": "Loli HQ"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_3c7eae87-126d-4d53-8408-56c00469e5df",
                     "Name": "World of UAVs"
-                },
-                {
-                    "ID": "wrld_7715a290-4714-4c0e-8212-dffcb4102c81",
-                    "Name": "test"
-                },
-                {
-                    "ID": "wrld_6e9bf8d7-b806-46c3-b716-ffe7f05c51f7",
-                    "Name": "TangNie and Chompoo178"
-                },
-                {
-                    "ID": "wrld_ef49505d-a436-4d04-b422-d57d5909e3f5",
-                    "Name": "万千妙妙屋"
-                },
-                {
-                    "ID": "wrld_32f75012-b3e8-4586-bf6d-a3cd04327bfc",
-                    "Name": "Afterparty Apt․ 902"
-                },
-                {
-                    "ID": "wrld_57fd0c32-e6cf-4655-a072-a8bb31818458",
-                    "Name": "WithSoul"
-                },
-                {
-                    "ID": "wrld_1120bd2a-b7b0-4f23-bfde-a3a50e39f064",
-                    "Name": "WPA-Test-MultiColor"
-                },
-                {
-                    "ID": "wrld_d226dc8d-b410-4d61-b970-982d848864b2",
-                    "Name": "car demo"
-                },
-                {
-                    "ID": "wrld_0b1adefe-8634-4a52-8727-62c1793e9947",
-                    "Name": "テストわーるど2"
-                },
-                {
-                    "ID": "wrld_978201d3-3fed-48e9-ac11-5fb8593f7237",
-                    "Name": "シマエナガドーム"
-                },
-                {
-                    "ID": "wrld_ddefd418-b271-43dd-99d1-965405e7e8f8",
-                    "Name": "The Golden Dove"
-                },
-                {
-                    "ID": "wrld_179c7a5e-d888-42f8-9fb4-37f92cbec012",
-                    "Name": "Naz's bedroom"
                 }
             ]
         }
