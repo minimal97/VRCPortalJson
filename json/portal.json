@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_acc4d36c-59be-4d4f-b098-1f779608dac2",
+                    "Name": "CHAIRMAN"
+                },
+                {
+                    "ID": "wrld_7f13d696-5325-472b-9006-0f5f2073ef5d",
+                    "Name": "Real VRchat Globe Court House"
+                },
+                {
+                    "ID": "wrld_a16888fe-509a-4e06-b7de-0bf1cd49a0db",
+                    "Name": "（Creator Demo） The Martin Theater"
+                },
+                {
+                    "ID": "wrld_bbd8a6c8-6270-4aff-8914-cf73e84d8dcf",
+                    "Name": "Aircommando's Drinking Night"
+                },
+                {
+                    "ID": "wrld_ece054ac-5628-4bb5-a0c4-1d552b6f3893",
+                    "Name": "Oz Christmas Bar"
+                },
+                {
+                    "ID": "wrld_10270af3-ed31-42fc-919e-2bca1090c40b",
+                    "Name": "Test area"
+                },
+                {
+                    "ID": "wrld_6e04e031-2b50-48c0-a355-65ffa3f0c541",
+                    "Name": "I'll Edge You"
+                },
+                {
+                    "ID": "wrld_71c80a65-bf6a-4368-8520-b3bee51936c4",
+                    "Name": "一个窝"
+                },
+                {
+                    "ID": "wrld_99c26e94-1a29-475a-845d-63c07852f8ad",
+                    "Name": "VDX"
+                },
+                {
+                    "ID": "wrld_026d9627-7f54-4d23-abd7-6e002a86e826",
+                    "Name": "Miracle Photo World"
+                },
+                {
+                    "ID": "wrld_bc38877f-8c1f-405a-8856-e4f4d12c79b9",
+                    "Name": "Dating Sim"
+                },
+                {
                     "ID": "wrld_2431e900-2da7-4f4a-a1e9-a353c0803255",
                     "Name": "ZK Movie Theater"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_461f0ee9-f528-43ef-a0d7-991adeff1ec2",
                     "Name": "DJ's chill space"
-                },
-                {
-                    "ID": "wrld_d870cf52-a68d-48ae-9dc9-fcfac8e60587",
-                    "Name": "Nekonek World"
-                },
-                {
-                    "ID": "wrld_cd1fa847-7c17-45a8-9729-f8c2a12a4a04",
-                    "Name": "Barbon's Bar （HEAVY WIP）"
-                },
-                {
-                    "ID": "wrld_998a8cec-161b-4969-9670-622fe85b792a",
-                    "Name": "Knedelaw House"
-                },
-                {
-                    "ID": "wrld_966d091a-fe2a-4dd4-bf0f-dad36d08d244",
-                    "Name": "ǃ（Trusts）（Shiny）（＠）（＋）（＃6․9）（＠≻＋Worlds＋≺＠）（＠≻＋VoicesShiature＋≺＠）"
-                },
-                {
-                    "ID": "wrld_449b77fa-7235-480c-a52f-2c7e0ff04ffc",
-                    "Name": "WHITE"
-                },
-                {
-                    "ID": "wrld_9c053561-d607-4d53-8d17-81a1cfdf1b13",
-                    "Name": "Crazy's Cursed Concoctions"
-                },
-                {
-                    "ID": "wrld_c34d9a2f-4ea4-442a-9985-d30d4c7414c5",
-                    "Name": "越山先悦己"
-                },
-                {
-                    "ID": "wrld_50c62450-f5c3-4968-a709-e2d410b90bbd",
-                    "Name": "Undersea"
-                },
-                {
-                    "ID": "wrld_baffb86d-2d63-4cdf-a6bb-1d1aa430780b",
-                    "Name": "Ele´s White Inversion"
-                },
-                {
-                    "ID": "wrld_ff778e01-a657-4ee2-a574-f15a2e2535e6",
-                    "Name": "KRYSTILIAN CLUB ＆ STREAMING"
-                },
-                {
-                    "ID": "wrld_44a4a41e-d9d3-48ea-b5b7-179feb44e858",
-                    "Name": "Foul Fall Tournament"
                 }
             ]
         }
