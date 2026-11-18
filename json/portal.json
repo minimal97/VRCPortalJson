@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_3f217964-edfe-476f-a091-364f0ee4a361",
+                    "Name": "Chill Forest"
+                },
+                {
+                    "ID": "wrld_33de9345-b16b-48c1-bf9c-663f6daa96d1",
+                    "Name": "Doggo loading world"
+                },
+                {
+                    "ID": "wrld_6c14f3e5-a885-4d7e-b86a-7dbf7bd72b5b",
+                    "Name": "Yuri_Cafe"
+                },
+                {
+                    "ID": "wrld_dd84f3e3-c60d-443a-b7f9-a3a2bb35a1f2",
+                    "Name": "タイガーマッチング"
+                },
+                {
+                    "ID": "wrld_be79c92b-26ec-4f9e-ace0-46aaae0bc66c",
+                    "Name": "Nebula Room"
+                },
+                {
+                    "ID": "wrld_7599fefb-0c77-4bd5-b577-752314dc292b",
+                    "Name": "Paracosma"
+                },
+                {
+                    "ID": "wrld_ee118bd9-e916-4441-b535-e55a54dd852e",
+                    "Name": "あの夏ときのここ"
+                },
+                {
+                    "ID": "wrld_79092957-e8aa-450d-8b69-2d393a2c417c",
+                    "Name": "Feline Nexus Clinic"
+                },
+                {
+                    "ID": "wrld_a4645dc6-66b2-46d3-99c2-303cd8c29030",
+                    "Name": "オカマBar【カマイタチ】"
+                },
+                {
+                    "ID": "wrld_f702c82b-dde1-4855-9e78-6d460085fbbb",
+                    "Name": "Sleep Room"
+                },
+                {
                     "ID": "wrld_7c611148-d758-4b7f-b06a-ed65b00f399d",
                     "Name": "Nothing'interesting"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_99c26e94-1a29-475a-845d-63c07852f8ad",
                     "Name": "VDX"
-                },
-                {
-                    "ID": "wrld_026d9627-7f54-4d23-abd7-6e002a86e826",
-                    "Name": "Miracle Photo World"
-                },
-                {
-                    "ID": "wrld_bc38877f-8c1f-405a-8856-e4f4d12c79b9",
-                    "Name": "Dating Sim"
-                },
-                {
-                    "ID": "wrld_2431e900-2da7-4f4a-a1e9-a353c0803255",
-                    "Name": "ZK Movie Theater"
-                },
-                {
-                    "ID": "wrld_c2e731af-d428-4010-b228-1532e193d9cc",
-                    "Name": "ビデオルーム"
-                },
-                {
-                    "ID": "wrld_78ad1ba1-a5a6-43f7-bb83-7bdc389c7ab9",
-                    "Name": "Tuna's Art Gallery"
-                },
-                {
-                    "ID": "wrld_7b787590-bc31-4e47-af06-644dddee5850",
-                    "Name": "1 world"
-                },
-                {
-                    "ID": "wrld_52894a61-69f0-4334-b645-90438f6014a7",
-                    "Name": "DidymusII's first world ǃ"
-                },
-                {
-                    "ID": "wrld_bd63d188-86ac-495e-b153-66546313512e",
-                    "Name": "柿の種部屋 kaki tane room"
-                },
-                {
-                    "ID": "wrld_f3e04057-c8f6-47b5-ac5d-21b9229c3412",
-                    "Name": "The Worldǃ 6ǃ"
-                },
-                {
-                    "ID": "wrld_23716ffd-5af1-4d04-9430-87f9ad1e1763",
-                    "Name": "MPS Temple"
                 }
             ]
         }
