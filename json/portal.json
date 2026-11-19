@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_6566e520-618a-4f2f-8ed5-33e83537615f",
+                    "Name": "Rainy Room"
+                },
+                {
+                    "ID": "wrld_2b5b44ca-02d6-419d-931c-3dc76a578472",
+                    "Name": "Sleepy's AVI WORLD"
+                },
+                {
+                    "ID": "wrld_ebe4f577-977f-43de-83ab-8bb9823e24ad",
+                    "Name": "The Meet Up"
+                },
+                {
+                    "ID": "wrld_d8945f56-96df-45a2-8683-97ab7ad46afa",
+                    "Name": "Test Map"
+                },
+                {
+                    "ID": "wrld_f4a41432-75a6-45e1-806d-63e98d6da3b4",
+                    "Name": "泡沫の空"
+                },
+                {
+                    "ID": "wrld_5ac533c4-8e78-4c0b-87ca-8716696f270f",
+                    "Name": "고멤 스타경기장 WWG"
+                },
+                {
+                    "ID": "wrld_e1fba48f-aa4a-40e6-98d3-e479d9d50884",
+                    "Name": "Archived"
+                },
+                {
+                    "ID": "wrld_cc0469f0-e52c-4dd3-80a0-203e3c21ac07",
+                    "Name": "Relax world"
+                },
+                {
+                    "ID": "wrld_92ed5dee-6f66-46e4-baa1-a5f883baa371",
+                    "Name": "J and H ≺3"
+                },
+                {
+                    "ID": "wrld_95bebf1f-cd76-4450-ad96-40006022111a",
+                    "Name": "smol apartment （beta 0․3）"
+                },
+                {
                     "ID": "wrld_3f217964-edfe-476f-a091-364f0ee4a361",
                     "Name": "Chill Forest"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_aad8890c-05a6-4fdf-8bf5-98bfbe3b28a0",
                     "Name": "Basement"
-                },
-                {
-                    "ID": "wrld_f2e45281-e91a-4a20-ba20-4368d9939c95",
-                    "Name": "easton box"
-                },
-                {
-                    "ID": "wrld_acc4d36c-59be-4d4f-b098-1f779608dac2",
-                    "Name": "CHAIRMAN"
-                },
-                {
-                    "ID": "wrld_7f13d696-5325-472b-9006-0f5f2073ef5d",
-                    "Name": "Real VRchat Globe Court House"
-                },
-                {
-                    "ID": "wrld_a16888fe-509a-4e06-b7de-0bf1cd49a0db",
-                    "Name": "（Creator Demo） The Martin Theater"
-                },
-                {
-                    "ID": "wrld_bbd8a6c8-6270-4aff-8914-cf73e84d8dcf",
-                    "Name": "Aircommando's Drinking Night"
-                },
-                {
-                    "ID": "wrld_ece054ac-5628-4bb5-a0c4-1d552b6f3893",
-                    "Name": "Oz Christmas Bar"
-                },
-                {
-                    "ID": "wrld_10270af3-ed31-42fc-919e-2bca1090c40b",
-                    "Name": "Test area"
-                },
-                {
-                    "ID": "wrld_6e04e031-2b50-48c0-a355-65ffa3f0c541",
-                    "Name": "I'll Edge You"
-                },
-                {
-                    "ID": "wrld_71c80a65-bf6a-4368-8520-b3bee51936c4",
-                    "Name": "一个窝"
-                },
-                {
-                    "ID": "wrld_99c26e94-1a29-475a-845d-63c07852f8ad",
-                    "Name": "VDX"
                 }
             ]
         }
