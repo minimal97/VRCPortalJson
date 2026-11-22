@@ -1347,6 +1347,50 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_74a95e88-5813-42b9-89b3-7a9956cb6b1c",
+                    "Name": "Cliff Wall Cove"
+                },
+                {
+                    "ID": "wrld_e80274c8-422c-4ab1-8a37-126a8496e4dc",
+                    "Name": "Club oBey"
+                },
+                {
+                    "ID": "wrld_239f492c-01b1-4b0e-8a12-d02eb1de5058",
+                    "Name": "Crystalization State"
+                },
+                {
+                    "ID": "wrld_ab0124da-0367-4112-a830-4c400262d223",
+                    "Name": "The Shark Tank TEST"
+                },
+                {
+                    "ID": "wrld_2bef83f2-0870-41b5-963a-94538dbae706",
+                    "Name": "4WX6's Cabin"
+                },
+                {
+                    "ID": "wrld_02517940-a215-4731-a793-ff33d901a8dc",
+                    "Name": "Pawn's Will（Morning）"
+                },
+                {
+                    "ID": "wrld_42c21a0e-79fe-4c6e-8bce-4a93e5453fa3",
+                    "Name": "Super Mario Bros - Lobby"
+                },
+                {
+                    "ID": "wrld_e0d4d4c0-d5e5-4379-b9e0-07ca22fbfaa4",
+                    "Name": "myhouse＾-＾"
+                },
+                {
+                    "ID": "wrld_5cb60e3a-d430-44c5-8b39-bb1a8b553e1f",
+                    "Name": "Window's Bedroom"
+                },
+                {
+                    "ID": "wrld_6c0336d3-af88-4808-9594-224d95daa367",
+                    "Name": "crystal cave chill"
+                },
+                {
+                    "ID": "wrld_7cac9e72-e01b-485b-88b4-51d1e5b8fb7d",
+                    "Name": "すば和室"
+                },
+                {
                     "ID": "wrld_224dd055-5759-4b76-9d72-a15c24ba0c24",
                     "Name": "CAN Classroom"
                 },
@@ -1421,50 +1465,6 @@
                 {
                     "ID": "wrld_0ce7023e-6ea7-448a-84f9-61ffd24a565d",
                     "Name": "test"
-                },
-                {
-                    "ID": "wrld_adfaa9f2-cae4-41ff-933a-4750b66eaa73",
-                    "Name": "フルトラ雑談交流場"
-                },
-                {
-                    "ID": "wrld_cb8e625c-7493-42fd-b291-8894ed32ae22",
-                    "Name": "RHouse"
-                },
-                {
-                    "ID": "wrld_6017534f-9a34-4c2b-8f27-6111c003ea6d",
-                    "Name": "The Maze"
-                },
-                {
-                    "ID": "wrld_6566e520-618a-4f2f-8ed5-33e83537615f",
-                    "Name": "Rainy Room"
-                },
-                {
-                    "ID": "wrld_2b5b44ca-02d6-419d-931c-3dc76a578472",
-                    "Name": "Sleepy's AVI WORLD"
-                },
-                {
-                    "ID": "wrld_ebe4f577-977f-43de-83ab-8bb9823e24ad",
-                    "Name": "The Meet Up"
-                },
-                {
-                    "ID": "wrld_d8945f56-96df-45a2-8683-97ab7ad46afa",
-                    "Name": "Test Map"
-                },
-                {
-                    "ID": "wrld_f4a41432-75a6-45e1-806d-63e98d6da3b4",
-                    "Name": "泡沫の空"
-                },
-                {
-                    "ID": "wrld_5ac533c4-8e78-4c0b-87ca-8716696f270f",
-                    "Name": "고멤 스타경기장 WWG"
-                },
-                {
-                    "ID": "wrld_e1fba48f-aa4a-40e6-98d3-e479d9d50884",
-                    "Name": "Archived"
-                },
-                {
-                    "ID": "wrld_cc0469f0-e52c-4dd3-80a0-203e3c21ac07",
-                    "Name": "Relax world"
                 }
             ]
         }
