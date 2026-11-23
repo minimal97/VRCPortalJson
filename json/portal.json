@@ -1347,6 +1347,46 @@
             "Category": "Community Labs",
             "Worlds": [
                 {
+                    "ID": "wrld_20dbb4fa-56d4-4adc-a3fe-35bf134859ac",
+                    "Name": "LA TORRE DI BABELE IN VR CHAT"
+                },
+                {
+                    "ID": "wrld_ff918aa6-25ef-4814-86c4-ac95cc4697a6",
+                    "Name": "Late Night Glitch Cat"
+                },
+                {
+                    "ID": "wrld_825f2816-2301-4c0c-8f9e-cd54cc96c107",
+                    "Name": "Medieval Magic （PC Only）"
+                },
+                {
+                    "ID": "wrld_19fe6816-b5db-45ac-a591-9e9b8e2be78d",
+                    "Name": "funny test"
+                },
+                {
+                    "ID": "wrld_958ee8bf-89d1-414a-a28b-d38e1d8be9da",
+                    "Name": "Poster3"
+                },
+                {
+                    "ID": "wrld_3075dccf-0c40-4b66-8343-17f0c07c9692",
+                    "Name": "Lumi窝"
+                },
+                {
+                    "ID": "wrld_01a803e1-4ebb-4fb6-b0d5-a8dc661b2199",
+                    "Name": "The Instance ｜ Mansion"
+                },
+                {
+                    "ID": "wrld_8de028ec-9856-4994-828c-03c65f936997",
+                    "Name": "Arri's room"
+                },
+                {
+                    "ID": "wrld_d381c6a1-b217-452c-a119-a0a4aeea3ecc",
+                    "Name": "Space Maze"
+                },
+                {
+                    "ID": "wrld_782d0812-1b68-468c-9cca-e84fca86e2b9",
+                    "Name": "Basement 2․0"
+                },
+                {
                     "ID": "wrld_74a95e88-5813-42b9-89b3-7a9956cb6b1c",
                     "Name": "Cliff Wall Cove"
                 },
@@ -1425,46 +1465,6 @@
                 {
                     "ID": "wrld_95901703-ab91-48ca-8d7a-80d2df32cff4",
                     "Name": "Mel's World"
-                },
-                {
-                    "ID": "wrld_e618e3c4-b6ec-4a99-a58b-e48819c63cb7",
-                    "Name": "Dollet （Battle）"
-                },
-                {
-                    "ID": "wrld_489c91a4-273d-4a14-8e1d-75e3227ed091",
-                    "Name": "Zegapain Bridge"
-                },
-                {
-                    "ID": "wrld_b7b7b710-e3e5-41d3-8b04-e8e3fbe88a71",
-                    "Name": "天穹市"
-                },
-                {
-                    "ID": "wrld_b8cd8824-c19d-494d-b7d1-44344ccd9b1d",
-                    "Name": "Yet Another Grassy Fight"
-                },
-                {
-                    "ID": "wrld_f7ca98ef-4ca2-4e28-9d59-47a07de6b345",
-                    "Name": "Lunar Drift"
-                },
-                {
-                    "ID": "wrld_dddad6e8-f922-4340-8025-fe31e54cbc58",
-                    "Name": "ダンス練習場"
-                },
-                {
-                    "ID": "wrld_22f9df0c-1363-471b-812d-88114170d9cd",
-                    "Name": "タビットツアーズ - Tabbit Tours -"
-                },
-                {
-                    "ID": "wrld_dd02f6de-fa82-4302-a3f9-0179503ce687",
-                    "Name": "Polar Paradise Tekken DR"
-                },
-                {
-                    "ID": "wrld_1c85992d-2d09-481d-b863-802a0b7b6e01",
-                    "Name": "チロリアン帝国イベント用ワールド"
-                },
-                {
-                    "ID": "wrld_0ce7023e-6ea7-448a-84f9-61ffd24a565d",
-                    "Name": "test"
                 }
             ]
         }
